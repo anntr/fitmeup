@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+<ul>
+  <% @menu.recipes.each do |recipe| %>
+      <li>
+        <%= recipe.name %> <br>
+        calories: <%= recipe.calories %> <br>
+        <%= recipe.instructions %>
+      </li>
+
+  <% end %>
+</ul>
+
+<%= link_to 'Edit', edit_menu_path(@menu) %> |
+<%= link_to 'Back', menus_path %>

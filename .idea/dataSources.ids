@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails fitmeup: development" uuid="92a43feb-ca96-4f5f-8a56-352ad800b563">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails fitmeup: test" uuid="135e4d9d-54d7-47f9-993b-4bf5994b16f7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails fitmeup: production" uuid="eafc4b3d-7a06-44c8-9cc2-ac56b0559ca2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
