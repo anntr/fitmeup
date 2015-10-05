@@ -46,27 +46,6 @@ class Dietician < Scientist
     end
   end
 
-=begin
-  def calc_fitness type, total_value = nil, chromosome = nil
-    p = rand.round(2)
-    ref_value = get_reference(type, chromosome)
-    total_value ||= chromosome.send(type)
-    if ( (ref_value*(1-0.5*p))<=total_value and total_value<=(ref_value*(1+0.5*p)) )
-      if type == "calories"
-        return 2
-      end
-      return 1
-    elsif ( ((ref_value*(1-p) <= total_value) and (total_value < ref_value*(1-0.5*p))) or ((ref_value*(1+p*0.5)) < total_value and (total_value <= ref_value*(1+p))) )
-      return 0
-    elsif ( (total_value < (ref_value*(1-p))) or (total_value > ref_value*(1+p)))
-      if type == "calories"
-        return -2
-      end
-      return -1
-    end
-  end
-=end
-
   def calc_fitness type, total_value = nil, chromosome = nil
     p = rand.round(2)
     ref_value = get_reference(type, chromosome)

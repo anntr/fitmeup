@@ -26,7 +26,7 @@ class MenusController < ApplicationController
   def generate
     calories = params[:calories]
     scientist = Dietician.new(calories.to_i)
-    laboratory = Laboratory.new scientist, Recipe.sort_for_algorithm
+    laboratory = Laboratory.new scientist, Recipe.sort_for_algorithm, 500
     res = laboratory.produce_result
     parse_results(res.first.chromosome_set)
     render "show"
