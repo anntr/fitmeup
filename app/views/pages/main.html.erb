@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="jumbotron text-center">
+    <h1>Układanie diety jeszcze nigdy nie było tak proste</h1>
+    <h2>Kontroluj swoje posiłki z FitMeUP</h2>
+  </div>
+  <%= form_tag controller: 'menus', action: 'generate' do %>
+      <div class="input-group input-group-lg col-md-6 col-md-offset-3">
+          <%= label_tag(:calories, "Ustal dietę na:", class: "input-group-addon") %>
+          <%= number_field_tag(:calories, 1500, within: 1300...2600, step: 100, class: "form-control")%>
+        <span class="input-group-addon"> kalorii</span>
+      </div>
+      <div class="text-center">
+          <i class="glyphicon glyphicon-apple"></i>
+          <br>
+          <%= submit_tag("GENERUJ ULTRA MENU", class: "btn btn-primary btn-lg") %>
+      </div>
+  <% end %>
+</div>

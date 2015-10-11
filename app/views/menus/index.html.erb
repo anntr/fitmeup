@@ -1,13 +1,5 @@
+<div class="container">
 <p id="notice"><%= notice %></p>
-
-<h1>Listing Menus</h1>
-
-<%= form_tag controller: 'menus', action: 'generate' do %>
-    <%= label_tag(:calories, "Ustal dietę na:") %>
-    <%= number_field_tag(:calories, 1500, within: 1300...2600, step: 100)%> kalorii
-    <br>
-    <%= submit_tag("GENERUJ ULTRA MENU") %>
-<% end %>
 
 <div id="menu">
 
@@ -34,3 +26,4 @@
 <br>
 
 <%= link_to 'New Menu', new_menu_path %>
+</div>

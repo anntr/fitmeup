@@ -1,14 +1,22 @@
 <p id="notice"><%= notice %></p>
-<ul>
-  <% @menu.recipes.each do |recipe| %>
-      <li>
-        <%= recipe.name %> <br>
-        calories: <%= recipe.calories %> <br>
-        <%= recipe.instructions %>
-      </li>
+<div class="row">
+<% @menu.recipes.each do |recipe| %>
+    <div class="col-md-6 col-md-offset-3">
+      <div class="panel panel-primary ">
+        <div class="panel-heading">
+          <span><%= recipe.name %></span>
+        </div>
+        <div class="panel-body">
+          <%= recipe.instructions %>
+        </div>
+        <div class="panel-footer"><%= recipe.calories %> kalorii</div>
+      </div>
+    </div>
+<% end %>
+</div>
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+<%= link_to 'Back', menus_path, class: "btn btn-default" %>
+  </div>
+  </div>
 
-  <% end %>
-</ul>
-
-<%= link_to 'Edit', edit_menu_path(@menu) %> |
-<%= link_to 'Back', menus_path %>

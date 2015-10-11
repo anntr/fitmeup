@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'pages/main'
+
+  get 'pages/about'
+
   resources :users
   resources :menus
   resources :ingredients
@@ -58,7 +62,7 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
 
-  root 'menus#index'
+  root 'pages#main'
 
   post 'generate', to: 'menus#generate'
 
