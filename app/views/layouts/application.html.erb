@@ -2,23 +2,30 @@
 <html>
 <head>
   <title>Fitmeup</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 <div class="navbar navbar-default" id="app-navbar">
-  <%= link_to "FitMeUP!", pages_main_path, class: "navbar-brand"  %>
+  <%= link_to "FitMeUP!", pages_main_path, class: "navbar-brand" %>
 
   <ul class="nav navbar-nav navbar-right">
+    <% if current_user %>
     <li><%= link_to "Menu", menus_path %></li>
+        <%end%>
     <li><%= link_to "Przepisy", recipes_path %></li>
     <li><%= link_to "Porady", "#" %></li>
-    <li><%= link_to "Zaloguj", "#" %></li>
+    <li>
+      <% if current_user %>
+          <%= link_to "Wyloguj", logout_path %>
+      <% else %>
+          <%= link_to "Zaloguj", login_path %>
+      <% end %>
+    </li>
   </ul>
 </div>
 
-<i class="glyphicon glyphicon-heart"></i>
 <%= yield %>
 
 </body>

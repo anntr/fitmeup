@@ -1,6 +1,8 @@
 require 'MadScientist/Dietician'
 require 'MadScientist/Laboratory'
+
 class MenusController < ApplicationController
+  skip_before_action :authorize, only: :generate
   before_action :set_menu, only: [:show, :edit, :update, :destroy]
 
   # GET /menus

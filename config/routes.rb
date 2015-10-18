@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
   get 'pages/main'
-
   get 'pages/about'
 
   resources :users
@@ -65,5 +64,8 @@ Rails.application.routes.draw do
   root 'pages#main'
 
   post 'generate', to: 'menus#generate'
-
+  get :logout, to: "sessions#destroy"
+  get :login, to: "sessions#new"
+  resources :sessions
+  resources :users
 end
