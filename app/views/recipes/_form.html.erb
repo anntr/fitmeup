@@ -1,30 +1,50 @@
-<%= form_for(@recipe) do |f| %>
-  <% if @recipe.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@recipe.errors.count, "error") %> prohibited this recipe from being saved:</h2>
+<div class="panel-body">
+    <%= form_for(@recipe) do |f| %>
+        <% if @recipe.errors.any? %>
+            <div id="error_explanation">
+              <h2><%= pluralize(@recipe.errors.count, "error") %> prohibited this recipe from being saved:</h2>
 
-      <ul>
-      <% @recipe.errors.full_messages.each do |message| %>
-        <li><%= message %></li>
-      <% end %>
-      </ul>
-    </div>
-  <% end %>
+              <ul>
+                <% @recipe.errors.full_messages.each do |message| %>
+                    <li><%= message %></li>
+                <% end %>
+              </ul>
+            </div>
+        <% end %>
+
+        <div class="form-group ">
+          <%= f.label :name, "Nazwa" %>
+          <%= f.text_field :name, class: "form-control" %>
+        </div>
+
+        <div class="form-group">
+
+          <%= f.label :category, "Kategoria" %>
+          <br>
+          <%= f.radio_button :category, value: 1, class: "checkbox-inline" %>Śniadanie
+          <%= f.radio_button :category, value: 2, class: "checkbox-inline" %>Drugie śniadanie
+          <%= f.radio_button :category, value: 3, class: "checkbox-inline" %>Przekąska
+          <%= f.radio_button :category, value: 4, class: "checkbox-inline" %>Obiad
+          <%= f.radio_button :category, value: 5, class: "checkbox-inline" %>Kolacja
 
 
-    <div class="field">
-      <%= f.label :name%>
-      <%= f.text_field :name%>
-    </div>
-    <div class="field">
-      <%= f.label :category%>
-      <%= f.number_field :category%>
-    </div>
-    <div class="field"%>
-      <%= f.label :instructions %>
-      <%= f.text_area :instructions %>
-    </div>
-  <div class="actions">
-    <%= f.submit %>
+        </div>
+      <hr>
+        <%= f.label :ingredients, "Składniki" %>
+        <%= f.fields_for :ingredients do |ingredient| %>
+            <%= render 'ingredient_fields', f: ingredient %>
+        <% end %>
+        <div class="links">
+          <%= link_to_add_association '<span class="glyphicon glyphicon-plus" />'.html_safe, f, :ingredients, :render_options => {:wrapper => 'bootstrap'}, :class => "btn btn-success btn-xs" %>
+        </div>
+      <hr>
+        <div class="form-group">
+          <%= f.label :instructions, "Instrukcje" %>
+          <%= f.text_area :instructions, class: "form-control", rows: 20 %>
+
+        </div>
+        <div class="form-group text-center">
+          <%= f.submit "Stwórz przepis", :class => "btn btn-primary" %>
+        </div>
+    <% end %>
   </div>
-<% end %>

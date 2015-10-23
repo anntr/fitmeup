@@ -6,40 +6,24 @@
   </div>
 </div>
 <p id="notice"><%= notice %></p>
+
+  <%= link_to "Stwórz przepis", new_recipe_path, class: "btn btn-primary" %>
+
 <div class="row">
   <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" data-target="#all">Wszystkie</a></li>
     <li><a data-toggle="tab" data-target="#breakfast">Śniadania</a></li>
     <li><a data-toggle="tab" data-target="#snack">Przekąski</a></li>
+    <li class="active"><a data-toggle="tab" data-target="#lunch">Lunch</a></li>
     <li><a data-toggle="tab" data-target="#dinner">Obiady</a></li>
   </ul>
 
   <div class="tab-content">
-    <div id="all" class="tab-pane fade in active">b</div>
-    <div id="breakfast" class="tab-pane fade">c</div>
-    <div id="snack" class="tab-pane fade">d</div>
-    <div id="dinner" class="tab-pane fade">e</div>
+    <div id="breakfast" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.breakfast  %></div>
+    <div id="snack" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.snack  %></div>
+    <div id="lunch" class="tab-pane fade active"><%= render "recipes", :recipes => Recipe.lunch  %></div>
+    <div id="dinner" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.dinner  %></div>
   </div>
 
-
-
-  <% @recipes.each do |recipe| %>
-      <div class="col-md-4">
-        <div class="thumbnail">
-          <img src="..." alt="...">
-
-          <div class="caption">
-            <h3><%= recipe.name %></h3>
-
-            <p><%= recipe.calories %> kalorii</p>
-
-            <p><%= recipe.instructions.truncate_words(30) %></p>
-
-            <p><%= link_to "Więcej", recipe_path(recipe), class: "btn btn-primary" %></p>
-          </div>
-        </div>
-      </div>
-  <% end %>
 </div>
 </div>
 

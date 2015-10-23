@@ -25,6 +25,12 @@ class MenusController < ApplicationController
   def edit
   end
 
+  def save
+    @menu = params[:menu]
+    @menu.save!
+    render "show"
+  end
+
   def generate
     calories = params[:calories]
     scientist = Dietician.new(calories.to_i)
@@ -77,10 +83,10 @@ class MenusController < ApplicationController
   private
 
     def parse_results results
-      @menu = Menu.create
+      @menu = Menu.new
       @menu.recipes<<results
-      @menu.save!
     end
+
     # Use callbacks to share common setup or constraints between actions.
     def set_menu
       @menu = Menu.find(params[:id])

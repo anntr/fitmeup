@@ -5,7 +5,10 @@ Rails.application.routes.draw do
   resources :users
   resources :menus
   resources :ingredients
-  resources :recipes
+  resources :recipes do
+    get :autocomplete_product_name, :on => :collection
+
+  end
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -64,8 +67,10 @@ Rails.application.routes.draw do
   root 'pages#main'
 
   post 'generate', to: 'menus#generate'
+  post 'menu/save', to: 'menus#save', as: 'save'
   get :logout, to: "sessions#destroy"
   get :login, to: "sessions#new"
   resources :sessions
   resources :users
+
 end

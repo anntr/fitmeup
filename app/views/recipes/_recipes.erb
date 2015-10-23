@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+<% recipes.each do |recipe| %>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <img src="..." alt="...">
+        <div class="caption">
+          <h3><%= recipe.name %></h3>
+          <p><%= recipe.calories %> kalorii</p>
+          <p><%= recipe.instructions.truncate_words(30) %></p>
+          <p><%= link_to "Więcej", recipe_path(recipe), class: "btn btn-primary" %></p>
+        </div>
+      </div>
+    </div>
+<% end %>
+</div>
