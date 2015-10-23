@@ -8,7 +8,7 @@
 
 
 (1..200).each do
-  Recipe.create(:name => Faker::Lorem.sentence, :category => rand(5)+1, :calories => 100+rand(600),
+  Recipe.create(:name => Faker::Lorem.sentence, :category => [(rand(5)+1).to_s], :calories => 100+rand(600),
                 :instructions => Faker::Lorem.paragraphs.join )
 end
 

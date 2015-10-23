@@ -22,14 +22,13 @@ class Dietician < Scientist
   def get_reference type, chromosome = nil
     if type == "calories"
       test = chromosome.send(:category)
-      case test
-        when 1,5
+      if test.include?("1") || test.include?("5")
           @diet*0.2
-        when 2,4
+      elsif test.include?("2") || test.include?("4")
           @diet*0.1
-        when 3
+      elsif test.include?("3")
           @diet*0.4
-        else
+      else
           200
       end
     elsif type == "diet"

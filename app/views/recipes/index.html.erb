@@ -18,10 +18,10 @@
   </ul>
 
   <div class="tab-content">
-    <div id="breakfast" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.breakfast  %></div>
-    <div id="snack" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.snack  %></div>
-    <div id="lunch" class="tab-pane fade active"><%= render "recipes", :recipes => Recipe.lunch  %></div>
-    <div id="dinner" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.dinner  %></div>
+    <div id="breakfast" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.any_category("1")  %></div>
+    <div id="snack" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.any_category("2")  %></div>
+    <div id="lunch" class="tab-pane fade active"><%= render "recipes", :recipes => Recipe.any_category("3")%></div>
+    <div id="dinner" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.any_category("4")  %></div>
   </div>
 
 </div>
