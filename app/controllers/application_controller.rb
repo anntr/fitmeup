@@ -2,15 +2,23 @@ class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
-  helper_method :current_user
+  helper_method :current_user, :admin?
   before_action :authorize, except: [:authorize, :current_user ]
-private
+
+  private
 
   def authorize
     unless current_user
       flash[:alert]="tylko zalogowni użytkownicy mogą oglądać tę sekcję"
       redirect_to new_session_path
      end
+  end
+
+  def admin?
+    unless current_user.admin?
+      flash[:alert]="tylko administratorzy mogą oglądać tę sekcję"
+      redirect_to root_path
+    end
   end
 
   def current_user

@@ -1,0 +1,10 @@
+<%= form_for(@product) do |f| %>
+    <div class="form-group" %>
+      <%= f.label :name, "Nazwa" %>
+      <%= f.text_field :name, placeholder: "Nazwa", class: "form-control" %>
+    </div>
+    <div class="form-group" %>
+      <%= f.label :calories, "Kalorie" %>
+      <%= f.number_field :calories, class: "form-control"%>
+    </div>
+<% end %>

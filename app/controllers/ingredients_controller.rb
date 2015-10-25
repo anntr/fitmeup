@@ -1,5 +1,4 @@
 class IngredientsController < ApplicationController
-  autocomplete :product, :name
 
   private
 

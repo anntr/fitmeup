@@ -1,12 +1,15 @@
 class Recipe < ActiveRecord::Base
   has_many :ingredients
   has_many :products, through: :ingredients
-  accepts_nested_attributes_for :ingredients
+  belongs_to :user
+
+  accepts_nested_attributes_for :ingredients, :reject_if => proc { |attributes| attributes.any? {|k,v| v.blank?} }, :allow_destroy => true, :limit => 20
   accepts_nested_attributes_for :products
 
-  validates :name, :instructions, :category, presence: true
+  validates :name, :instructions, :category, :ingredients, presence: true
 
   scope :any_category, -> (category){ where(" ? = ANY(category)", category)}
+
 
 
   def self.sort_for_algorithm

@@ -6,11 +6,9 @@ class SessionsController < ApplicationController
 
   def create
     user = User.find_by login: params[:login][:login]
-    puts user.inspect
-    puts "ELOELOE____________"
+
     if user && user.authenticate(params[:login][:password])
       session[:user_id] = user.id
-      puts "no kurwa____"
       redirect_to root_path, notice: "zalogowany"
     else
       flash[:alert] = "Niepoprawny login lub hasło"

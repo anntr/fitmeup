@@ -1,5 +1,6 @@
 class RecipesController < ApplicationController
   before_action :set_recipe, only: [:show, :edit, :update, :destroy]
+  autocomplete :product, :name
 
   # GET /recipes
   # GET /recipes.json
@@ -15,7 +16,10 @@ class RecipesController < ApplicationController
   # GET /recipes/new
   def new
     @recipe = Recipe.new
+    @recipe.ingredients.build
   end
+
+
 
   # GET /recipes/1/edit
   def edit
@@ -25,7 +29,9 @@ class RecipesController < ApplicationController
   # POST /recipes.json
   def create
     @recipe = Recipe.new(recipe_params)
-
+    if recipe_params[:user_id] == "1"
+      @recipe.user = current_user
+    end
     respond_to do |format|
       if @recipe.save
         format.html { redirect_to @recipe, notice: 'Recipe was successfully created.' }
@@ -66,6 +72,9 @@ class RecipesController < ApplicationController
   end
 
   private
+
+    def prepare_params params
+    end
     # Use callbacks to share common setup or constraints between actions.
     def set_recipe
       @recipe = Recipe.find(params[:id])
@@ -73,6 +82,6 @@ class RecipesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def recipe_params
-      params.require(:recipe).permit(:name, :category, :instructions, :menu_ids => [], :ingredients_attributes => [:id, :item, :measure, :modifier])
+      params.require(:recipe).permit(:name, :instructions, :user_id, :category => [], :menu_ids => [], :ingredients_attributes => [:id, :item, :measure, :modifier, :_destroy])
     end
 end
