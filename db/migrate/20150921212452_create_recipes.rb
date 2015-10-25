@@ -4,6 +4,7 @@ class CreateRecipes < ActiveRecord::Migration
       t.string :name
       t.text :instructions
       t.integer :category
+      t.integer :calories
     end
   end
 end
