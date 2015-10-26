@@ -7,4 +7,18 @@
       <%= f.label :calories, "Kalorie" %>
       <%= f.number_field :calories, class: "form-control"%>
     </div>
+    <div class="form-group" %>
+      <%= f.label :carbs, "Węglowodany" %>
+      <%= f.number_field :carbs, class: "form-control",  :step => 'any'%>
+    </div>
+    <div class="form-group" %>
+      <%= f.label :proteins, "Białko" %>
+      <%= f.number_field :proteins, class: "form-control",  :step => 'any'%>
+    </div>
+
+    <div class="form-group" %>
+      <%= f.label :lipids, "Tłuszcze" %>
+      <%= f.number_field :lipids, class: "form-control",  :step => 'any'%>
+    </div>
+    <%= f.submit "Dodaj produkt" %>
 <% end %>
