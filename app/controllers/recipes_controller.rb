@@ -1,6 +1,6 @@
 class RecipesController < ApplicationController
   before_action :set_recipe, only: [:show, :edit, :update, :destroy]
-  autocomplete :product, :name
+  autocomplete :product, :name, :full => true, :limit => 20
 
   # GET /recipes
   # GET /recipes.json
@@ -16,7 +16,7 @@ class RecipesController < ApplicationController
   # GET /recipes/new
   def new
     @recipe = Recipe.new
-    @recipe.ingredients.build
+    build_ingredients(params[:ingredients_attributes])
   end
 
 
@@ -29,9 +29,12 @@ class RecipesController < ApplicationController
   # POST /recipes.json
   def create
     @recipe = Recipe.new(recipe_params)
+
     if recipe_params[:user_id] == "1"
       @recipe.user = current_user
     end
+
+
     respond_to do |format|
       if @recipe.save
         format.html { redirect_to @recipe, notice: 'Recipe was successfully created.' }
@@ -41,6 +44,17 @@ class RecipesController < ApplicationController
         format.json { render json: @recipe.errors, status: :unprocessable_entity }
       end
     end
+  end
+
+
+  def build_ingredients(params)
+    puts "pozdrawiam"
+    @ingredient = Ingredient.new
+    puts @ingredient.inspect
+    puts params
+    @ingredient.product = Product.find_by(:name => params[:item])
+    puts @ingredient.inspect
+    @ingredient
   end
 
   # PATCH/PUT /recipes/1
@@ -72,6 +86,8 @@ class RecipesController < ApplicationController
   end
 
   private
+
+
 
     def prepare_params params
     end

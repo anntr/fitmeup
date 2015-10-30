@@ -39,12 +39,25 @@
 
       </div>
       <hr>
+
       <%= f.label :ingredients, "Składniki" %>
       <%= f.fields_for :ingredients do |ingredient| %>
           <%= render 'ingredient_fields', f: ingredient %>
       <% end %>
       <div class="links">
         <%= link_to_add_association '<span class="glyphicon glyphicon-plus" />'.html_safe, f, :ingredients, :render_options => {:wrapper => 'bootstrap'}, :class => "btn btn-success btn-xs" %>
+      </div>
+      <hr>
+      <div class="row">
+      <div class="form-group col-md-4">
+      <%= f.label :servings, "Ilość porcji" %>
+      <%= f.number_field :servings, class: "form-control"%>
+      </div>
+      <div class=" col-md-offset-4"></div>
+      <div class="form-group col-md-4 ", style="float:right">
+      <%= f.label :calories, "Kalorii na porcje" %>
+      <%= f.number_field :calories, class: "form-control"%>
+      </div>
       </div>
       <hr>
       <div class="form-group">
