@@ -14,7 +14,7 @@ class Recipe < ActiveRecord::Base
 
   validates :name, :instructions, :category, :ingredients, presence: true
 
-  scope :any_category, -> (category){ where(" ? = ANY(category)", category)}
+  #scope :any_category, -> (category){where(" ? = ANY(category)", category)}
 
   def image_attached?
     self.image.file?

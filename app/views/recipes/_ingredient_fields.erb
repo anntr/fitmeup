@@ -2,8 +2,10 @@
   <div class="nested-fields ">
     <div class="form-group col-md-5">
       <%# f.label :item, "Jednostka" %>
-      <%= f.autocomplete_field :item, autocomplete_product_name_recipes_path,
+      <%= f.fields_for :product do |item| %>
+        <%= item.autocomplete_field :name, autocomplete_product_name_recipes_path,
           placeholder: "Produkt", class: "form-control input-sm" %>
+      <%end%>
     </div>
 
     <div class="form-group col-md-2">
