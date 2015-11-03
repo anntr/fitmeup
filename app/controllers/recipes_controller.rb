@@ -27,18 +27,14 @@ class RecipesController < ApplicationController
   # POST /recipes
   # POST /recipes.json
   def create
-    puts "___RECIPES CONTROLLER CREATE"
     params = recipe_params
     @recipe = Recipe.new(params.except(:ingredients_attributes))
     add_ingredients(params[:ingredients_attributes])
-    puts "STWORZO NY RECIPE"
-    puts @recipe.inspect
+
     if recipe_params[:user_id] == "1"
       @recipe.user = current_user
     end
 
-    puts "PRZYPISANY USEROWI"
-    puts @recipe.inspect
     respond_to do |format|
       if @recipe.save
         format.html { redirect_to @recipe, notice: 'Recipe was successfully created.' }
@@ -87,11 +83,20 @@ class RecipesController < ApplicationController
       ingredients = []
       params.each do |key, value|
         product = Product.where(:name => value["product"]["name"]).first
-        ingredient = Ingredient.new(:measure => value["measure"], :modifier => value["modifier"], :product => product)
+        if product
+          ingredient = Ingredient.new(:measure => value["measure"], :modifier => value["modifier"],
+                                      :product => product)
+        else
+          puts "nieznajet"
+          ingredient = Ingredient.new(:measure => value["measure"], :modifier => value["modifier"],
+                                      :item => value["product"]["name"])
+        end
         ingredients << ingredient
       end
       @recipe.ingredients = ingredients
     end
+
+
     # Use callbacks to share common setup or constraints between actions.
     def set_recipe
       @recipe = Recipe.find(params[:id])
@@ -99,6 +104,8 @@ class RecipesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def recipe_params
-      params.require(:recipe).permit(:name, :instructions, :user_id, :image, :category => [], :menu_ids => [], :ingredients_attributes => [:id, :item, :measure, :modifier, :_destroy, :product => :name])
+      params.require(:recipe).permit(:name, :instructions, :user_id, :image, :servings, :calories, :category => [],
+                                     :menu_ids => [], :ingredients_attributes => [:id, :item, :measure, :modifier,
+                                                                                  :_destroy, :product => :name])
     end
 end

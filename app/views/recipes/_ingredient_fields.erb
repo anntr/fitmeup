@@ -3,8 +3,10 @@
     <div class="form-group col-md-5">
       <%# f.label :item, "Jednostka" %>
       <%= f.fields_for :product do |item| %>
+          <% name = f.object.item %>
+          <% name = f.object.product.name if f.object.product %>
         <%= item.autocomplete_field :name, autocomplete_product_name_recipes_path,
-          placeholder: "Produkt", class: "form-control input-sm" %>
+          placeholder: "Produkt", class: "form-control input-sm", value: name %>
       <%end%>
     </div>
 
