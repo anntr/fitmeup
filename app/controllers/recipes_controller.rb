@@ -31,7 +31,7 @@ class RecipesController < ApplicationController
     @recipe = Recipe.new(params.except(:ingredients_attributes))
     add_ingredients(params[:ingredients_attributes])
 
-    if recipe_params[:user_id] == "1"
+    if params[:user_id] == "1"
       @recipe.user = current_user
     end
 
@@ -50,8 +50,15 @@ class RecipesController < ApplicationController
   # PATCH/PUT /recipes/1
   # PATCH/PUT /recipes/1.json
   def update
+    params = recipe_params
+    @recipe.update(params.except(:ingredients_attributes))
+    edit_ingredients(params[:ingredients_attributes])
+    if params[:user_id] == "1"
+      @recipe.user = current_user
+    end
+
     respond_to do |format|
-      if @recipe.update(recipe_params)
+      if @recipe.save
         format.html { redirect_to @recipe, notice: 'Recipe was successfully updated.' }
         format.json { render :show, status: :ok, location: @recipe }
       else
@@ -78,24 +85,54 @@ class RecipesController < ApplicationController
   private
 
 
-
-    def add_ingredients params
+    def edit_ingredients params
       ingredients = []
       params.each do |key, value|
-        product = Product.where(:name => value["product"]["name"]).first
-        if product
-          ingredient = Ingredient.new(:measure => value["measure"], :modifier => value["modifier"],
-                                      :product => product)
-        else
-          puts "nieznajet"
-          ingredient = Ingredient.new(:measure => value["measure"], :modifier => value["modifier"],
-                                      :item => value["product"]["name"])
+        if value["id"]
+          ingredient = Ingredient.find(value["id"])
         end
-        ingredients << ingredient
+        if ingredient
+          unless value["_destroy"] == "false"
+            ingredient.destroy
+          else
+            product = Product.where(:name => value["product"]["name"]).first
+            if product
+              ingredient.update(:measure => value["measure"], :modifier => value["modifier"],
+                                :product => product)
+            else
+              ingredient.update(:measure => value["measure"], :modifier => value["modifier"],
+                                :item => value["product"]["name"])
+            end
+            ingredients << ingredient
+          end
+        else
+          ingredients << add_ingredient(value)
+        end
+
       end
       @recipe.ingredients = ingredients
     end
 
+
+    def add_ingredients params
+      ingredients = []
+      params.each do |key, value|
+        ingredients << add_ingredient(value)
+      end
+      @recipe.ingredients = ingredients
+    end
+
+    def add_ingredient params
+      product = Product.where(:name => params["product"]["name"]).first
+        if product
+          ingredient = Ingredient.new(:measure => params["measure"], :modifier => params["modifier"],
+                                      :product => product)
+        else
+          ingredient = Ingredient.new(:measure => params["measure"], :modifier => params["modifier"],
+                                      :item => params["product"]["name"])
+        end
+      ingredient
+    end
 
     # Use callbacks to share common setup or constraints between actions.
     def set_recipe

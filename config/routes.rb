@@ -4,10 +4,11 @@ Rails.application.routes.draw do
 
   resources :users
   resources :menus
-  resources :ingredients
+
   resources :products
   resources :recipes do
     get :autocomplete_product_name, :on => :collection
+    resources :ingredients
   end
 
 
