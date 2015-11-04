@@ -10,10 +10,10 @@
     </div>
 
     <div class="form-group col-md-2">
-      <%= f.number_field :measure, value: 1, class: "form-control input-sm" %>
+      <%= f.number_field :measure, value: f.object.measure || 1, class: "form-control input-sm" %>
     </div>
     <div class="form-group col-md-3">
-      <%= f.text_field :modifier, placeholder: "Kilogram, gram..", class: "form-control input-sm" %>
+      <%= f.select :modifier, [['gram', 'gram'], ['sztuk', 'sztuk']], {}, {class: "form-control input-sm"} %>
     </div>
     <div class="clearfix visible-xs-block"></div>
     <%= link_to_remove_association '<span class="glyphicon glyphicon-remove" />'.html_safe, f, class: "btn btn-default btn-xs" %>

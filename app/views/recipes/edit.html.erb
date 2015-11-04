@@ -1,6 +1,9 @@
-<h1>Editing Recipe</h1>
+<div class="row">
+  <h1>Edytuj przepis</h1>
 
-<%= render 'form' %>
+  <div class="col-md-6 col-md-offset-3 panel panel-default">
+    <%= render 'form' %>
+    <%= link_to 'Powrót', recipes_path %>
+  </div>
+</div>
 
-<%= link_to 'Show', @recipe %> |
-<%= link_to 'Back', recipes_path %>

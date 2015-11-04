@@ -20,6 +20,14 @@ class Recipe < ActiveRecord::Base
     self.image.file?
   end
 
+  def calculate_calories
+    total_value = 0
+    ingredients.each do |ingredient|
+      total_value += (( ingredient.product.calories * ingredient.measure ) / 100) / servings if ingredient.product
+    end
+    self.calories = total_value.round
+  end
+
   def self.sort_for_algorithm
     all_recipes = Recipe.all
     sorted_recipes = []

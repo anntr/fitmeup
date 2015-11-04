@@ -30,6 +30,7 @@ class RecipesController < ApplicationController
     params = recipe_params
     @recipe = Recipe.new(params.except(:ingredients_attributes))
     add_ingredients(params[:ingredients_attributes])
+    @recipe.calculate_calories
 
     if params[:user_id] == "1"
       @recipe.user = current_user
@@ -37,7 +38,7 @@ class RecipesController < ApplicationController
 
     respond_to do |format|
       if @recipe.save
-        format.html { redirect_to @recipe, notice: 'Recipe was successfully created.' }
+        format.html { render :edit,  notice: 'Recipe was successfully created.' }
         format.json { render :show, status: :created, location: @recipe }
       else
         format.html { render :new }
@@ -53,13 +54,14 @@ class RecipesController < ApplicationController
     params = recipe_params
     @recipe.update(params.except(:ingredients_attributes))
     edit_ingredients(params[:ingredients_attributes])
+    @recipe.calculate_calories
     if params[:user_id] == "1"
       @recipe.user = current_user
     end
 
     respond_to do |format|
       if @recipe.save
-        format.html { redirect_to @recipe, notice: 'Recipe was successfully updated.' }
+        format.html { render :edit, notice: 'Recipe was successfully updated.' }
         format.json { render :show, status: :ok, location: @recipe }
       else
         format.html { render :edit }
@@ -83,7 +85,6 @@ class RecipesController < ApplicationController
   end
 
   private
-
 
     def edit_ingredients params
       ingredients = []
