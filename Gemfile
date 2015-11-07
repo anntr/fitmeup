@@ -49,7 +49,7 @@ end
 gem 'bcrypt'
 
 
-gem "cocoon"
+gem 'cocoon'
 gem 'rails4-autocomplete'
 gem 'jquery-ui-rails'
 gem 'paperclip'
