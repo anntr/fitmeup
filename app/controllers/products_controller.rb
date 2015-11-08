@@ -1,5 +1,4 @@
 class ProductsController < ApplicationController
-  before_action :admin?
 
   def index
     @products = Product.all
