@@ -98,10 +98,10 @@ class RecipesController < ApplicationController
           else
             product = Product.where(:name => value["product"]["name"]).first
             if product
-              ingredient.update(:measure => value["measure"], :modifier => value["modifier"],
+              ingredient.update(:measure => Measure.where(:unit => value["measure"]).first, :modifier => value["modifier"],
                                 :product => product)
             else
-              ingredient.update(:measure => value["measure"], :modifier => value["modifier"],
+              ingredient.update(:measure => Measure.where(:unit => value["measure"]).first, :modifier => value["modifier"],
                                 :item => value["product"]["name"])
             end
             ingredients << ingredient
@@ -126,10 +126,10 @@ class RecipesController < ApplicationController
     def add_ingredient params
       product = Product.where(:name => params["product"]["name"]).first
         if product
-          ingredient = Ingredient.new(:measure => params["measure"], :modifier => params["modifier"],
+          ingredient = Ingredient.new(:measure => Measure.where(:unit => params["measure"]).first, :modifier => params["modifier"],
                                       :product => product)
         else
-          ingredient = Ingredient.new(:measure => params["measure"], :modifier => params["modifier"],
+          ingredient = Ingredient.new(:measure => Measure.where(:unit => params["measure"]).first, :modifier => params["modifier"],
                                       :item => params["product"]["name"])
         end
       ingredient

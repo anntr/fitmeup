@@ -23,7 +23,7 @@ class Recipe < ActiveRecord::Base
   def calculate_calories
     total_value = 0
     ingredients.each do |ingredient|
-      total_value += (( ingredient.product.calories * ingredient.measure ) / 100) / servings if ingredient.product
+      total_value += ( ingredient.measure.calories * ingredient.modifier ) / servings if ingredient.product
     end
     self.calories = total_value.round
   end

@@ -5,7 +5,11 @@ Rails.application.routes.draw do
   resources :users
   resources :menus
 
-  resources :products
+  resources :products do
+    get 'measures', to: 'products#measures', :on => :collection
+  end
+
+
   resources :recipes do
     get :autocomplete_product_name, :on => :collection
     resources :ingredients

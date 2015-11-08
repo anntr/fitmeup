@@ -58,12 +58,16 @@ end
 
 
 products.each_with_index do |product_params, inx|
-  unless inx == 3
   product = Product.create(product_params.except(:units))
   product.save!
   puts product.inspect
-  units_info = product_params[:units]
 
+  first_measure = Measure.create(:unit => "gram", :eqv => 1, :calories => product.calories/100,
+  :carbs => product.carbs/100, :lipids => product.lipids/100, :proteins => product.proteins/100,
+  :product_id => product.id)
+  first_measure.save
+
+  units_info = product_params[:units]
   units = []
   units_info[:calories].each do |unit|
     u = unit[:label]
@@ -81,7 +85,7 @@ products.each_with_index do |product_params, inx|
     mes.save!
   end
 
-  end
+
 
 end
 

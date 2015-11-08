@@ -48,6 +48,13 @@ class ProductsController < ApplicationController
     end
   end
 
+
+  def measures
+    @product = Product.where(:name => params[:name]).first
+    @units = @product.measures.pluck(:unit)
+    render :json => @units
+  end
+
   private
   def product_params
     params.require(:product).permit(:name, :calories, :proteins, :lipids, :carbs)

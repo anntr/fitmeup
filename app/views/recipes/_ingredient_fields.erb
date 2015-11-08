@@ -4,21 +4,20 @@
       <%= f.fields_for :product do |item| %>
           <% name = f.object.item %>
           <% name = f.object.product.name if f.object.product %>
-        <%= item.autocomplete_field :name, autocomplete_product_name_recipes_path,
-          placeholder: "Produkt", class: "form-control input-sm", value: name %>
-      <%end%>
+          <%= item.autocomplete_field :name, autocomplete_product_name_recipes_path,
+                                      placeholder: "Produkt", class: "form-control input-sm ingredient", value: name, :update_elements => {} %>
+      <% end %>
     </div>
 
     <div class="form-group col-md-2">
-      <%= f.number_field :measure, value: f.object.measure || 1, class: "form-control input-sm" %>
+      <%= f.number_field :modifier, value: f.object.modifier || 1, class: "form-control input-sm" %>
     </div>
     <div class="form-group col-md-3">
-      <%= f.select :modifier, [['gram', 'gram'], ['sztuk', 'sztuk']], {}, {class: "form-control input-sm"} %>
+      <%= f.select :measure, ['gram'], {}, {class: "form-control input-sm measures"} %>
     </div>
     <div class="clearfix visible-xs-block"></div>
     <%= link_to_remove_association '<span class="glyphicon glyphicon-remove" />'.html_safe, f, class: "btn btn-default btn-xs" %>
-    </div>
+  </div>
 </div>
-
 
 
