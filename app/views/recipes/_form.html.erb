@@ -87,10 +87,12 @@
         request.done(function (response) {
             var $select = $(box).parent().siblings().children('.measures ')
             $select.empty()
-            $.each(response, function (key, value) {
+            var i;
+            for (i = 0; i < response.length; ++i) {
                 $select.append($("<option></option>")
-                        .attr("value", value).text(value));
-            });
+                        .attr("value", response).text(response));
+            };
+
         })
     });
 </script>
