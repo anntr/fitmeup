@@ -166,7 +166,6 @@ DEPENDENCIES
   bcrypt
   byebug
   cocoon
-  coffee-rails (~> 4.1.0)
   faker
   jbuilder (~> 2.0)
   jquery-rails
