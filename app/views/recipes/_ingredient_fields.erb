@@ -13,7 +13,12 @@
       <%= f.number_field :modifier, value: f.object.modifier || 1, class: "form-control input-sm" %>
     </div>
     <div class="form-group col-md-3">
-      <%= f.select :measure, ['gram'], {}, {class: "form-control input-sm measures"} %>
+
+      <% mes = [] %>
+      <% mes << f.object.measure.unit if f.object.measure %>
+      <% mes.concat(f.object.product.measures.pluck(:unit)) if f.object.product %>
+      <% mes.uniq!  %>
+      <%= f.select :measure, mes, {}, {class: "form-control input-sm measures"} %>
     </div>
     <div class="clearfix visible-xs-block"></div>
     <%= link_to_remove_association '<span class="glyphicon glyphicon-remove" />'.html_safe, f, class: "btn btn-default btn-xs" %>

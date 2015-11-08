@@ -86,7 +86,7 @@
 
         request.done(function (response) {
             var $select = $(box).parent().siblings().children('.measures ')
-            $select.find('option:gt(0)').remove()
+            $select.empty()
             $.each(response, function (key, value) {
                 $select.append($("<option></option>")
                         .attr("value", value).text(value));
