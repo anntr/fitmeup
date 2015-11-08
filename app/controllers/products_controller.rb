@@ -52,7 +52,9 @@ class ProductsController < ApplicationController
   def measures
     @product = Product.where(:name => params[:name]).first
     @units = @product.measures.pluck(:unit)
-    render :json => @units
+    respond_to do |format|
+      format.json { render json: @units }
+    end
   end
 
   private
