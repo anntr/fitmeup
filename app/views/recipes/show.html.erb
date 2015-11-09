@@ -1,4 +1,21 @@
 <p id="notice"><%= notice %></p>
 
+<%= @recipe.name %>
+<%= @recipe.calories %>
+<br>
+
+<%= link_to "Si", upvote_recipe_path(@recipe), method: :put, class: "btn btn-success" %>
+<%= link_to "Ne.", downvote_recipe_path(@recipe), method: :put, class: "btn btn-danger" %>
+<% @recipe.comments.each do |comment| %>
+    <%= comment.comment %>
+    powiedziala spierdolina: <%= comment.user_id%>
+    <br>
+    <%end%>
+<%= form_for([@recipe, @comment]) do |f| %>
+    <%= f.text_field :comment %>
+    <%= f.submit "Skomentuj" %>
+<% end %>
+
+
 <%= link_to 'Edit', edit_recipe_path(@recipe) %> |
 <%= link_to 'Back', recipes_path %>

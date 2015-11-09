@@ -3,6 +3,9 @@ class Recipe < ActiveRecord::Base
   has_many :products, through: :ingredients
   belongs_to :user
 
+  acts_as_votable
+  acts_as_commentable
+
   accepts_nested_attributes_for :ingredients, :reject_if => proc { |attributes| attributes.any? {|k,v| v.blank?} }, :allow_destroy => true, :limit => 20
   accepts_nested_attributes_for :products
 

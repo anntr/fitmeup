@@ -11,6 +11,8 @@ class RecipesController < ApplicationController
   # GET /recipes/1
   # GET /recipes/1.json
   def show
+    @recipe = Recipe.find(params[:id])
+    @comment = @recipe.comments.new
   end
 
   # GET /recipes/new
@@ -19,6 +21,17 @@ class RecipesController < ApplicationController
   end
 
 
+  def upvote
+    @recipe = Recipe.find(params[:id])
+    @recipe.liked_by current_user
+    redirect_to(@recipe)
+  end
+
+  def downvote
+    @recipe = Recipe.find(params[:id])
+    @recipe.downvote_from current_user
+    redirect_to(@recipe)
+  end
 
   # GET /recipes/1/edit
   def edit

@@ -13,6 +13,11 @@ Rails.application.routes.draw do
   resources :recipes do
     get :autocomplete_product_name, :on => :collection
     resources :ingredients
+    resources :comments
+    member do
+      put 'upvote'
+      put 'downvote'
+    end
   end
 
 
