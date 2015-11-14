@@ -4,11 +4,12 @@
   <title>Fitmeup</title>
   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,500,300,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <%= csrf_meta_tags %>
 </head>
 <body>
-<div class="navbar navbar-default" id="app-navbar">
-  <div class="container-fluid">
+<div class="navbar navbar-default fitmeup-nav" id="app-navbar">
+  <div class="container">
     <%= link_to "FitMeUP!", pages_main_path, class: "navbar-brand" %>
 
     <ul class="nav navbar-nav navbar-right">
@@ -25,13 +26,10 @@
           <li> <%= link_to "Stwórz przepis", new_recipe_path %></li>
         </ul>
       </li>
-
-
-
       <li><%= link_to "Porady", "#" %></li>
       <li>
         <% if current_user %>
-            <%= link_to "Wyloguj", logout_path %>
+            <%= link_to "Wyloguj (#{current_user.login})", logout_path %>
         <% else %>
             <%= link_to "Zaloguj", login_path %>
         <% end %>

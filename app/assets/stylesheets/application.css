@@ -83,6 +83,61 @@
     cursor: pointer;
 }
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.fitmeup-nav {
+    background-color: white;
+    border: none;
+    color: #690C2D;
+}
 
+.banner {
+    background-image: url("picjumbo.com_HNCK5644.jpg");
+    background-size: 100%;
+    color: white;
+    text-shadow: #333333;
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+    border: none;
+    border-radius: 0;
+    text-shadow: 1px 0px 15px rgb(56, 55, 55);
+}
 
+.motto {
+    width: 440px;
+}
 
+.btn-action{
+    background-color: #690C2D;
+    border: none;
+}
+
+.diet-form h2{
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 45px;
+    margin-bottom: 45px;
+}
+
+.bottom-margin {
+    margin-bottom: 45px;
+}
+.how p{
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.features{
+    text-align: center;
+}
+
+.features p{
+    font-size: 16px;
+}
+
+.features .glyphicon{
+    font-size: 50px;
+    color: #B82257;
+}

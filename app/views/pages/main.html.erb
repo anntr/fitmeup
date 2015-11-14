@@ -1,18 +1,72 @@
-<div class="row">
-  <div class="jumbotron text-center">
-    <h1>Układanie diety jeszcze nigdy nie było tak proste</h1>
-    <h2>Kontroluj swoje posiłki z FitMeUP</h2>
+<div class="row bottom-margin">
+  <div class="jumbotron text-center banner">
+    <div class="motto">
+      <h1>Układanie diety jeszcze nigdy nie było tak proste</h1>
+    </div>
   </div>
-  <%= form_tag controller: 'menus', action: 'generate' do %>
-      <div class="input-group input-group-lg col-md-6 col-md-offset-3">
-          <%= label_tag(:calories, "Ustal dietę na:", class: "input-group-addon") %>
-          <%= number_field_tag(:calories, 1500, within: 1300...2600, step: 100, class: "form-control")%>
-        <span class="input-group-addon"> kalorii</span>
+  <div class="row bottom-margin">
+    <div class="text-center diet-form">
+      <h2>Kontroluj swoje posiłki z <br>FitMeUP</h2>
+      <%= form_tag controller: 'menus', action: 'generate' do %>
+          <div class="input-group input-group-lg col-md-6 col-md-offset-3">
+            <%= label_tag(:calories, "Ustal dietę na:", class: "input-group-addon") %>
+            <%= number_field_tag(:calories, 1500, within: 1300...2600, step: 100, class: "form-control") %>
+            <span class="input-group-addon"> kalorii</span>
+          </div>
+          <div class="text-center">
+            <br>
+            <%= button_tag(type: 'submit', class: "btn btn-primary btn-lg btn-action") do %>
+                GENERUJ <span class='glyphicon glyphicon-random'/>
+            <% end %>
+          </div>
+      <% end %>
+    </div>
+  </div>
+  <div class="row bottom-margin">
+    <div class="container how">
+
+      <h3>Jak to działa?</h3>
+
+      <p>These days it feels like just about everyone is a nutrition expert, but so few people are happy with the way
+        they
+        eat. Eat This Much is all about turning what you know into what you do. The best nutrition strategy is the one
+        that actually happens, because behaviors, not ideas, are the secret to changing your diet.
+
+        Our service is designed to save you time and energy without removing you from the process. Using your
+        preferences,
+        we only show you information that is relevant to your goals and our weekly planner streamlines all of the
+        preparation and decision making that goes into a successful diet.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="container features">
+      <div class="col-md-4">
+        <span class="glyphicon glyphicon-edit"></span>
+
+        <h3>Planuj jadłospisy</h3>
+
+        <p>Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum
+          sed.</p>
       </div>
-      <div class="text-center">
-          <i class="glyphicon glyphicon-apple"></i>
-          <br>
-          <%= submit_tag("GENERUJ ULTRA MENU", class: "btn btn-primary btn-lg") %>
+      <div class="col-md-4">
+        <span class="glyphicon glyphicon-barcode"></span>
+
+        <h3>Generuj listy zakupów</h3>
+
+        <p>Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum
+          sed.</p>
+
       </div>
-  <% end %>
+      <div class="col-md-4">
+        <span class="glyphicon glyphicon-print"></span>
+
+        <h3>Drukuj przepisy</h3>
+
+        <p>Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum
+          sed.</p>
+
+      </div>
+    </div>
+  </div>
 </div>
+
