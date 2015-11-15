@@ -7098,7 +7098,7 @@ body{
 
 .informations span{
     display: block;
-    margin: 5px 0;
+    margin: 13px 0;
 }
 
 .informations .big{
@@ -7106,3 +7106,22 @@ body{
     font-size: 32px;
     margin: 0;
 }
+
+.recipe{
+    text-align: center;
+}
+
+.recipe .lead{
+    font-size: 35px;
+}
+
+.recipe .cal{
+    font-size: 20px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+}
+

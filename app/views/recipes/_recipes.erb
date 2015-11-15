@@ -1,5 +1,6 @@
 <% recipes.each do |recipe| %>
     <div class="col-md-4 col-sm-6 recipe">
+      <%= link_to recipe_path(recipe) do %>
       <div class="panel panel-default">
         <%= image_tag(recipe.image.url, class: "img-responsive") %>
 
@@ -12,6 +13,7 @@
             <span style="float:right"><%="#{recipe.votes_for.size} Si!" %></span></p>
         </div>
       </div>
+          <%end%>
     </div>
 <% end %>
 
