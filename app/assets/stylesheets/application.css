@@ -141,3 +141,19 @@ body{
     font-size: 50px;
     color: #B82257;
 }
+
+.informations{
+    font-size: 16px;
+    background-color: #F0F0F0;
+}
+
+.informations span{
+    display: block;
+    margin: 13px 0;
+}
+
+.informations .big{
+    color: #B82257;
+    font-size: 32px;
+    margin: 0;
+}

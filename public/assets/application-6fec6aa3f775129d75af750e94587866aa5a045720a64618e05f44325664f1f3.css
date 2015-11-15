@@ -7051,6 +7051,7 @@ body{
     font-weight: bold;
     border: none;
     border-radius: 0;
+    text-shadow: 1px 0px 15px rgb(56, 55, 55);
 }
 
 .motto {
@@ -7069,6 +7070,14 @@ body{
     margin-bottom: 45px;
 }
 
+.bottom-margin {
+    margin-bottom: 45px;
+}
+.how p{
+    font-size: 20px;
+    line-height: 27px;
+}
+
 .features{
     text-align: center;
 }
@@ -7080,4 +7089,20 @@ body{
 .features .glyphicon{
     font-size: 50px;
     color: #B82257;
+}
+
+.informations{
+    font-size: 16px;
+    background-color: #F0F0F0;
+}
+
+.informations span{
+    display: block;
+    margin: 5px 0;
+}
+
+.informations .big{
+    color: #B82257;
+    font-size: 32px;
+    margin: 0;
 }

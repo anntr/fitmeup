@@ -1,21 +1,146 @@
-<p id="notice"><%= notice %></p>
+<div class="container">
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8">
+      <%= image_tag @recipe.image.url, class: "img-responsive center-block" %>
+    </div>
+  </div>
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8 text-center">
+      <h1><%= @recipe.name %></h1>
+    </div>
+  </div>
 
-<%= @recipe.name %>
-<%= @recipe.calories %>
-<br>
+  <div class="row informations bottom-margin">
+    <div class="container-fluid">
+      <div class="col-md-offset-2 col-md-8 text-center">
+        <div class="col-md-4">
+          <span>Ilosc</span>
+          <span class="big"><%= @recipe.servings %></span>
+          <span>Porcji</span>
+        </div>
+        <div class="col-md-4">
+          <span>Energia</span>
+          <span class="big"><%= @recipe.calories %></span>
+          <span>Kalorii</span>
+        </div>
+        <div class="col-md-4">
+          <span>Ocena</span>
+          <span class="big"><%= @recipe.votes_for.size %></span>
+          <span>Si</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<%= link_to "Si", upvote_recipe_path(@recipe), method: :put, class: "btn btn-success" %>
-<%= link_to "Ne.", downvote_recipe_path(@recipe), method: :put, class: "btn btn-danger" %>
-<% @recipe.comments.each do |comment| %>
-    <%= comment.comment %>
-    powiedziala spierdolina: <%= comment.user_id%>
-    <br>
-    <%end%>
-<%= form_for([@recipe, @comment]) do |f| %>
-    <%= f.text_field :comment %>
-    <%= f.submit "Skomentuj" %>
-<% end %>
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8">
+      <h2>Składniki</h2>
+      <ul class="list-group">
+            <% @recipe.ingredients.each do |ingredient| %>
+            <li class="list-group-item">
+                <span><%= ingredient.product.name %></span>
+                <span style="float: right"><%= "#{ingredient.modifier} #{ingredient.measure.unit}" %></span>
+            </li>
+      <%end%>
+
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8">
+      <h2>Przepis</h2>
+      <%= @recipe.instructions %>
+    </div>
+  </div>
+
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8 text-center">
+      <span class="glyphicon glyphicon-heart"></span>
+      <h2>Podobał ci się ten przepis?</h2>
+      <%= link_to "Si !", upvote_recipe_path(@recipe), method: :put, class: "btn btn-success btn-xs" %>
+      <%= link_to "Ne .", downvote_recipe_path(@recipe), method: :put, class: "btn btn-default btn-xs" %>
+    </div>
+
+  </div>
 
 
-<%= link_to 'Edit', edit_recipe_path(@recipe) %> |
-<%= link_to 'Back', recipes_path %>
+
+
+  <div class="row bottom-margin">
+    <div class="col-md-offset-2 col-md-8">
+      <h2>Komentarze</h2>
+      <% unless @recipe.comments.blank? %>
+        <% @recipe.comments.each do |comment| %>
+              <% if comment.persisted? %>
+                  <div class="row">
+                    <div class="col-sm-2">
+                      <div class="thumbnail">
+                        <img class="img-responsive user-photo" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
+                      </div>
+                    </div>
+
+                    <div class="col-sm-10">
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <strong><%= User.find(comment.user_id).login %></strong> <span class="text-muted"><%= time_ago_in_words(comment.created_at)%></span>
+                        </div>
+                        <div class="panel-body">
+                          <%= comment.comment %>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+              <%end%>
+          <%end%>
+      <%end%>
+    </div>
+  </div>
+
+
+    <div class="row bottom-margin">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="row">
+          <div class="col-sm-2">
+            <div class="thumbnail">
+              <img class="img-responsive user-photo" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
+            </div>
+          </div>
+
+          <div class="col-sm-10">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <strong><%= current_user.login %></strong>
+              </div>
+              <div class="panel-body form">
+                <div class="form-group">
+                <%= form_for([@recipe, @comment]) do |f| %>
+                      <div class="form-group" >
+                    <%= f.text_field :comment, placeholder: "Dodaj komentarz...", class: "form-control" %>
+                    </div>
+                      <div class="form-group" style="float: left">
+                      <%= f.submit "Skomentuj", class: "btn btn-primary" %>
+                      </div>
+                <% end %>
+                  </div>
+              </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+    </div>
+
+  </div>
+
+
+
+
+  <%= link_to 'Edit', edit_recipe_path(@recipe) %> |
+  <%= link_to 'Back', recipes_path %>
+</div>
+
