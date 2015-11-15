@@ -1,15 +1,19 @@
-<div class="panel panel-default">
 <% recipes.each do |recipe| %>
-    <div class="col-md-4">
-      <div class="thumbnail">
-        <%= link_to image_tag(recipe.image.url(:med)), recipe.image.url %>
-        <div class="caption">
-          <h3><%= recipe.name %></h3>
-          <p><%= recipe.calories %> kalorii</p>
-          <p><%= recipe.instructions.truncate_words(30) %></p>
-          <p><%= link_to "Więcej", recipe_path(recipe), class: "btn btn-primary" %></p>
+    <div class="col-md-4 col-sm-6 recipe">
+      <div class="panel panel-default">
+        <%= image_tag(recipe.image.url, class: "img-responsive") %>
+
+        <div class="panel-body">
+          <p class='lead'><%= recipe.name %></p>
+          <hr><p class="text-muted cal"><%= recipe.calories %> kalorii</p></hr>
+        </div>
+        <div class="panel-footer">
+          <p class="text-muted"><span style="float:left"><%= "#{recipe.comments.size} komentarzy" %></span>
+            <span style="float:right"><%="#{recipe.votes_for.size} Si!" %></span></p>
         </div>
       </div>
     </div>
 <% end %>
-</div>
+
+
+
