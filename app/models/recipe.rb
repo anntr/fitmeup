@@ -32,7 +32,7 @@ class Recipe < ActiveRecord::Base
   end
 
   def self.sort_for_algorithm
-    all_recipes = Recipe.all
+    all_recipes = Recipe.where("calories > 0")
     sorted_recipes = []
     (1..5).each do |index|
       sorted_recipes.push(all_recipes.select{|item| item.category.include?(index.to_s)})
