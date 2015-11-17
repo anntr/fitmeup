@@ -26,9 +26,6 @@ class Recipe < ActiveRecord::Base
   def calculate_calories
     total_value = 0
     ingredients.each do |ingredient|
-      puts ingredient.inspect
-      puts "total value => #{total_value}"
-      puts "dodaje skladnik #{ingredient.product.name}, jednostka: #{ingredient.measure.unit}, kalorie =  #{ingredient.measure.calories} * #{ingredient.modifier}"
       total_value += ( ingredient.measure.calories * ingredient.modifier ) if ingredient.product
     end
     self.calories = total_value.round / servings

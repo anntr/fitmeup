@@ -43,7 +43,7 @@ class RecipesController < ApplicationController
     params = recipe_params
     @recipe = Recipe.new(params.except(:ingredients_attributes))
     add_ingredients(params[:ingredients_attributes])
-    @recipe.calculate_calories
+    @recipe.calculate_calories unless @recipe.products.blank?
 
     if params[:user_id] == "1"
       @recipe.user = current_user
@@ -67,7 +67,7 @@ class RecipesController < ApplicationController
     params = recipe_params
     @recipe.update(params.except(:ingredients_attributes))
     edit_ingredients(params[:ingredients_attributes])
-    @recipe.calculate_calories
+    @recipe.calculate_calories unless @recipe.products.blank?
     if params[:user_id] == "1"
       @recipe.user = current_user
     end
@@ -114,7 +114,7 @@ class RecipesController < ApplicationController
               ingredient.update(:measure => Measure.where(:unit => value["measure"], :product_id => product.id).first, :modifier => value["modifier"],
                                 :product => product)
             else
-              ingredient.update(:measure => Measure.where(:unit => value["measure"]).first, :modifier => value["modifier"],
+              ingredient.update(:modifier => value["modifier"],
                                 :item => value["product"]["name"])
             end
             ingredients << ingredient
@@ -142,7 +142,7 @@ class RecipesController < ApplicationController
           ingredient = Ingredient.new(:measure => Measure.where(:unit => params["measure"], :product_id => product.id).first, :modifier => params["modifier"],
                                       :product => product)
         else
-          ingredient = Ingredient.new(:measure => Measure.where(:unit => params["measure"]).first, :modifier => params["modifier"],
+          ingredient = Ingredient.new(:modifier => params["modifier"],
                                       :item => params["product"]["name"])
         end
       ingredient
