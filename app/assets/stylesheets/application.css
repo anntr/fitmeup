@@ -93,8 +93,6 @@ body{
 }
 
 .banner {
-    background-image: url("picjumbo.com_HNCK5644.jpg");
-    background-size: 100%;
     color: white;
     text-shadow: #333333;
     text-align: left;
@@ -103,6 +101,36 @@ body{
     border: none;
     border-radius: 0;
     text-shadow: 1px 0px 15px rgb(56, 55, 55);
+}
+
+.banner.main{
+    background-image: url("2.jpg");
+    background-size: 100%;
+}
+
+.banner.recipes{
+    background-image: url("3.jpg");
+    background-size: 100%;
+
+}
+
+.banner.new_recipe{
+    background-image: url("1.jpg");
+    background-size: 100%;
+
+}
+
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.login{
+    background-image: url("rej.jpg");
+    background-size: 100%;
 }
 
 .motto {
