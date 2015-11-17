@@ -38,8 +38,15 @@
       <ul class="list-group">
             <% @recipe.ingredients.each do |ingredient| %>
             <li class="list-group-item">
-                <span><%= ingredient.product.name %></span>
-                <span style="float: right"><%= "#{ingredient.modifier} #{ingredient.measure.unit}" %></span>
+              <%
+                 prod = ingredient.item
+                 prod = ingredient.product.name if prod.blank?
+                 mes = ingredient.measure.unit if ingredient.measure
+                 mes = "gram" if mes.blank?
+              %>
+
+                <span><%= prod %></span>
+                <span style="float: right"><%= "#{ingredient.modifier} #{mes}" %></span>
             </li>
       <%end%>
 

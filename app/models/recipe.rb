@@ -10,7 +10,7 @@ class Recipe < ActiveRecord::Base
   accepts_nested_attributes_for :products
 
 
-  has_attached_file :image, styles: { small: "64x64", med: "100x100", large: "200x200" }
+  has_attached_file :image, styles: { small: "64x64", med: "100x100", large: "200x200" }, :default_url => ActionController::Base.helpers.asset_path('/images/empty_s.jpg')
   validates_attachment :image,:size => { :in => 0..1.megabytes }
   validates_attachment_content_type :image,
                                     :content_type => /^image\/(png|gif|jpeg)/
