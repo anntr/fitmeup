@@ -1,0 +1,4767 @@
+[
+{
+  "ndbno": "20091",
+  "name": "Pasta, gluten-free, corn, dry",
+  "nutrients": [
+    {
+      "value": "10.00",
+      "group": "Proximates",
+      "nutrient_id": "255",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "10.50",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "5.70",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Water"
+    },
+    {
+      "value": "357",
+      "group": "Proximates",
+      "nutrient_id": "208",
+      "unit": "kcal",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "375",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "203",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Energy"
+    },
+    {
+      "value": "7.46",
+      "group": "Proximates",
+      "nutrient_id": "203",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "7.83",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "4.25",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Protein"
+    },
+    {
+      "value": "2.08",
+      "group": "Proximates",
+      "nutrient_id": "204",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "2.18",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "1.19",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Total lipid (fat)"
+    },
+    {
+      "value": "79.26",
+      "group": "Proximates",
+      "nutrient_id": "205",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "83.22",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "45.18",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Carbohydrate, by difference"
+    },
+    {
+      "value": "11.0",
+      "group": "Proximates",
+      "nutrient_id": "291",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "11.6",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "6.3",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Fiber, total dietary"
+    },
+    {
+      "value": "4",
+      "group": "Minerals",
+      "nutrient_id": "301",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "4",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "2",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Calcium, Ca"
+    },
+    {
+      "value": "0.93",
+      "group": "Minerals",
+      "nutrient_id": "303",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.98",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.53",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Iron, Fe"
+    },
+    {
+      "value": "119",
+      "group": "Minerals",
+      "nutrient_id": "304",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "125",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "68",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Magnesium, Mg"
+    },
+    {
+      "value": "253",
+      "group": "Minerals",
+      "nutrient_id": "305",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "266",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "144",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Phosphorus, P"
+    },
+    {
+      "value": "294",
+      "group": "Minerals",
+      "nutrient_id": "306",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "309",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "168",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Potassium, K"
+    },
+    {
+      "value": "3",
+      "group": "Minerals",
+      "nutrient_id": "307",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "3",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "2",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Sodium, Na"
+    },
+    {
+      "value": "1.79",
+      "group": "Minerals",
+      "nutrient_id": "309",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "1.88",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "1.02",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Zinc, Zn"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "401",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.0",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Vitamin C, total ascorbic acid"
+    },
+    {
+      "value": "0.231",
+      "group": "Vitamins",
+      "nutrient_id": "404",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.243",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.132",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Thiamin"
+    },
+    {
+      "value": "0.087",
+      "group": "Vitamins",
+      "nutrient_id": "405",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.091",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.050",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Riboflavin"
+    },
+    {
+      "value": "2.430",
+      "group": "Vitamins",
+      "nutrient_id": "406",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "2.552",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "1.385",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Niacin"
+    },
+    {
+      "value": "0.206",
+      "group": "Vitamins",
+      "nutrient_id": "415",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.216",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.117",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Vitamin B-6"
+    },
+    {
+      "value": "25",
+      "group": "Vitamins",
+      "nutrient_id": "435",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "26",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "14",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Folate, DFE"
+    },
+    {
+      "value": "0.00",
+      "group": "Vitamins",
+      "nutrient_id": "418",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.00",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.00",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Vitamin B-12"
+    },
+    {
+      "value": "9",
+      "group": "Vitamins",
+      "nutrient_id": "320",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "9",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "5",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Vitamin A, RAE"
+    },
+    {
+      "value": "170",
+      "group": "Vitamins",
+      "nutrient_id": "318",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "178",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "97",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Vitamin A, IU"
+    },
+    {
+      "value": "0.290",
+      "group": "Lipids",
+      "nutrient_id": "606",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.304",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.165",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Fatty acids, total saturated"
+    },
+    {
+      "value": "0.543",
+      "group": "Lipids",
+      "nutrient_id": "645",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.570",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.310",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Fatty acids, total monounsaturated"
+    },
+    {
+      "value": "0.924",
+      "group": "Lipids",
+      "nutrient_id": "646",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0.970",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.527",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Fatty acids, total polyunsaturated"
+    },
+    {
+      "value": "0",
+      "group": "Lipids",
+      "nutrient_id": "601",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup",
+          "value": "0",
+          "eqv": 105.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 57.0
+        }
+      ],
+      "name": "Cholesterol"
+    }
+  ]
+},
+{
+  "ndbno": "20420",
+  "name": "Pasta, dry, unenriched",
+  "nutrients": [
+    {
+      "value": "9.90",
+      "group": "Proximates",
+      "nutrient_id": "255",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "9.01",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "5.64",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "12.08",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "9.40",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "8.02",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "9.50",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "6.34",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "8.91",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Water"
+    },
+    {
+      "value": "371",
+      "group": "Proximates",
+      "nutrient_id": "208",
+      "unit": "kcal",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "338",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "211",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "453",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "352",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "301",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "356",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "237",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "334",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Energy"
+    },
+    {
+      "value": "13.04",
+      "group": "Proximates",
+      "nutrient_id": "203",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "11.87",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "7.43",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "15.91",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "12.39",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "10.56",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "12.52",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "8.35",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "11.74",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Protein"
+    },
+    {
+      "value": "1.51",
+      "group": "Proximates",
+      "nutrient_id": "204",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.37",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.86",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "1.84",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.43",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "1.22",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.45",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.97",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "1.36",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Total lipid (fat)"
+    },
+    {
+      "value": "74.67",
+      "group": "Proximates",
+      "nutrient_id": "205",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "67.95",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "42.56",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "91.10",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "70.94",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "60.48",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "71.68",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "47.79",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "67.20",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Carbohydrate, by difference"
+    },
+    {
+      "value": "3.2",
+      "group": "Proximates",
+      "nutrient_id": "291",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "2.9",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "1.8",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "3.9",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "3.0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.6",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "3.1",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "2.0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "2.9",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fiber, total dietary"
+    },
+    {
+      "value": "2.67",
+      "group": "Proximates",
+      "nutrient_id": "269",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "2.43",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "1.52",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "3.26",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "2.54",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.16",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "2.56",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "1.71",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "2.40",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Sugars, total"
+    },
+    {
+      "value": "21",
+      "group": "Minerals",
+      "nutrient_id": "301",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "19",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "12",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "26",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "20",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "17",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "20",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "13",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "19",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Calcium, Ca"
+    },
+    {
+      "value": "1.30",
+      "group": "Minerals",
+      "nutrient_id": "303",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.18",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.74",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "1.59",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.24",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "1.05",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.25",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.83",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "1.17",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Iron, Fe"
+    },
+    {
+      "value": "53",
+      "group": "Minerals",
+      "nutrient_id": "304",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "48",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "30",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "65",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "50",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "43",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "51",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "34",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "48",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Magnesium, Mg"
+    },
+    {
+      "value": "189",
+      "group": "Minerals",
+      "nutrient_id": "305",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "172",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "108",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "231",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "180",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "153",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "181",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "121",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "170",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Phosphorus, P"
+    },
+    {
+      "value": "223",
+      "group": "Minerals",
+      "nutrient_id": "306",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "203",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "127",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "272",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "212",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "181",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "214",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "143",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "201",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Potassium, K"
+    },
+    {
+      "value": "6",
+      "group": "Minerals",
+      "nutrient_id": "307",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "5",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "3",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "7",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "6",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "5",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "6",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "4",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "5",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Sodium, Na"
+    },
+    {
+      "value": "1.41",
+      "group": "Minerals",
+      "nutrient_id": "309",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.28",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.80",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "1.72",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.34",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "1.14",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.35",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.90",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "1.27",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Zinc, Zn"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "401",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin C, total ascorbic acid"
+    },
+    {
+      "value": "0.090",
+      "group": "Vitamins",
+      "nutrient_id": "404",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.082",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.051",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.110",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.085",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.073",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.086",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.058",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.081",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Thiamin"
+    },
+    {
+      "value": "0.060",
+      "group": "Vitamins",
+      "nutrient_id": "405",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.055",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.034",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.073",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.057",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.049",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.058",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.038",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.054",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Riboflavin"
+    },
+    {
+      "value": "1.700",
+      "group": "Vitamins",
+      "nutrient_id": "406",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.547",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.969",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "2.074",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.615",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "1.377",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.632",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "1.088",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "1.530",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Niacin"
+    },
+    {
+      "value": "0.142",
+      "group": "Vitamins",
+      "nutrient_id": "415",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.129",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.081",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.173",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.135",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.115",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.136",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.091",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.128",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin B-6"
+    },
+    {
+      "value": "18",
+      "group": "Vitamins",
+      "nutrient_id": "435",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "16",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "10",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "22",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "17",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "15",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "17",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "12",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "16",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Folate, DFE"
+    },
+    {
+      "value": "0.00",
+      "group": "Vitamins",
+      "nutrient_id": "418",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.00",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.00",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.00",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.00",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.00",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.00",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.00",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.00",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin B-12"
+    },
+    {
+      "value": "0",
+      "group": "Vitamins",
+      "nutrient_id": "320",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin A, RAE"
+    },
+    {
+      "value": "0",
+      "group": "Vitamins",
+      "nutrient_id": "318",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin A, IU"
+    },
+    {
+      "value": "0.11",
+      "group": "Vitamins",
+      "nutrient_id": "323",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.10",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.06",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.13",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.10",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.09",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.11",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.07",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.10",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin E (alpha-tocopherol)"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "328",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin D (D2 + D3)"
+    },
+    {
+      "value": "0",
+      "group": "Vitamins",
+      "nutrient_id": "324",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin D"
+    },
+    {
+      "value": "0.1",
+      "group": "Vitamins",
+      "nutrient_id": "430",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.1",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.1",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.1",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.1",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.1",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.1",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.1",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.1",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin K (phylloquinone)"
+    },
+    {
+      "value": "0.277",
+      "group": "Lipids",
+      "nutrient_id": "606",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.252",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.158",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.338",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.263",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.224",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.266",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.177",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.249",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total saturated"
+    },
+    {
+      "value": "0.171",
+      "group": "Lipids",
+      "nutrient_id": "645",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.156",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.097",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.209",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.162",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.139",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.164",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.109",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.154",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total monounsaturated"
+    },
+    {
+      "value": "0.564",
+      "group": "Lipids",
+      "nutrient_id": "646",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.513",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.321",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.688",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.536",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.457",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.541",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.361",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.508",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total polyunsaturated"
+    },
+    {
+      "value": "0.000",
+      "group": "Lipids",
+      "nutrient_id": "605",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.000",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0.000",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.000",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.000",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.000",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.000",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.000",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0.000",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total trans"
+    },
+    {
+      "value": "0",
+      "group": "Lipids",
+      "nutrient_id": "601",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 2.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 57.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagna",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Cholesterol"
+    }
+  ]
+},
+{
+  "ndbno": "20124",
+  "name": "Pasta, whole-wheat, dry",
+  "nutrients": [
+    {
+      "value": "8.21",
+      "group": "Proximates",
+      "nutrient_id": "255",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "7.47",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "10.02",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "7.80",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "6.65",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "7.88",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "5.25",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "7.39",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Water"
+    },
+    {
+      "value": "352",
+      "group": "Proximates",
+      "nutrient_id": "208",
+      "unit": "kcal",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "320",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "429",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "334",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "285",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "338",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "225",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "317",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Energy"
+    },
+    {
+      "value": "13.87",
+      "group": "Proximates",
+      "nutrient_id": "203",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "12.62",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "16.92",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "13.18",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "11.23",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "13.32",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "8.88",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "12.48",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Protein"
+    },
+    {
+      "value": "2.93",
+      "group": "Proximates",
+      "nutrient_id": "204",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "2.67",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "3.57",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "2.78",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.37",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "2.81",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "1.88",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "2.64",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Total lipid (fat)"
+    },
+    {
+      "value": "73.37",
+      "group": "Proximates",
+      "nutrient_id": "205",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "66.77",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "89.51",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "69.70",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "59.43",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "70.44",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "46.96",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "66.03",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Carbohydrate, by difference"
+    },
+    {
+      "value": "9.2",
+      "group": "Proximates",
+      "nutrient_id": "291",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "8.4",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "11.2",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "8.7",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "7.5",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "8.8",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "5.9",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "8.3",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fiber, total dietary"
+    },
+    {
+      "value": "2.74",
+      "group": "Proximates",
+      "nutrient_id": "269",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "2.49",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "3.34",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "2.60",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.22",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "2.63",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "1.75",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "2.47",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Sugars, total"
+    },
+    {
+      "value": "29",
+      "group": "Minerals",
+      "nutrient_id": "301",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "26",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "35",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "28",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "23",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "28",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "19",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "26",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Calcium, Ca"
+    },
+    {
+      "value": "3.62",
+      "group": "Minerals",
+      "nutrient_id": "303",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "3.29",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "4.42",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "3.44",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.93",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "3.48",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "2.32",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "3.26",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Iron, Fe"
+    },
+    {
+      "value": "128",
+      "group": "Minerals",
+      "nutrient_id": "304",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "116",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "156",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "122",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "104",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "123",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "82",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "115",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Magnesium, Mg"
+    },
+    {
+      "value": "343",
+      "group": "Minerals",
+      "nutrient_id": "305",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "312",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "418",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "326",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "278",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "329",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "220",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "309",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Phosphorus, P"
+    },
+    {
+      "value": "434",
+      "group": "Minerals",
+      "nutrient_id": "306",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "395",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "529",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "412",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "352",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "417",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "278",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "391",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Potassium, K"
+    },
+    {
+      "value": "6",
+      "group": "Minerals",
+      "nutrient_id": "307",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "5",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "7",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "6",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "5",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "6",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "4",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "5",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Sodium, Na"
+    },
+    {
+      "value": "2.97",
+      "group": "Minerals",
+      "nutrient_id": "309",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "2.70",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "3.62",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "2.82",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "2.41",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "2.85",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "1.90",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "2.67",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Zinc, Zn"
+    },
+    {
+      "value": "0.407",
+      "group": "Vitamins",
+      "nutrient_id": "404",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.370",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.497",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.387",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.330",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.391",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.260",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.366",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Thiamin"
+    },
+    {
+      "value": "0.218",
+      "group": "Vitamins",
+      "nutrient_id": "405",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.198",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.266",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.207",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.177",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.209",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.140",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.196",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Riboflavin"
+    },
+    {
+      "value": "8.691",
+      "group": "Vitamins",
+      "nutrient_id": "406",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "7.909",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "10.603",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "8.256",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "7.040",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "8.343",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "5.562",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "7.822",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Niacin"
+    },
+    {
+      "value": "0.283",
+      "group": "Vitamins",
+      "nutrient_id": "415",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.258",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.345",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.269",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.229",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.272",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.181",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.255",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin B-6"
+    },
+    {
+      "value": "69",
+      "group": "Vitamins",
+      "nutrient_id": "435",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "63",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "84",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "66",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "56",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "66",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "44",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "62",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Folate, DFE"
+    },
+    {
+      "value": "0.00",
+      "group": "Vitamins",
+      "nutrient_id": "418",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.00",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.00",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.00",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.00",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.00",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.00",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.00",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin B-12"
+    },
+    {
+      "value": "0.46",
+      "group": "Vitamins",
+      "nutrient_id": "323",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.42",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.56",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.44",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.37",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.44",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.29",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.41",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin E (alpha-tocopherol)"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "328",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin D (D2 + D3)"
+    },
+    {
+      "value": "0",
+      "group": "Vitamins",
+      "nutrient_id": "324",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin D"
+    },
+    {
+      "value": "1.4",
+      "group": "Vitamins",
+      "nutrient_id": "430",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.3",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "1.7",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.3",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "1.1",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.3",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.9",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "1.3",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Vitamin K (phylloquinone)"
+    },
+    {
+      "value": "0.428",
+      "group": "Lipids",
+      "nutrient_id": "606",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.389",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.522",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.407",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.347",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.411",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.274",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.385",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total saturated"
+    },
+    {
+      "value": "0.361",
+      "group": "Lipids",
+      "nutrient_id": "645",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.329",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.440",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.343",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.292",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.347",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.231",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.325",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total monounsaturated"
+    },
+    {
+      "value": "1.136",
+      "group": "Lipids",
+      "nutrient_id": "646",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "1.034",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "1.386",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "1.079",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.920",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "1.091",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.727",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "1.022",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total polyunsaturated"
+    },
+    {
+      "value": "0.002",
+      "group": "Lipids",
+      "nutrient_id": "605",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0.002",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0.002",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0.002",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0.002",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0.002",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0.001",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0.002",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Fatty acids, total trans"
+    },
+    {
+      "value": "0",
+      "group": "Lipids",
+      "nutrient_id": "601",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 1.0,
+          "label": "cup spaghetti",
+          "value": "0",
+          "eqv": 91.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup elbows",
+          "value": "0",
+          "eqv": 122.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup penne",
+          "value": "0",
+          "eqv": 95.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup farfalle",
+          "value": "0",
+          "eqv": 81.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup rotini",
+          "value": "0",
+          "eqv": 96.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup shells",
+          "value": "0",
+          "eqv": 64.0
+        },
+        {
+          "qty": 1.0,
+          "label": "cup lasagne",
+          "value": "0",
+          "eqv": 90.0
+        }
+      ],
+      "name": "Cholesterol"
+    }
+  ]
+},
+{
+  "ndbno": "05062",
+  "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+  "nutrients": [
+    {
+      "value": "73.90",
+      "group": "Proximates",
+      "nutrient_id": "255",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "62.82",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "201.01",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "684.31",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Water"
+    },
+    {
+      "value": "120",
+      "group": "Proximates",
+      "nutrient_id": "208",
+      "unit": "kcal",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "102",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "326",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "1111",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Energy"
+    },
+    {
+      "value": "22.50",
+      "group": "Proximates",
+      "nutrient_id": "203",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "19.12",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "61.20",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "208.35",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Protein"
+    },
+    {
+      "value": "2.62",
+      "group": "Proximates",
+      "nutrient_id": "204",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "2.23",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "7.13",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "24.26",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Total lipid (fat)"
+    },
+    {
+      "value": "0.00",
+      "group": "Proximates",
+      "nutrient_id": "205",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.00",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.00",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.00",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Carbohydrate, by difference"
+    },
+    {
+      "value": "0.0",
+      "group": "Proximates",
+      "nutrient_id": "291",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.0",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.0",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Fiber, total dietary"
+    },
+    {
+      "value": "0.00",
+      "group": "Proximates",
+      "nutrient_id": "269",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.00",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.00",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.00",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Sugars, total"
+    },
+    {
+      "value": "5",
+      "group": "Minerals",
+      "nutrient_id": "301",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "4",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "14",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "46",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Calcium, Ca"
+    },
+    {
+      "value": "0.37",
+      "group": "Minerals",
+      "nutrient_id": "303",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.31",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.01",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "3.43",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Iron, Fe"
+    },
+    {
+      "value": "28",
+      "group": "Minerals",
+      "nutrient_id": "304",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "24",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "76",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "259",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Magnesium, Mg"
+    },
+    {
+      "value": "213",
+      "group": "Minerals",
+      "nutrient_id": "305",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "181",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "579",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "1972",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Phosphorus, P"
+    },
+    {
+      "value": "334",
+      "group": "Minerals",
+      "nutrient_id": "306",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "284",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "908",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "3093",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Potassium, K"
+    },
+    {
+      "value": "45",
+      "group": "Minerals",
+      "nutrient_id": "307",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "38",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "122",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "417",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Sodium, Na"
+    },
+    {
+      "value": "0.68",
+      "group": "Minerals",
+      "nutrient_id": "309",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.58",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.85",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "6.30",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Zinc, Zn"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "401",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.0",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.0",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin C, total ascorbic acid"
+    },
+    {
+      "value": "0.094",
+      "group": "Vitamins",
+      "nutrient_id": "404",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.080",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.256",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.870",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Thiamin"
+    },
+    {
+      "value": "0.177",
+      "group": "Vitamins",
+      "nutrient_id": "405",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.150",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.481",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "1.639",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Riboflavin"
+    },
+    {
+      "value": "9.600",
+      "group": "Vitamins",
+      "nutrient_id": "406",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "8.160",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "26.112",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "88.896",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Niacin"
+    },
+    {
+      "value": "0.811",
+      "group": "Vitamins",
+      "nutrient_id": "415",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.689",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "2.206",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "7.510",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin B-6"
+    },
+    {
+      "value": "9",
+      "group": "Vitamins",
+      "nutrient_id": "435",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "8",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "24",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "83",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Folate, DFE"
+    },
+    {
+      "value": "0.21",
+      "group": "Vitamins",
+      "nutrient_id": "418",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.18",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.57",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "1.94",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin B-12"
+    },
+    {
+      "value": "9",
+      "group": "Vitamins",
+      "nutrient_id": "320",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "8",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "24",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "83",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin A, RAE"
+    },
+    {
+      "value": "30",
+      "group": "Vitamins",
+      "nutrient_id": "318",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "26",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "82",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "278",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin A, IU"
+    },
+    {
+      "value": "0.56",
+      "group": "Vitamins",
+      "nutrient_id": "323",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.48",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.52",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "5.19",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin E (alpha-tocopherol)"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "328",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.0",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.0",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin D (D2 + D3)"
+    },
+    {
+      "value": "1",
+      "group": "Vitamins",
+      "nutrient_id": "324",
+      "unit": "IU",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "1",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "3",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "9",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin D"
+    },
+    {
+      "value": "0.0",
+      "group": "Vitamins",
+      "nutrient_id": "430",
+      "unit": "\u00b5g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.0",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.0",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.0",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Vitamin K (phylloquinone)"
+    },
+    {
+      "value": "0.563",
+      "group": "Lipids",
+      "nutrient_id": "606",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.479",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.531",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "5.213",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Fatty acids, total saturated"
+    },
+    {
+      "value": "0.689",
+      "group": "Lipids",
+      "nutrient_id": "645",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.586",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.874",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "6.380",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Fatty acids, total monounsaturated"
+    },
+    {
+      "value": "0.424",
+      "group": "Lipids",
+      "nutrient_id": "646",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.360",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "1.153",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "3.926",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Fatty acids, total polyunsaturated"
+    },
+    {
+      "value": "0.007",
+      "group": "Lipids",
+      "nutrient_id": "605",
+      "unit": "g",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0.006",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0.019",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0.065",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Fatty acids, total trans"
+    },
+    {
+      "value": "73",
+      "group": "Lipids",
+      "nutrient_id": "601",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "62",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "199",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "676",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Cholesterol"
+    },
+    {
+      "value": "0",
+      "group": "Other",
+      "nutrient_id": "262",
+      "unit": "mg",
+      "measures": [
+        {
+          "qty": 3.0,
+          "label": "oz",
+          "value": "0",
+          "eqv": 85.0
+        },
+        {
+          "qty": 1.0,
+          "label": "piece",
+          "value": "0",
+          "eqv": 272.0
+        },
+        {
+          "qty": 1.0,
+          "label": "package",
+          "value": "0",
+          "eqv": 926.0
+        }
+      ],
+      "name": "Caffeine"
+    }
+  ]
+}
+
+]

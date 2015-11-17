@@ -1,4 +1,4 @@
-fileStr= File.read("fooddetails2.json")
+fileStr= File.read("pasta.json")
 products_informations = JSON.parse(fileStr)
 products = []
 products_informations.each do |product_info|
