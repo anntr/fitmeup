@@ -34,6 +34,9 @@ class RecipesController < ApplicationController
 
   # GET /recipes/1/edit
   def edit
+    if @recipe.user != current_user
+      redirect_to recipes_path, notice: "Nie możesz edytować czyichś przepisów"
+    end
   end
 
   # POST /recipes
@@ -65,24 +68,28 @@ class RecipesController < ApplicationController
   # PATCH/PUT /recipes/1
   # PATCH/PUT /recipes/1.json
   def update
-    params = recipe_params
-    @recipe.update(params.except(:ingredients_attributes))
-    add_ingredients(params[:ingredients_attributes])
-    @recipe.calculate_calories
-    if params[:user_id] == "1"
-      @recipe.user = current_user
+    if @recipe.user == current_user || current_user.admin?
+      params = recipe_params
+      @recipe.update(params.except(:ingredients_attributes))
+      add_ingredients(params[:ingredients_attributes])
+      @recipe.calculate_calories
+      if params[:user_id] == "1"
+        @recipe.user = current_user
+      end
+      respond_to do |format|
+        if @recipe.save
+          flash.now[:success] = 'Przepis został zakutalizowany!'
+          format.html { render :edit}
+          format.json { render :show, status: :ok, location: @recipe }
+        else
+          format.html { render :edit }
+          format.json { render json: @recipe.errors, status: :unprocessable_entity }
+        end
+      end
+    else
+      redirect_to index, notice: "Nie możesz edytować czyichś przepisów"
     end
 
-    respond_to do |format|
-      if @recipe.save
-        flash.now[:success] = 'Przepis został zakutalizowany!'
-        format.html { render :edit}
-        format.json { render :show, status: :ok, location: @recipe }
-      else
-        format.html { render :edit }
-        format.json { render json: @recipe.errors, status: :unprocessable_entity }
-      end
-    end
   end
 
   # DELETE /recipes/1
