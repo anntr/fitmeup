@@ -4,7 +4,6 @@ class RecipesController < ApplicationController
   before_action :set_recipe, only: [:show, :edit, :update, :destroy]
   autocomplete :product, :name, :full => true, :limit => 20
 
-
   # GET /recipes.json
   def index
     @recipes = Recipe.all
@@ -25,13 +24,13 @@ class RecipesController < ApplicationController
   def upvote
     @recipe = Recipe.find(params[:id])
     @recipe.liked_by current_user
-    redirect_to(@recipe)
+    redirect_to(@recipe, notice: "Głos został oddany")
   end
 
   def downvote
     @recipe = Recipe.find(params[:id])
     @recipe.downvote_from current_user
-    redirect_to(@recipe)
+    redirect_to(@recipe, notice: "Głos został oddany")
   end
 
   # GET /recipes/1/edit
@@ -53,7 +52,8 @@ class RecipesController < ApplicationController
 
     respond_to do |format|
       if @recipe.save
-        format.html { render :edit,  notice: 'Recipe was successfully created.' }
+        flash.now[:success] = 'Przepis został stworzony pomyślnie!'
+        format.html { render :edit }
         format.json { render :show, status: :created, location: @recipe }
       else
         format.html { render :new }
@@ -76,7 +76,8 @@ class RecipesController < ApplicationController
 
     respond_to do |format|
       if @recipe.save
-        format.html { render :edit, notice: 'Recipe was successfully updated.' }
+        flash.now[:success] = 'Przepis został zakutalizowany!'
+        format.html { render :edit}
         format.json { render :show, status: :ok, location: @recipe }
       else
         format.html { render :edit }

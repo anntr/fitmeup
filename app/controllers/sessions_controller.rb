@@ -9,16 +9,16 @@ class SessionsController < ApplicationController
 
     if user && user.authenticate(params[:login][:password])
       session[:user_id] = user.id
-      redirect_to root_path, notice: "zalogowany"
+      redirect_to root_path, success: "Pomyślnie zalogowano użytkownika"
     else
-      flash[:alert] = "Niepoprawny login lub hasło"
+      flash.now[:error] =  "Niepoprawny login lub hasło"
       render :new
     end
   end
 
   def destroy
     session[:user_id] = nil
-    redirect_to root_path, notice: "wylogowano"
+    redirect_to root_path, success: "Pomyślnie wylogowano użytkownika"
   end
 
   def session_params

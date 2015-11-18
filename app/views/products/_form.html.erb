@@ -1,4 +1,5 @@
 <%= form_for(@product) do |f| %>
+    <%= errors_for @product %>
     <div class="form-group" %>
       <%= f.label :name, "Nazwa" %>
       <%= f.text_field :name, placeholder: "Nazwa", class: "form-control" %>

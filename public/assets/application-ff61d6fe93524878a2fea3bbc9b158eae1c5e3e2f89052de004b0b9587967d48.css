@@ -7063,10 +7063,23 @@ body{
 
 }
 
-.banner.recipes{
+.banner.new_recipe{
     background-image: url("1.jpg");
     background-size: 100%;
 
+}
+
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.login{
+    background-image: url("rej.jpg");
+    background-size: 100%;
 }
 
 .motto {
@@ -7134,4 +7147,12 @@ body{
     font-size: 20px;
 }
 
+#error_explanation {
+    color: red;
+}
+
+#error_explanation ul {
+    color: red;
+    margin: 0 0 30px 0;
+}
 
