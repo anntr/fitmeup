@@ -1,3 +1,5 @@
+require './lib/IngredientFacade'
+
 class RecipesController < ApplicationController
   before_action :set_recipe, only: [:show, :edit, :update, :destroy]
   autocomplete :product, :name, :full => true, :limit => 20
@@ -19,7 +21,6 @@ class RecipesController < ApplicationController
   def new
     @recipe = Recipe.new
   end
-
 
   def upvote
     @recipe = Recipe.find(params[:id])
@@ -43,7 +44,8 @@ class RecipesController < ApplicationController
     params = recipe_params
     @recipe = Recipe.new(params.except(:ingredients_attributes))
     add_ingredients(params[:ingredients_attributes])
-    @recipe.calculate_calories unless @recipe.products.blank?
+
+    @recipe.calculate_calories
 
     if params[:user_id] == "1"
       @recipe.user = current_user
@@ -66,8 +68,8 @@ class RecipesController < ApplicationController
   def update
     params = recipe_params
     @recipe.update(params.except(:ingredients_attributes))
-    edit_ingredients(params[:ingredients_attributes])
-    @recipe.calculate_calories unless @recipe.products.blank?
+    add_ingredients(params[:ingredients_attributes])
+    @recipe.calculate_calories
     if params[:user_id] == "1"
       @recipe.user = current_user
     end
@@ -99,35 +101,6 @@ class RecipesController < ApplicationController
 
   private
 
-    def edit_ingredients params
-      ingredients = []
-      params.each do |key, value|
-        if value["id"]
-          ingredient = Ingredient.find(value["id"])
-        end
-        if ingredient
-          unless value["_destroy"] == "false"
-            ingredient.destroy
-          else
-            product = Product.where(:name => value["product"]["name"]).first
-            if product
-              ingredient.update(:measure => Measure.where(:unit => value["measure"], :product_id => product.id).first, :modifier => value["modifier"],
-                                :product => product)
-            else
-              ingredient.update(:modifier => value["modifier"],
-                                :item => value["product"]["name"])
-            end
-            ingredients << ingredient
-          end
-        else
-          ingredients << add_ingredient(value)
-        end
-
-      end
-      @recipe.ingredients = ingredients
-    end
-
-
     def add_ingredients params
       ingredients = []
       params.each do |key, value|
@@ -137,14 +110,18 @@ class RecipesController < ApplicationController
     end
 
     def add_ingredient params
-      product = Product.where(:name => params["product"]["name"]).first
+      ingredient = Ingredient.find_by_id(params["id"]) || Ingredient.new(:modifier => params["modifier"])
+      if ingredient.persisted? && params["_destroy"] != "false"
+          ingredient.mark_for_destruction
+      else
+        product = Product.where(:name => params["product"]["name"]).first
         if product
-          ingredient = Ingredient.new(:measure => Measure.where(:unit => params["measure"], :product_id => product.id).first, :modifier => params["modifier"],
-                                      :product => product)
+          ingredient.measure = product.measures.where(:unit => params["measure"]).first
+          ingredient.product = product
         else
-          ingredient = Ingredient.new(:modifier => params["modifier"],
-                                      :item => params["product"]["name"])
+          ingredient.item = params["product"]["name"]
         end
+      end
       ingredient
     end
 
