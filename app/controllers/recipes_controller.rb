@@ -35,7 +35,7 @@ class RecipesController < ApplicationController
   # GET /recipes/1/edit
   def edit
     if @recipe.user != current_user
-      redirect_to recipes_path, notice: "Nie możesz edytować czyichś przepisów"
+      redirect_to recipes_path, notice: "Nie możesz edytować czyichś przepisów" unless current_user.admin?
     end
   end
 
@@ -47,9 +47,9 @@ class RecipesController < ApplicationController
     add_ingredients(params[:ingredients_attributes])
 
     @recipe.calculate_calories
-
+    @recipe.user = current_user
     if params[:user_id] == "1"
-      @recipe.user = current_user
+      @recipe.private = true
     end
 
     respond_to do |format|
@@ -73,8 +73,9 @@ class RecipesController < ApplicationController
       @recipe.update(params.except(:ingredients_attributes))
       add_ingredients(params[:ingredients_attributes])
       @recipe.calculate_calories
+      @recipe.user = current_user
       if params[:user_id] == "1"
-        @recipe.user = current_user
+        @recipe.private = true
       end
       respond_to do |format|
         if @recipe.save

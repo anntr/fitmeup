@@ -5,7 +5,7 @@
         <%= image_tag(recipe.image.url, class: "img-responsive") %>
 
         <div class="panel-body">
-          <p class='lead'><%= recipe.name %></p>
+          <p class='lead'><%= truncate(recipe.name) %></p>
           <hr><p class="text-muted cal"><%= recipe.calories %> kalorii</p></hr>
         </div>
         <div class="panel-footer">

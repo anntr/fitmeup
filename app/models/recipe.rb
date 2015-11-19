@@ -16,6 +16,8 @@ class Recipe < ActiveRecord::Base
                                     :content_type => /^image\/(png|gif|jpeg)/
 
   validates :name, :instructions, :category, :ingredients, presence: true
+  validates :name, length: { in: 3..100, wrong_length: "Tytuł musi mieć od 3 do 100 znaków"}
+  after_validation :uncheck_ingredients
 
   scope :any_category, -> (category){where(" ? = ANY(category)", category)}
 
@@ -40,6 +42,13 @@ class Recipe < ActiveRecord::Base
     sorted_recipes
   end
 
+  def uncheck_ingredients
+    if errors.any?
+      ingredients.each do |ingredient|
+        ingredient.reload if ingredient.marked_for_destruction?
+      end
+    end
+  end
 end
 
 
