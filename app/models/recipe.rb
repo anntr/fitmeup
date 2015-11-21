@@ -17,6 +17,8 @@ class Recipe < ActiveRecord::Base
 
   validates :name, :instructions, :category, :ingredients, presence: true
   validates :name, length: { in: 3..100, wrong_length: "Tytuł musi mieć od 3 do 100 znaków"}
+  validates :instructions, length: { maximum: 3000 }
+
   after_validation :uncheck_ingredients
 
   scope :any_category, -> (category){where(" ? = ANY(category)", category)}
@@ -49,6 +51,8 @@ class Recipe < ActiveRecord::Base
       end
     end
   end
+
+
 end
 
 

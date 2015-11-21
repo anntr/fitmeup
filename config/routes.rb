@@ -15,6 +15,7 @@ Rails.application.routes.draw do
     resources :ingredients
     resources :comments
     member do
+      get 'print_recipe', :defaults => { :format => 'pdf' }
       put 'upvote'
       put 'downvote'
     end
