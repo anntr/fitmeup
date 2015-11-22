@@ -26,7 +26,6 @@
           <li> <%= link_to "Stwórz przepis", new_recipe_path %></li>
         </ul>
       </li>
-      <li><%= link_to "Porady", "#" %></li>
       <li>
         <% if current_user %>
             <%= link_to "Wyloguj (#{current_user.login})", logout_path %>
