@@ -26,8 +26,8 @@
         </div>
         <div class="col-md-4">
           <span>Ocena</span>
-          <span class="big"><%= "#{@recipe.get_upvotes.size} / #{@recipe.votes_for.size}" %></span>
-          <span>Si</span>
+          <span class="big"><%= "#{@recipe.get_upvotes.size} / #{@recipe.get_downvotes.size}" %></span>
+          <span>Si! / Ne.</span>
         </div>
       </div>
     </div>
