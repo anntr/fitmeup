@@ -10,7 +10,7 @@
     </div>
 
     <div class="form-group col-md-2">
-      <%= f.number_field :modifier, value: f.object.modifier || 1, class: "form-control input-sm" %>
+      <%= f.number_field :modifier, within: 0...2000, value: f.object.modifier || 1, class: "form-control input-sm" %>
     </div>
     <div class="form-group col-md-5">
       <% mes = [] %>
