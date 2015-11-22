@@ -50,8 +50,12 @@ class RecipesController < ApplicationController
   def create
     params = recipe_params
     @recipe = Recipe.new(params.except(:ingredients_attributes))
-    add_ingredients(params[:ingredients_attributes])
-
+    unless params[:ingredients_attributes].blank?
+      add_ingredients(params[:ingredients_attributes])
+    else
+      flash.now[:error] = "Musisz dodać conajmniej jeden składnik"
+      render :new and return
+    end
     @recipe.calculate_calories
     @recipe.user = current_user
     if params[:private] == "1"
@@ -77,7 +81,12 @@ class RecipesController < ApplicationController
     if @recipe.user == current_user || current_user.admin?
       params = recipe_params
       @recipe.update(params.except(:ingredients_attributes))
-      add_ingredients(params[:ingredients_attributes])
+      unless params[:ingredients_attributes].blank?
+        add_ingredients(params[:ingredients_attributes])
+      else
+        flash.now[:error] = "Musisz dodać conajmniej jeden składnik"
+        render :edit and return
+      end
       @recipe.calculate_calories
       @recipe.user = current_user
       if params[:private] == "1"
