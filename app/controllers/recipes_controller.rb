@@ -5,7 +5,7 @@ class RecipesController < ApplicationController
 
   # GET /recipes.json
   def index
-    @recipes = Recipe.all
+    @recipes = Recipe.where(:private => false)
   end
 
   # GET /recipes/1
@@ -54,7 +54,7 @@ class RecipesController < ApplicationController
 
     @recipe.calculate_calories
     @recipe.user = current_user
-    if params[:user_id] == "1"
+    if params[:private] == "1"
       @recipe.private = true
     end
 
@@ -80,7 +80,7 @@ class RecipesController < ApplicationController
       add_ingredients(params[:ingredients_attributes])
       @recipe.calculate_calories
       @recipe.user = current_user
-      if params[:user_id] == "1"
+      if params[:private] == "1"
         @recipe.private = true
       end
       respond_to do |format|
@@ -167,7 +167,7 @@ class RecipesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def recipe_params
-      params.require(:recipe).permit(:name, :instructions, :user_id, :image, :servings, :calories, :category => [],
+      params.require(:recipe).permit(:name, :instructions, :private, :image, :servings, :calories, :category => [],
                                      :menu_ids => [], :ingredients_attributes => [:id, :item, :measure, :modifier,
                                                                                   :_destroy, :product => :name])
     end

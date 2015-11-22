@@ -9,11 +9,13 @@
 
 <div class="row">
   <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" data-target="#all">Wszystkie</a></li>
-    <li><a data-toggle="tab" data-target="#breakfast">Śniadania</a></li>
-    <li><a data-toggle="tab" data-target="#snack">Przekąski</a></li>
-    <li><a data-toggle="tab" data-target="#lunch">Lunch</a></li>
-    <li><a data-toggle="tab" data-target="#dinner">Obiady</a></li>
+    <li class="active"><a data-toggle="tab" data-target="#all">Wszystkie (<%= @recipes.count %>)</a></li>
+    <li><a data-toggle="tab" data-target="#breakfast">Śniadania (<%= @recipes.any_category("1").count %>)</a></li>
+    <li><a data-toggle="tab" data-target="#snack">Przekąski (<%=@recipes.any_category("2").count %>)</a></li>
+    <li><a data-toggle="tab" data-target="#lunch">Lunch (<%=@recipes.any_category("3").count %>)</a></li>
+    <li><a data-toggle="tab" data-target="#dinner">Obiady (<%=@recipes.any_category("4").count %>)</a></li>
+    <li><a data-toggle="tab" data-target="#private">Twoje przepisy (<%= Recipe.user_recipes(current_user).count%>)</a></li>
+
   </ul>
 
   <div class="tab-content">
@@ -22,6 +24,8 @@
     <div id="snack" class="tab-pane fade"><%= render "recipes", :recipes => @recipes.any_category("2")  %></div>
     <div id="lunch" class="tab-pane fade "><%= render "recipes", :recipes => @recipes.any_category("3")%></div>
     <div id="dinner" class="tab-pane fade"><%= render "recipes", :recipes => @recipes.any_category("4")  %></div>
+    <div id="private" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.user_recipes(current_user)%></div>
+
   </div>
 
 </div>

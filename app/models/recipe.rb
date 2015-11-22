@@ -21,7 +21,10 @@ class Recipe < ActiveRecord::Base
 
   after_validation :uncheck_ingredients
 
-  scope :any_category, -> (category){where(" ? = ANY(category)", category)}
+  scope :any_category, -> (category){where(" ? = ANY(category)", category).where(:private => false)}
+  scope :user_recipes, lambda { |curr_user|
+                       where(:user => curr_user)
+                     }
 
   def image_attached?
     self.image.file?
