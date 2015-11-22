@@ -1,7 +1,7 @@
 
 class RecipesController < ApplicationController
   before_action :set_recipe, only: [:show, :edit, :update, :destroy]
-  autocomplete :product, :name, :full => true, :limit => 20
+  autocomplete :product, :name_t, :full => true, :limit => 20
 
   # GET /recipes.json
   def index
@@ -145,18 +145,24 @@ class RecipesController < ApplicationController
     end
 
     def add_ingredient params
-      ingredient = Ingredient.find_by_id(params["id"]) || Ingredient.new(:modifier => params["modifier"])
+      puts "kurwaaaaaaa"
+      puts params
+      ingredient = Ingredient.find_by_id(params["id"]) || Ingredient.new
+      puts "ingr : #{ingredient.inspect}"
       if ingredient.persisted? && params["_destroy"] != "false"
           ingredient.mark_for_destruction
       else
-        product = Product.where(:name => params["product"]["name"]).first
+        product = Product.where(:name_t => params["product"]["name"]).first
         if product
-          ingredient.measure = product.measures.where(:unit => params["measure"]).first
+          ingredient.measure = product.measures.where(:unit_t => params["measure"]).first
           ingredient.product = product
         else
           ingredient.item = params["product"]["name"]
         end
       end
+
+      ingredient.modifier = params["modifier"]
+      puts ingredient.inspect
       ingredient
     end
 

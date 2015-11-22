@@ -1,0 +1,2359 @@
+01001	Butter, salted	Mas³o, solone	gram	35794	gram
+01001	Butter, salted	Mas³o, solone	"pat (1"" sq, 1/3"" high)"	35795	kawa³ek
+01001	Butter, salted	Mas³o, solone	tbsp	35796	³y¿ka
+01001	Butter, salted	Mas³o, solone	cup	35797	szklanka
+01001	Butter, salted	Mas³o, solone	stick	35798	kostka
+01002	Butter, whipped, with salt	Mas³o, bite, solone	gram	35799	gram
+01002	Butter, whipped, with salt	Mas³o, bite, solone	"pat (1"" sq, 1/3"" high)"	35800	kawa³ek
+01002	Butter, whipped, with salt	Mas³o, bite, solone	tbsp	35801	³y¿ka
+01002	Butter, whipped, with salt	Mas³o, bite, solone	cup	35802	szklanka
+01002	Butter, whipped, with salt	Mas³o, bite, solone	stick	35803	kostka
+01003	Butter oil, anhydrous	Olej maœlany, bezwodny	gram	35804	gram
+01003	Butter oil, anhydrous	Olej maœlany, bezwodny	tbsp	35805	³y¿ka
+01003	Butter oil, anhydrous	Olej maœlany, bezwodny	cup	35806	szklanka
+01004	Cheese, blue	Ser, niebieski	gram	35807	gram
+01004	Cheese, blue	Ser, niebieski	oz	35808	uncja (28 gram)
+01004	Cheese, blue	Ser, niebieski	cubic inch	35809	cal szeœcienny
+01004	Cheese, blue	Ser, niebieski	cup, crumbled, not packed	35810	szklanka, pokruszony
+01005	Cheese, brick	Ser, ¿ó³ty	gram	35811	gram
+01005	Cheese, brick	Ser, ¿ó³ty	cup, diced	35812	szklanka, pokrojony w kostkê
+01005	Cheese, brick	Ser, ¿ó³ty	cup, shredded	35813	szklanka, poszatkowany
+01005	Cheese, brick	Ser, ¿ó³ty	oz	35814	uncja (28 gram)
+01005	Cheese, brick	Ser, ¿ó³ty	cubic inch	35815	cal szeœcienny
+01005	Cheese, brick	Ser, ¿ó³ty	slice (1 oz)	35816	plaster (28 g)
+01006	Cheese, brie	Ser Brie	gram	35817	gram
+01006	Cheese, brie	Ser Brie	oz	35818	uncja (28 gram)
+01006	Cheese, brie	Ser Brie	cup, sliced	35819	szklanka, pokrojony
+01006	Cheese, brie	Ser Brie	cup, melted	35820	szklanka, topiony
+01006	Cheese, brie	Ser Brie	cubic inch	35821	cal szeœcienny
+01006	Cheese, brie	Ser Brie	package (4.5 oz)	35822	paczka (130 gram)
+01007	Cheese, camembert	Ser Camembert	gram	35823	gram
+01007	Cheese, camembert	Ser Camembert	oz	35824	uncja (28 gram)
+01007	Cheese, camembert	Ser Camembert	cup	35825	szklanka
+01007	Cheese, camembert	Ser Camembert	cubic inch	35826	cal szeœcienny
+01007	Cheese, camembert	Ser Camembert	wedge (1.33 oz)	35827	klin (36 gram)
+01008	Cheese, caraway	Ser Caraway	gram	35828	gram
+01008	Cheese, caraway	Ser Caraway	oz	35829	uncja (28 gram)
+01009	Cheese, cheddar	Ser Cheddar	gram	35830	gram
+01009	Cheese, cheddar	Ser Cheddar	cup, diced	35831	szklanka, pokrojony w kostkê
+01009	Cheese, cheddar	Ser Cheddar	cup, melted	35832	szklanka, topiony
+01009	Cheese, cheddar	Ser Cheddar	cup, shredded	35833	szklanka, posiekany
+01009	Cheese, cheddar	Ser Cheddar	oz	35834	uncja (28 gram)
+01009	Cheese, cheddar	Ser Cheddar	cubic inch	35835	cal szeœcienny
+01009	Cheese, cheddar	Ser Cheddar	slice (1 oz)	35836	plaster (28 g)
+01010	Cheese, cheshire	Ser Chesire	gram	35837	gram
+01010	Cheese, cheshire	Ser Chesire	oz	35838	uncja (28 gram)
+01012	Cheese, cottage, creamed, large or small curd	Serek wiejski	gram	35839	gram
+01012	Cheese, cottage, creamed, large or small curd	Serek wiejski	oz	35840	uncja (28 gram)
+01012	Cheese, cottage, creamed, large or small curd	Serek wiejski	cup, large curd (not packed)	35841	szklanka, gruboziarnisty
+01012	Cheese, cottage, creamed, large or small curd	Serek wiejski	cup, small curd (not packed)	35842	szklanka, cienkoziarnisty
+01013	Cheese, cottage, creamed, with fruit	Serek wiejski z owocami	gram	35843	gram
+01013	Cheese, cottage, creamed, with fruit	Serek wiejski z owocami	oz	35844	uncja (28 gram)
+01013	Cheese, cottage, creamed, with fruit	Serek wiejski z owocami	cup (not packed)	35845	szklanka
+01014	Cheese, cottage, nonfat, uncreamed, dry, large or small curd	Serek wiejski, bez t³uszczu	gram	35846	gram
+01014	Cheese, cottage, nonfat, uncreamed, dry, large or small curd	Serek wiejski, bez t³uszczu	cup (not packed)	35847	szklanka
+01014	Cheese, cottage, nonfat, uncreamed, dry, large or small curd	Serek wiejski, bez t³uszczu	oz	35848	uncja (28 gram)
+01015	Cheese, cottage, lowfat, 2% milkfat	Serek wiejski, 2% t³uszczu	gram	35849	gram
+01015	Cheese, cottage, lowfat, 2% milkfat	Serek wiejski, 2% t³uszczu	oz	35850	uncja (28 gram)
+01015	Cheese, cottage, lowfat, 2% milkfat	Serek wiejski, 2% t³uszczu	cup (not packed)	35851	szklanka
+01016	Cheese, cottage, lowfat, 1% milkfat	Serek wiejski, 1% t³uszczu	gram	35852	gram
+01016	Cheese, cottage, lowfat, 1% milkfat	Serek wiejski, 1% t³uszczu	oz	35853	uncja (28 gram)
+01016	Cheese, cottage, lowfat, 1% milkfat	Serek wiejski, 1% t³uszczu	cup (not packed)	35854	szklanka
+01017	Cheese, cream	Serek œmietankowy	gram	35855	gram
+01017	Cheese, cream	Serek œmietankowy	tbsp	35856	³y¿ka
+01017	Cheese, cream	Serek œmietankowy	cup	35857	szklanka
+01017	Cheese, cream	Serek œmietankowy	tbsp, whipped	35858	³y¿ka, bity
+01017	Cheese, cream	Serek œmietankowy	oz	35859	uncja (28 gram)
+01017	Cheese, cream	Serek œmietankowy	cubic inch	35860	cal szeœcienny
+01017	Cheese, cream	Serek œmietankowy	package, small (3 oz)	35861	paczka, ma³a (85 gram)
+01018	Cheese, edam	Ser Edam	gram	35862	gram
+01018	Cheese, edam	Ser Edam	oz	35863	uncja (28 gram)
+01018	Cheese, edam	Ser Edam	package (7 oz)	35864	paczka (200 gram)
+01019	Cheese, feta	Ser Feta	gram	35865	gram
+01019	Cheese, feta	Ser Feta	cup, crumbled	35866	szklanka, pokruszony
+01019	Cheese, feta	Ser Feta	oz	35867	uncja (28 gram)
+01019	Cheese, feta	Ser Feta	cubic inch	35868	cal szeœcienny
+01019	Cheese, feta	Ser Feta	wedge (1.33 oz)	35869	klin (36 gram)
+01022	Cheese, gouda	Ser Gouda	gram	35870	gram
+01022	Cheese, gouda	Ser Gouda	oz	35871	uncja (28 gram)
+01022	Cheese, gouda	Ser Gouda	package (7 oz)	35872	paczka (200 gram)
+01025	Cheese, monterey	Ser Monterey	gram	35873	gram
+01025	Cheese, monterey	Ser Monterey	cup, diced	35874	szklanka, pokrojony w kostkê
+01025	Cheese, monterey	Ser Monterey	cup, shredded	35875	szklanka, posiekany
+01025	Cheese, monterey	Ser Monterey	oz	35876	uncja (28 gram)
+01025	Cheese, monterey	Ser Monterey	cubic inch	35877	cal szeœcienny
+01025	Cheese, monterey	Ser Monterey	slice (1 oz)	35878	plaster (28 g)
+01025	Cheese, monterey	Ser Monterey	package (6 oz)	35879	paczka (170 gram)
+01026	Cheese, mozzarella, whole milk	Ser Mozarella, t³usty	gram	35880	gram
+01026	Cheese, mozzarella, whole milk	Ser Mozarella, t³usty	cup, shredded	35881	szklanka, posiekany
+01026	Cheese, mozzarella, whole milk	Ser Mozarella, t³usty	oz	35882	uncja (28 gram)
+01026	Cheese, mozzarella, whole milk	Ser Mozarella, t³usty	slices	35883	plaster (28 gram)
+01027	Cheese, mozzarella, whole milk, low moisture	Ser Mozarella, t³usty, w zalewie	gram	35884	gram
+01027	Cheese, mozzarella, whole milk, low moisture	Ser Mozarella, t³usty, w zalewie	oz	35885	uncja (28 gram)
+01027	Cheese, mozzarella, whole milk, low moisture	Ser Mozarella, t³usty, w zalewie	cubic inch	35886	cal szeœcienny
+01028	Cheese, mozzarella, part skim milk	Ser Mozarella, chudy	gram	35887	gram
+01028	Cheese, mozzarella, part skim milk	Ser Mozarella, chudy	oz	35888	uncja (28 gram)
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	gram	35889	gram
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	cup, diced	35890	szklanka, pokrojony w kostkê
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	cup, shredded	35891	szklanka, posiekany
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	oz	35892	uncja (28 gram)
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	cubic inch	35893	cal szeœcienny
+01029	Cheese, mozzarella, low moisture, part-skim	Ser Mozarella, chudy, w zalewie	slice (1 oz)	35894	plaster (28 g)
+01032	Cheese, parmesan, grated	Ser Parmezan, tarty	gram	35895	gram
+01032	Cheese, parmesan, grated	Ser Parmezan, tarty	cup	35896	szklanka
+01032	Cheese, parmesan, grated	Ser Parmezan, tarty	tbsp	35897	³y¿ka
+01032	Cheese, parmesan, grated	Ser Parmezan, tarty	oz	35898	uncja (28 gram)
+01033	Cheese, parmesan, hard	Ser Parmezan, twardy	gram	35899	gram
+01033	Cheese, parmesan, hard	Ser Parmezan, twardy	oz	35900	uncja (28 gram)
+01033	Cheese, parmesan, hard	Ser Parmezan, twardy	cubic inch	35901	cal szeœcienny
+01033	Cheese, parmesan, hard	Ser Parmezan, twardy	package (5 oz)	35902	paczka (140 gram)
+01036	Cheese, ricotta, whole milk	Ser Ricotta, pe³nomleczny	gram	35903	gram
+01036	Cheese, ricotta, whole milk	Ser Ricotta, pe³nomleczny	cup	35904	szklanka
+01036	Cheese, ricotta, whole milk	Ser Ricotta, pe³nomleczny	cup	35905	szklanka
+01037	Cheese, ricotta, part skim milk	Ser Ricotta, chudy	gram	35906	gram
+01037	Cheese, ricotta, part skim milk	Ser Ricotta, chudy	cup	35907	szklanka
+01037	Cheese, ricotta, part skim milk	Ser Ricotta, chudy	oz	35908	uncja (28 gram)
+01037	Cheese, ricotta, part skim milk	Ser Ricotta, chudy	cup	35909	szklanka
+01039	Cheese, roquefort	Ser Roquefort	gram	35910	gram
+01039	Cheese, roquefort	Ser Roquefort	oz	35911	uncja (28 gram)
+01039	Cheese, roquefort	Ser Roquefort	package (3 oz)	35912	paczka (85 gram)
+01040	Cheese, swiss	Ser, szwajcarski	gram	35913	gram
+01040	Cheese, swiss	Ser, szwajcarski	cup, diced	35914	szklanka, pokrojony w kostkê
+01040	Cheese, swiss	Ser, szwajcarski	cup, melted	35915	szklanka, topiony
+01040	Cheese, swiss	Ser, szwajcarski	cup, shredded	35916	szklanka, posiekany
+01040	Cheese, swiss	Ser, szwajcarski	oz	35917	uncja (28 gram)
+01040	Cheese, swiss	Ser, szwajcarski	cubic inch	35918	cal szeœcienny
+01040	Cheese, swiss	Ser, szwajcarski	slice (1 oz)	35919	plaster (28 g)
+01049	Cream, fluid, half and half	Œmietana, pó³ na pó³	gram	35920	gram
+01049	Cream, fluid, half and half	Œmietana, pó³ na pó³	fl oz	35921	uncja cieczy (60 ml)
+01049	Cream, fluid, half and half	Œmietana, pó³ na pó³	tbsp	35922	³y¿ka
+01049	Cream, fluid, half and half	Œmietana, pó³ na pó³	cup	35923	szklanka
+01049	Cream, fluid, half and half	Œmietana, pó³ na pó³	container, individual (.5 fl oz)	35924	miarka (30 ml)
+01050	Cream, fluid, light (coffee cream or table cream)	Œmietana do kawy	fl oz	35926	uncja cieczy (60 ml)
+01050	Cream, fluid, light (coffee cream or table cream)	Œmietana do kawy	tbsp	35927	³y¿ka
+01050	Cream, fluid, light (coffee cream or table cream)	Œmietana do kawy	cup	35928	szklanka
+01050	Cream, fluid, light (coffee cream or table cream)	Œmietana do kawy	container, individual	35929	miarka (30 ml)
+01050	Cream, fluid, light (coffee cream or table cream)	Œmietana, pó³ na pó³	gram	35925	gram
+01052	Cream, fluid, light whipping	Bita œmietana, light	gram	35930	gram
+01052	Cream, fluid, light whipping	Bita œmietana, light	cup, whipped	35931	szklanka
+01052	Cream, fluid, light whipping	Bita œmietana, light	cup, fluid (yields 2 cups whipped)	35932	p³ynna
+01052	Cream, fluid, light whipping	Bita œmietana, light	tbsp	35933	³y¿ka
+01053	Cream, fluid, heavy whipping	Bita œmietana	gram	35934	gram
+01053	Cream, fluid, heavy whipping	Bita œmietana	cup, whipped	35935	szklanka
+01053	Cream, fluid, heavy whipping	Bita œmietana	cup, fluid (yields 2 cups whipped)	35936	p³ynna
+01053	Cream, fluid, heavy whipping	Bita œmietana	tbsp	35937	³y¿ka
+01053	Cream, fluid, heavy whipping	Bita œmietana	fl oz	35938	uncja cieczy (60 ml)
+01054	Cream, whipped, cream topping, pressurized	Bita œmietana, gotowa	gram	35939	gram
+01054	Cream, whipped, cream topping, pressurized	Bita œmietana, gotowa	cup	35940	szklanka
+01054	Cream, whipped, cream topping, pressurized	Bita œmietana, gotowa	tbsp	35941	³y¿ka
+01055	Cream, sour, reduced fat, cultured	Œmietana pasteryzowana, light	gram	35942	gram
+01055	Cream, sour, reduced fat, cultured	Œmietana pasteryzowana, light	tbsp	35943	³y¿ka
+01055	Cream, sour, reduced fat, cultured	Œmietana pasteryzowana, light	cup	35944	szklanka
+01056	Cream, sour, cultured	Œmietana pasteryzowana	gram	35945	gram
+01056	Cream, sour, cultured	Œmietana pasteryzowana	tbsp	35946	³y¿ka
+01056	Cream, sour, cultured	Œmietana pasteryzowana	cup	35947	szklanka
+01057	Eggnog	Ajerkoniak	gram	35948	gram
+01057	Eggnog	Ajerkoniak	cup	35949	szklanka
+01057	Eggnog	Ajerkoniak	fl oz	35950	uncja cieczy (60 ml)
+01057	Eggnog	Ajerkoniak	quart	35951	kwarta (950 ml)
+01077	Milk, whole, 3.25% milkfat, with added vitamin D	Mleko 3.2%	gram	35952	gram
+01077	Milk, whole, 3.25% milkfat, with added vitamin D	Mleko 3.2%	cup	35953	szklanka
+01077	Milk, whole, 3.25% milkfat, with added vitamin D	Mleko 3.2%	fl oz	35954	uncja cieczy (60 ml)
+01077	Milk, whole, 3.25% milkfat, with added vitamin D	Mleko 3.2%	tbsp	35955	³y¿ka
+01077	Milk, whole, 3.25% milkfat, with added vitamin D	Mleko 3.2%	quart	35956	kwarta (950 ml)
+01078	Milk, producer, fluid, 3.7% milkfat	Mleko 3.7%	gram	35957	gram
+01078	Milk, producer, fluid, 3.7% milkfat	Mleko 3.7%	cup	35958	szklanka
+01078	Milk, producer, fluid, 3.7% milkfat	Mleko 3.7%	quart	35959	kwarta (950 ml)
+01079	Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D	Mleko 2%, z wit. A i D	gram	35960	gram
+01079	Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D	Mleko 2%, z wit. A i D	cup	35961	szklanka
+01079	Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D	Mleko 2%, z wit. A i D	fl oz	35962	uncja cieczy (60 ml)
+01079	Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D	Mleko 2%, z wit. A i D	quart	35963	kwarta (950 ml)
+01080	Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D	Mleko 2%	gram	35964	gram
+01080	Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D	Mleko 2%	cup	35965	szklanka
+01080	Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D	Mleko 2%	quart	35966	kwarta (950 ml)
+01081	Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 2%, z wysok¹ zawartoœci¹ bia³ka	gram	35967	gram
+01081	Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 2%, z wysok¹ zawartoœci¹ bia³ka	cup	35968	szklanka
+01081	Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 2%, z wysok¹ zawartoœci¹ bia³ka	quart	35969	kwarta (950 ml)
+01082	Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D	Mleko 1% z wit. A i D	gram	35970	gram
+01082	Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D	Mleko 1% z wit. A i D	cup	35971	szklanka
+01082	Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D	Mleko 1% z wit. A i D	fl oz	35972	uncja cieczy (60 ml)
+01082	Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D	Mleko 1% z wit. A i D	quart	35973	kwarta (950 ml)
+01083	Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D	Mleko 1%	gram	35974	gram
+01083	Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D	Mleko 1%	cup	35975	szklanka
+01083	Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D	Mleko 1%	quart	35976	kwarta (950 ml)
+01084	Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 1% z wysok¹ zawartoœci¹ bia³ka	gram	35977	gram
+01084	Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 1% z wysok¹ zawartoœci¹ bia³ka	cup	35978	szklanka
+01084	Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D	Mleko 1% z wysok¹ zawartoœci¹ bia³ka	quart	35979	kwarta (950 ml)
+01085	Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)	Mleko 0% z wit. A i D	gram	35980	gram
+01085	Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)	Mleko 0% z wit. A i D	cup	35981	szklanka
+01085	Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)	Mleko 0% z wit. A i D	fl oz	35982	uncja cieczy (60 ml)
+01085	Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)	Mleko 0% z wit. A i D	quart	35983	kwarta (950 ml)
+01087	Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)	Mleko 0% z wysok¹ zawartoœci¹ bia³ka	gram	35988	gram
+01087	Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)	Mleko 0% z wysok¹ zawartoœci¹ bia³ka	cup	35989	szklanka
+01087	Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)	Mleko 0% z wysok¹ zawartoœci¹ bia³ka	quart	35990	kwarta (950 ml)
+01088	Milk, buttermilk, fluid, cultured, lowfat	Maœlanka, light	gram	35991	gram
+01088	Milk, buttermilk, fluid, cultured, lowfat	Maœlanka, light	cup	35992	szklanka
+01088	Milk, buttermilk, fluid, cultured, lowfat	Maœlanka, light	fl oz	35993	uncja cieczy (60 ml)
+01088	Milk, buttermilk, fluid, cultured, lowfat	Maœlanka, light	quart	35994	kwarta (950 ml)
+01095	Milk, canned, condensed, sweetened	Mleko skondensowane, s³odzone	gram	35995	gram
+01095	Milk, canned, condensed, sweetened	Mleko skondensowane, s³odzone	fl oz	35996	uncja cieczy (60 ml)
+01095	Milk, canned, condensed, sweetened	Mleko skondensowane, s³odzone	cup	35997	szklanka
+01096	Milk, canned, evaporated, with added vitamin D and without added vitamin A	Mleko skondensowane	fl oz	35999	uncja cieczy (60 ml)
+01096	Milk, canned, evaporated, with added vitamin D and without added vitamin A	Mleko skondensowane	cup	36000	szklanka
+01096	Milk, canned, evaporated, with added vitamin D and without added vitamin A	Mleko skondensowane	can (13 oz)	36001	puszka (370 gram)
+01096	Milk, canned, evaporated, with added vitamin D and without added vitamin A	Mleko skondensowane	cup	36002	szklanka
+01096	Milk, canned, evaporated, with added vitamin D and without added vitamin A	Mleko skondensowane, s³odzone z dodatkiem witaminy D	gram	35998	gram
+01097	Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D	Mleko skondensowane, light	gram	36003	gram
+01097	Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D	Mleko skondensowane, light	fl oz	36004	uncja cieczy (60 ml)
+01097	Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D	Mleko skondensowane, light	cup	36005	szklanka
+01097	Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D	Mleko skondensowane, light	cup	36006	szklanka
+01102	Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D	Mleko czekoladowe	gram	36007	gram
+01102	Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D	Mleko czekoladowe	cup	36008	szklanka
+01102	Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D	Mleko czekoladowe	fl oz	36009	uncja cieczy (60 ml)
+01102	Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D	Mleko czekoladowe	quart	36010	kwarta (950 ml)
+01103	Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D	Mleko czekoladowe, light	gram	36011	gram
+01103	Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D	Mleko czekoladowe, light	cup	36012	szklanka
+01103	Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D	Mleko czekoladowe, light	fl oz	36013	uncja cieczy (60 ml)
+01103	Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D	Mleko czekoladowe, light	quart	36014	kwarta (950 ml)
+01106	Milk, goat, fluid, with added vitamin D	Mleko kozie	gram	36015	gram
+01106	Milk, goat, fluid, with added vitamin D	Mleko kozie	fl oz	36016	uncja cieczy (60 ml)
+01106	Milk, goat, fluid, with added vitamin D	Mleko kozie	cup	36017	szklanka
+01106	Milk, goat, fluid, with added vitamin D	Mleko kozie	quart	36018	kwarta (950 ml)
+01116	Yogurt, plain, whole milk, 8 grams protein per 8 ounce	Jogurt naturalny, t³usty	gram	36019	gram
+01116	Yogurt, plain, whole milk, 8 grams protein per 8 ounce	Jogurt naturalny, t³usty	container (6 oz)	36020	pojemnik (170 gram)
+01116	Yogurt, plain, whole milk, 8 grams protein per 8 ounce	Jogurt naturalny, t³usty	container (8 oz)	36021	pojemnik (230 gram)
+01116	Yogurt, plain, whole milk, 8 grams protein per 8 ounce	Jogurt naturalny, t³usty	container (4 oz)	36022	pojemnik (115 gram)
+01116	Yogurt, plain, whole milk, 8 grams protein per 8 ounce	Jogurt naturalny, t³usty	cup (8 fl oz)	36023	szklanka
+01117	Yogurt, plain, low fat, 12 grams protein per 8 ounce	Jogurt naturalny	gram	36024	gram
+01117	Yogurt, plain, low fat, 12 grams protein per 8 ounce	Jogurt naturalny	container (6 oz)	36025	pojemnik (170 gram)
+01117	Yogurt, plain, low fat, 12 grams protein per 8 ounce	Jogurt naturalny	container (8 oz)	36026	pojemnik (230 gram)
+01117	Yogurt, plain, low fat, 12 grams protein per 8 ounce	Jogurt naturalny	container (4 oz)	36027	pojemnik (115 gram)
+01117	Yogurt, plain, low fat, 12 grams protein per 8 ounce	Jogurt naturalny	cup (8 fl oz)	36028	szklanka
+01118	Yogurt, plain, skim milk, 13 grams protein per 8 ounce	Jogurt naturalny, light	gram	36029	gram
+01118	Yogurt, plain, skim milk, 13 grams protein per 8 ounce	Jogurt naturalny, light	container (6 oz)	36030	pojemnik (170 gram)
+01118	Yogurt, plain, skim milk, 13 grams protein per 8 ounce	Jogurt naturalny, light	container (8 oz)	36031	pojemnik (230 gram)
+01118	Yogurt, plain, skim milk, 13 grams protein per 8 ounce	Jogurt naturalny, light	cup (8 fl oz)	36032	szklanka
+01124	Egg, white, raw, fresh	Jajko, bia³ko	gram	36033	gram
+01124	Egg, white, raw, fresh	Jajko, bia³ko	large	36034	du¿e
+01124	Egg, white, raw, fresh	Jajko, bia³ko	cup	36035	szklanka
+01125	Egg, yolk, raw, fresh	Jajko, ¿ó³tko	gram	36036	gram
+01125	Egg, yolk, raw, fresh	Jajko, ¿ó³tko	large	36037	du¿e
+01125	Egg, yolk, raw, fresh	Jajko, ¿ó³tko	cup	36038	szklanka
+01138	Egg, duck, whole, fresh, raw	Jajko, kacze	gram	36039	gram
+01138	Egg, duck, whole, fresh, raw	Jajko, kacze	egg	36040	sztuka
+01139	Egg, goose, whole, fresh, raw	Jajko, gêsi	gram	36041	gram
+01139	Egg, goose, whole, fresh, raw	Jajko, gêsi	egg	36042	sztuka
+01140	Egg, quail, whole, fresh, raw	Jajko, przepiórcze	gram	36043	gram
+01140	Egg, quail, whole, fresh, raw	Jajko, przepiórcze	egg	36044	sztuka
+01141	Egg, turkey, whole, fresh, raw	Jajko, indycze	gram	36045	gram
+01141	Egg, turkey, whole, fresh, raw	Jajko, indycze	egg	36046	sztuka
+01145	Butter, without salt	Mas³o, bez soli	gram	36047	gram
+01145	Butter, without salt	Mas³o, bez soli	"pat (1"" sq, 1/3"" high)"	36048	kawa³ek
+01145	Butter, without salt	Mas³o, bez soli	tbsp	36049	³y¿ka
+01145	Butter, without salt	Mas³o, bez soli	cup	36050	szklanka
+01145	Butter, without salt	Mas³o, bez soli	stick	36051	kostka
+01146	Cheese, parmesan, shredded	Ser Parmezan, wiórki	gram	36052	gram
+01146	Cheese, parmesan, shredded	Ser Parmezan, wiórki	tbsp	36053	³y¿ka
+01151	Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)	Mleko 0%	gram	36054	gram
+01151	Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)	Mleko 0%	cup	36055	szklanka
+01151	Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)	Mleko 0%	quart	36056	kwarta (950 ml)
+01153	Milk, canned, evaporated, with added vitamin A	Mleko skondensowane z wit. A	gram	36057	gram
+01153	Milk, canned, evaporated, with added vitamin A	Mleko skondensowane z wit. A	fl oz	36058	uncja cieczy (60 ml)
+01153	Milk, canned, evaporated, with added vitamin A	Mleko skondensowane z wit. A	cup	36059	szklanka
+01156	Cheese, goat, hard type	Ser kozi, twardy	gram	36060	gram
+01156	Cheese, goat, hard type	Ser kozi, twardy	oz	36061	uncja (28 gram)
+01157	Cheese, goat, semisoft type	Ser kozi, œredni	gram	36062	gram
+01157	Cheese, goat, semisoft type	Ser kozi, œredni	oz	36063	uncja (28 gram)
+01159	Cheese, goat, soft type	Ser kozi, miêkki	gram	36064	gram
+01159	Cheese, goat, soft type	Ser kozi, miêkki	oz	36065	uncja (28 gram)
+01178	Sour cream, reduced fat	Œmietana 30%	gram	36066	gram
+01178	Sour cream, reduced fat	Œmietana 30%	tablespoon	36067	³y¿ka
+01178	Sour cream, reduced fat	Œmietana 30%	cup	36068	szklanka
+01179	Sour cream, light	Œmietana 18%	gram	36069	gram
+01179	Sour cream, light	Œmietana 18%	tablespoon	36070	³y¿ka
+01179	Sour cream, light	Œmietana 18%	cup	36071	szklanka
+01180	Sour cream, fat free	Œmietana 12%	gram	36072	gram
+01180	Sour cream, fat free	Œmietana 12%	tablespoon	36073	³y¿ka
+01180	Sour cream, fat free	Œmietana 12%	cup	36074	szklanka
+01186	Cheese, cream, fat free	Serek œmietankowy, light	gram	36075	gram
+01186	Cheese, cream, fat free	Serek œmietankowy, light	tbsp	36076	³y¿ka
+01225	Dulce de Leche	Masa kajmakowa	gram	36077	gram
+01225	Dulce de Leche	Masa kajmakowa	tbsp	36078	³y¿ka
+01230	Milk, buttermilk, fluid, whole	Maœlanka	gram	36079	gram
+01230	Milk, buttermilk, fluid, whole	Maœlanka	cup	36080	szklanka
+01236	Ice cream, soft serve, chocolate	Lody czekoladowe	gram	36081	gram
+01236	Ice cream, soft serve, chocolate	Lody czekoladowe	cup	36082	szklanka
+01256	Yogurt, Greek, plain, nonfat	Jogurt Grecki, naturalny	gram	36083	gram
+01256	Yogurt, Greek, plain, nonfat	Jogurt Grecki, naturalny	container	36084	miarka (30 ml)
+01284	Yogurt, Greek, strawberry, lowfat	Jogurt Grecki, truskawkowy	gram	36085	gram
+01284	Yogurt, Greek, strawberry, lowfat	Jogurt Grecki, truskawkowy	container (5.3 oz)	36086	pojemnik (150 gram)
+01285	Yogurt, Greek, strawberry, nonfat	Jogurt Grecki, truskawkowy, light	gram	36087	gram
+01285	Yogurt, Greek, strawberry, nonfat	Jogurt Grecki, truskawkowy, light	container (5.3 oz)	36088	pojemnik (150 gram)
+01286	Yogurt, Greek, vanilla, nonfat	Jogurt Grecki, waniliowy	gram	36089	gram
+01286	Yogurt, Greek, vanilla, nonfat	Jogurt Grecki, waniliowy	container (5.3 oz)	36090	pojemnik (150 gram)
+01287	Yogurt, Greek, plain, lowfat	Jogurt Grecki, waniliowy, light	gram	36091	gram
+01287	Yogurt, Greek, plain, lowfat	Jogurt Grecki, waniliowy, light	container (7 oz)	36092	pojemnik (200 gram)
+01289	Kefir, lowfat, plain, LIFEWAY	Kefir	gram	36093	gram
+02001	Spices, allspice, ground	Przyprawa uniwersalna	gram	36094	gram
+02001	Spices, allspice, ground	Przyprawa uniwersalna	tsp	36095	³y¿eczka
+02001	Spices, allspice, ground	Przyprawa uniwersalna	tbsp	36096	³y¿ka
+02002	Spices, anise seed	Any¿, mielony	gram	36097	gram
+02002	Spices, anise seed	Any¿, mielony	tsp, whole	36098	³yzka, ca³y
+02002	Spices, anise seed	Any¿, mielony	tbsp, whole	36099	³y¿eczka, ca³y
+02003	Spices, basil, dried	Bazylia, suszona	gram	36100	gram
+02003	Spices, basil, dried	Bazylia, suszona	tsp, leaves	36101	³y¿ka, liœcie
+02003	Spices, basil, dried	Bazylia, suszona	tbsp, leaves	36102	³y¿eczka, liœcie
+02003	Spices, basil, dried	Bazylia, suszona	tsp, ground	36103	³y¿ka, zmielona
+02003	Spices, basil, dried	Bazylia, suszona	tbsp, ground	36104	³y¿eczka, zmielona
+02004	Spices, bay leaf	Liœæ laurowy	gram	36105	gram
+02004	Spices, bay leaf	Liœæ laurowy	tsp, crumbled	36106	³y¿eczka, pokruszony
+02004	Spices, bay leaf	Liœæ laurowy	tbsp, crumbled	36107	³y¿ka, pokruszony
+02005	Spices, caraway seed	Kminek, mielony	gram	36108	gram
+02005	Spices, caraway seed	Kminek, mielony	tsp	36109	³y¿eczka
+02005	Spices, caraway seed	Kminek, mielony	tbsp	36110	³y¿ka
+02006	Spices, cardamom	Kardamon	gram	36111	gram
+02006	Spices, cardamom	Kardamon	tsp, ground	36112	³y¿eczka, zmielony
+02006	Spices, cardamom	Kardamon	tbsp, ground	36113	³y¿ka, zmielony
+02007	Spices, celery seed	Seler, mielony	gram	36114	gram
+02007	Spices, celery seed	Seler, mielony	tsp	36115	³y¿eczka
+02007	Spices, celery seed	Seler, mielony	tbsp	36116	³y¿ka
+02009	Spices, chili powder	Chili, mielone	gram	36117	gram
+02009	Spices, chili powder	Chili, mielone	tsp	36118	³y¿eczka
+02009	Spices, chili powder	Chili, mielone	tbsp	36119	³y¿ka
+02010	Spices, cinnamon, ground	Cynamon, mielony	gram	36120	gram
+02010	Spices, cinnamon, ground	Cynamon, mielony	tsp	36121	³y¿eczka
+02010	Spices, cinnamon, ground	Cynamon, mielony	tbsp	36122	³y¿ka
+02011	Spices, cloves, ground	GoŸdziki, mielone	gram	36123	gram
+02011	Spices, cloves, ground	GoŸdziki, mielone	tsp	36124	³y¿eczka
+02011	Spices, cloves, ground	GoŸdziki, mielone	tbsp	36125	³y¿ka
+02012	Spices, coriander leaf, dried	Kolendra, suszona	gram	36126	gram
+02012	Spices, coriander leaf, dried	Kolendra, suszona	tsp	36127	³y¿eczka
+02012	Spices, coriander leaf, dried	Kolendra, suszona	tbsp	36128	³y¿ka
+02013	Spices, coriander seed	Kolendra, nasiona	gram	36129	gram
+02013	Spices, coriander seed	Kolendra, nasiona	tsp	36130	³y¿eczka
+02013	Spices, coriander seed	Kolendra, nasiona	tbsp	36131	³y¿ka
+02014	Spices, cumin seed	Kumin	gram	36132	gram
+02014	Spices, cumin seed	Kumin	tsp, whole	36133	³y¿eczka
+02014	Spices, cumin seed	Kumin	tbsp, whole	36134	³y¿ka
+02015	Spices, curry powder	Curry	gram	36135	gram
+02015	Spices, curry powder	Curry	tsp	36136	³y¿eczka
+02015	Spices, curry powder	Curry	tbsp	36137	³y¿ka
+02016	Spices, dill seed	Koper, ogrodowy	gram	36138	gram
+02016	Spices, dill seed	Koper, ogrodowy	tsp	36139	³y¿eczka
+02016	Spices, dill seed	Koper, ogrodowy	tbsp	36140	³y¿ka
+02017	Spices, dill weed, dried	Koper, suszony	gram	36141	gram
+02017	Spices, dill weed, dried	Koper, suszony	tsp	36142	³y¿eczka
+02017	Spices, dill weed, dried	Koper, suszony	tbsp	36143	³y¿ka
+02018	Spices, fennel seed	Fenku³ w³oski	gram	36144	gram
+02018	Spices, fennel seed	Fenku³ w³oski	tsp, whole	36145	³y¿eczka, ca³y
+02018	Spices, fennel seed	Fenku³ w³oski	tbsp, whole	36146	³y¿ka, ca³y
+02019	Spices, fenugreek seed	Kozieradka	gram	36147	gram
+02019	Spices, fenugreek seed	Kozieradka	tsp	36148	³y¿eczka
+02019	Spices, fenugreek seed	Kozieradka	tbsp	36149	³y¿ka
+02020	Spices, garlic powder	Czosnek granulowany	gram	36150	gram
+02020	Spices, garlic powder	Czosnek granulowany	tsp	36151	³y¿eczka
+02020	Spices, garlic powder	Czosnek granulowany	tbsp	36152	³y¿ka
+02021	Spices, ginger, ground	Imbir, mielony	gram	36153	gram
+02021	Spices, ginger, ground	Imbir, mielony	tsp	36154	³y¿eczka
+02021	Spices, ginger, ground	Imbir, mielony	tbsp	36155	³y¿ka
+02023	Spices, marjoram, dried	Majeranek, suszony	gram	36159	gram
+02023	Spices, marjoram, dried	Majeranek, suszony	tsp	36160	³y¿eczka
+02023	Spices, marjoram, dried	Majeranek, suszony	tbsp	36161	³y¿ka
+02025	Spices, nutmeg, ground	Ga³ka muszkato³owa, mielona	gram	36162	gram
+02025	Spices, nutmeg, ground	Ga³ka muszkato³owa, mielona	tsp	36163	³y¿eczka
+02025	Spices, nutmeg, ground	Ga³ka muszkato³owa, mielona	tbsp	36164	³y¿ka
+02026	Spices, onion powder	Cebula granulowana	gram	36165	gram
+02026	Spices, onion powder	Cebula granulowana	tsp	36166	³y¿eczka
+02026	Spices, onion powder	Cebula granulowana	tbsp	36167	³y¿ka
+02027	Spices, oregano, dried	Oregano, suszone	gram	36168	gram
+02027	Spices, oregano, dried	Oregano, suszone	tsp, leaves	36169	³y¿eczka, liœcie
+02027	Spices, oregano, dried	Oregano, suszone	tsp, ground	36170	³y¿eczka, mielone
+02028	Spices, paprika	Papryka s³odka	gram	36171	gram
+02028	Spices, paprika	Papryka s³odka	tsp	36172	³y¿eczka
+02028	Spices, paprika	Papryka s³odka	tbsp	36173	³y¿ka
+02029	Spices, parsley, dried	Pietruszka, suszona	gram	36174	gram
+02029	Spices, parsley, dried	Pietruszka, suszona	tsp	36175	³y¿eczka
+02029	Spices, parsley, dried	Pietruszka, suszona	tbsp	36176	³y¿ka
+02030	Spices, pepper, black	Pieprz czarny	gram	36177	gram
+02030	Spices, pepper, black	Pieprz czarny	tsp, ground	36178	³y¿ka, zmielony
+02030	Spices, pepper, black	Pieprz czarny	tbsp, ground	36179	³y¿eczka, zmielony
+02030	Spices, pepper, black	Pieprz czarny	tsp, whole	36180	³y¿eczka, ca³y
+02030	Spices, pepper, black	Pieprz czarny	dash	36181	szczypta
+02031	Spices, pepper, red or cayenne	Pieprz czerwony (Cayenne)	gram	36182	gram
+02031	Spices, pepper, red or cayenne	Pieprz czerwony (Cayenne)	tsp	36183	³y¿eczka
+02031	Spices, pepper, red or cayenne	Pieprz czerwony (Cayenne)	tbsp	36184	³y¿ka
+02032	Spices, pepper, white	Pieprz bia³y	gram	36185	gram
+02032	Spices, pepper, white	Pieprz bia³y	tsp, ground	36186	³y¿ka, zmielony
+02032	Spices, pepper, white	Pieprz bia³y	tbsp, ground	36187	³y¿eczka, zmielony
+02033	Spices, poppy seed	Mak	gram	36188	gram
+02033	Spices, poppy seed	Mak	tsp	36189	³y¿eczka
+02033	Spices, poppy seed	Mak	tbsp	36190	³y¿ka
+02034	Spices, poultry seasoning	Przyprawa do drobiu	gram	36191	gram
+02034	Spices, poultry seasoning	Przyprawa do drobiu	tsp	36192	³y¿eczka
+02034	Spices, poultry seasoning	Przyprawa do drobiu	tbsp	36193	³y¿ka
+02035	Spices, pumpkin pie spice	Przyprawa do dyni	gram	36194	gram
+02035	Spices, pumpkin pie spice	Przyprawa do dyni	tsp	36195	³y¿eczka
+02035	Spices, pumpkin pie spice	Przyprawa do dyni	tbsp	36196	³y¿ka
+02036	Spices, rosemary, dried	Rozmaryn, suszony	gram	36197	gram
+02036	Spices, rosemary, dried	Rozmaryn, suszony	tsp	36198	³y¿eczka
+02036	Spices, rosemary, dried	Rozmaryn, suszony	tbsp	36199	³y¿ka
+02037	Spices, saffron	Szafran	gram	36200	gram
+02037	Spices, saffron	Szafran	tsp	36201	³y¿eczka
+02037	Spices, saffron	Szafran	tbsp	36202	³y¿ka
+02038	Spices, sage, ground	Sza³wia, mielona	gram	36203	gram
+02038	Spices, sage, ground	Sza³wia, mielona	tsp	36204	³y¿eczka
+02038	Spices, sage, ground	Sza³wia, mielona	tbsp	36205	³y¿ka
+02039	Spices, savory, ground	Cz¹ber, mielony	gram	36206	gram
+02039	Spices, savory, ground	Cz¹ber, mielony	tsp	36207	³y¿eczka
+02039	Spices, savory, ground	Cz¹ber, mielony	tbsp	36208	³y¿ka
+02041	Spices, tarragon, dried	Estragon, suszony	gram	36209	gram
+02041	Spices, tarragon, dried	Estragon, suszony	tsp, leaves	36210	³y¿eczka, liœcie
+02041	Spices, tarragon, dried	Estragon, suszony	tbsp, leaves	36211	³y¿ka, liœcie
+02041	Spices, tarragon, dried	Estragon, suszony	tsp, ground	36212	³y¿eczka, zmielony
+02041	Spices, tarragon, dried	Estragon, suszony	tbsp, ground	36213	³y¿ka, zmielony
+02042	Spices, thyme, dried	Tymianek, suszony	gram	36214	gram
+02042	Spices, thyme, dried	Tymianek, suszony	tsp, leaves	36215	³y¿eczka, liœcie
+02042	Spices, thyme, dried	Tymianek, suszony	tbsp, leaves	36216	³y¿ka, liœcie
+02042	Spices, thyme, dried	Tymianek, suszony	tsp, ground	36217	³y¿eczka, zmielony
+02042	Spices, thyme, dried	Tymianek, suszony	tbsp, ground	36218	³y¿ka, zmielony
+02043	Spices, turmeric, ground	Kurkuma, mielona	gram	36219	gram
+02043	Spices, turmeric, ground	Kurkuma, mielona	tsp	36220	³y¿eczka
+02043	Spices, turmeric, ground	Kurkuma, mielona	tbsp	36221	³y¿ka
+02044	Basil, fresh	Bazylia, œwie¿a	gram	36222	gram
+02044	Basil, fresh	Bazylia, œwie¿a	leaves	36223	liœcie
+02044	Basil, fresh	Bazylia, œwie¿a	tbsp, chopped	36224	³y¿e¿ka, siekana
+02044	Basil, fresh	Bazylia, œwie¿a	cup leaves, whole	36225	szklanka, liœcie
+02045	Dill weed, fresh	Koper, œwie¿y	gram	36226	gram
+02045	Dill weed, fresh	Koper, œwie¿y	sprigs	36227	ga³¹zka
+02045	Dill weed, fresh	Koper, œwie¿y	cup sprigs	36228	szklanka
+02046	Mustard, prepared, yellow	Musztarda, ¿ó³ta	gram	36229	gram
+02046	Mustard, prepared, yellow	Musztarda, ¿ó³ta	tsp or 1 packet	36230	³y¿eczka
+02046	Mustard, prepared, yellow	Musztarda, ¿ó³ta	cup	36231	szklanka
+02047	Salt, table	Sól	gram	36232	gram
+02047	Salt, table	Sól	tsp	36233	³y¿eczka
+02047	Salt, table	Sól	tbsp	36234	³y¿ka
+02047	Salt, table	Sól	cup	36235	szklanka
+02047	Salt, table	Sól	dash	36236	szczypta
+02048	Vinegar, cider	Ocet jab³kowy	gram	36237	gram
+02048	Vinegar, cider	Ocet jab³kowy	tbsp	36238	³y¿ka
+02048	Vinegar, cider	Ocet jab³kowy	cup	36239	szklanka
+02048	Vinegar, cider	Ocet jab³kowy	tsp	36240	³y¿eczka
+02049	Thyme, fresh	Tymianek, œwie¿y	gram	36241	gram
+02049	Thyme, fresh	Tymianek, œwie¿y	tsp	36242	³y¿eczka
+02049	Thyme, fresh	Tymianek, œwie¿y	tsp	36243	³y¿eczka
+02050	Vanilla extract	Ekstrakt z wanilii	gram	36244	gram
+02050	Vanilla extract	Ekstrakt z wanilii	tsp	36245	³y¿eczka
+02050	Vanilla extract	Ekstrakt z wanilii	tbsp	36246	³y¿ka
+02050	Vanilla extract	Ekstrakt z wanilii	cup	36247	szklanka
+02051	Vanilla extract, imitation, alcohol	Ekstrakt z wanilii, imitacja	gram	36248	gram
+02051	Vanilla extract, imitation, alcohol	Ekstrakt z wanilii, imitacja	tsp	36249	³y¿eczka
+02051	Vanilla extract, imitation, alcohol	Ekstrakt z wanilii, imitacja	tbsp	36250	³y¿ka
+02053	Vinegar, distilled	Ocet, destylowany	gram	36251	gram
+02053	Vinegar, distilled	Ocet, destylowany	tbsp	36252	³y¿ka
+02053	Vinegar, distilled	Ocet, destylowany	cup	36253	szklanka
+02053	Vinegar, distilled	Ocet, destylowany	tsp	36254	³y¿eczka
+02054	Capers, canned	Kapary, puszkowane	gram	36255	gram
+02054	Capers, canned	Kapary, puszkowane	tbsp, drained	36256	³y¿ka
+02055	Horseradish, prepared	Chrzan pospolity	gram	36257	gram
+02055	Horseradish, prepared	Chrzan pospolity	tsp	36258	³y¿eczka
+02055	Horseradish, prepared	Chrzan pospolity	tbsp	36259	³y¿ka
+02063	Rosemary, fresh	Rozmaryn, œwie¿y	gram	36260	gram
+02063	Rosemary, fresh	Rozmaryn, œwie¿y	tsp	36261	³y¿eczka
+02063	Rosemary, fresh	Rozmaryn, œwie¿y	tbsp	36262	³y¿ka
+02064	Peppermint, fresh	Miêta pieprzowa, œwie¿a	gram	36263	gram
+02064	Peppermint, fresh	Miêta pieprzowa, œwie¿a	leaves	36264	liœcie
+02064	Peppermint, fresh	Miêta pieprzowa, œwie¿a	tbsp	36265	³y¿ka
+02065	Spearmint, fresh	Miêta ogrodowa, œwie¿a	gram	36266	gram
+02065	Spearmint, fresh	Miêta ogrodowa, œwie¿a	leaves	36267	liœcie
+02065	Spearmint, fresh	Miêta ogrodowa, œwie¿a	tbsp	36268	³y¿ka
+02066	Spearmint, dried	Miêta ogrodowa, suszona	gram	36269	gram
+02066	Spearmint, dried	Miêta ogrodowa, suszona	tsp	36270	³y¿eczka
+02066	Spearmint, dried	Miêta ogrodowa, suszona	tbsp	36271	³y¿ka
+02068	Vinegar, red wine	Czerwone wino	gram	36272	gram
+02068	Vinegar, red wine	Czerwone wino	tbsp	36273	³y¿ka
+02068	Vinegar, red wine	Czerwone wino	cup	36274	szklanka
+02068	Vinegar, red wine	Czerwone wino	tsp	36275	³y¿eczka
+02069	Vinegar, balsamic	Ocet balsamiczny	gram	36276	gram
+02069	Vinegar, balsamic	Ocet balsamiczny	tbsp	36277	³y¿ka
+02069	Vinegar, balsamic	Ocet balsamiczny	cup	36278	szklanka
+02069	Vinegar, balsamic	Ocet balsamiczny	tsp	36279	³y¿eczka
+04002	Lard	Smalec	gram	36280	gram
+04002	Lard	Smalec	tbsp	36281	³y¿ka
+04002	Lard	Smalec	cup	36282	szklanka
+04015	Salad dressing, russian dressing	Dressing rosyjski	gram	36283	gram
+04015	Salad dressing, russian dressing	Dressing rosyjski	tbsp	36284	³y¿ka
+04015	Salad dressing, russian dressing	Dressing rosyjski	cup	36285	szklanka
+04015	Salad dressing, russian dressing	Dressing rosyjski	serving (2 tbsp)	36286	porcja (2 ³y¿eczki)
+04017	Salad dressing, thousand island, commercial, regular	Sos tysi¹c wysp	gram	36287	gram
+04017	Salad dressing, thousand island, commercial, regular	Sos tysi¹c wysp	tbsp	36288	³y¿ka
+04017	Salad dressing, thousand island, commercial, regular	Sos tysi¹c wysp	cup	36289	szklanka
+04017	Salad dressing, thousand island, commercial, regular	Sos tysi¹c wysp	serving (2 tbsp)	36290	porcja (2 ³y¿eczki)
+04020	Salad dressing, french dressing, reduced fat	Dressing francuski	gram	36291	gram
+04020	Salad dressing, french dressing, reduced fat	Dressing francuski	tablespoon	36292	³y¿ka
+04020	Salad dressing, french dressing, reduced fat	Dressing francuski	cup	36293	szklanka
+04020	Salad dressing, french dressing, reduced fat	Dressing francuski	serving (2 tbsp)	36294	porcja (2 ³y¿eczki)
+04025	Salad dressing, mayonnaise, regular	Majonez	gram	36295	gram
+04025	Salad dressing, mayonnaise, regular	Majonez	tbsp	36296	³y¿ka
+04025	Salad dressing, mayonnaise, regular	Majonez	cup	36297	szklanka
+04025	Salad dressing, mayonnaise, regular	Majonez	packet	36298	paczka
+04047	Oil, coconut	Olej kokosowy	gram	36299	gram
+04047	Oil, coconut	Olej kokosowy	tbsp	36300	³y¿ka
+04047	Oil, coconut	Olej kokosowy	cup	36301	szklanka
+04047	Oil, coconut	Olej kokosowy	tsp	36302	³y¿eczka
+04053	Oil, olive, salad or cooking	Oliwa z oliwek	gram	36303	gram
+04053	Oil, olive, salad or cooking	Oliwa z oliwek	tablespoon	36304	³y¿ka
+04053	Oil, olive, salad or cooking	Oliwa z oliwek	cup	36305	szklanka
+04053	Oil, olive, salad or cooking	Oliwa z oliwek	tsp	36306	³y¿eczka
+04055	Oil, palm	Olej palmowy	gram	36307	gram
+04055	Oil, palm	Olej palmowy	tbsp	36308	³y¿ka
+04055	Oil, palm	Olej palmowy	cup	36309	szklanka
+04055	Oil, palm	Olej palmowy	tsp	36310	³y¿eczka
+04058	Oil, sesame, salad or cooking	Olej sezamowy	gram	36311	gram
+04058	Oil, sesame, salad or cooking	Olej sezamowy	tablespoon	36312	³y¿ka
+04058	Oil, sesame, salad or cooking	Olej sezamowy	cup	36313	szklanka
+04058	Oil, sesame, salad or cooking	Olej sezamowy	tsp	36314	³y¿eczka
+04060	Oil, sunflower, linoleic (less than 60%)	Olej s³onecznikowy (< 60%)	gram	36315	gram
+04060	Oil, sunflower, linoleic (less than 60%)	Olej s³onecznikowy (< 60%)	tbsp	36316	³y¿ka
+04060	Oil, sunflower, linoleic (less than 60%)	Olej s³onecznikowy (< 60%)	cup	36317	szklanka
+04060	Oil, sunflower, linoleic (less than 60%)	Olej s³onecznikowy (< 60%)	tsp	36318	³y¿eczka
+04073	Margarine, regular, hard, soybean (hydrogenated)	Margaryna	gram	36319	gram
+04073	Margarine, regular, hard, soybean (hydrogenated)	Margaryna	tsp	36320	³y¿eczka
+04073	Margarine, regular, hard, soybean (hydrogenated)	Margaryna	stick	36321	kostka
+04501	Oil, cocoa butter	Mas³o kokosowe	gram	36322	gram
+04501	Oil, cocoa butter	Mas³o kokosowe	tablespoon	36323	³y¿ka
+04501	Oil, cocoa butter	Mas³o kokosowe	cup	36324	szklanka
+04501	Oil, cocoa butter	Mas³o kokosowe	tsp	36325	³y¿eczka
+04506	Oil, sunflower, linoleic, (approx. 65%)	Olej kokosowy (ok. 65%)	gram	36326	gram
+04506	Oil, sunflower, linoleic, (approx. 65%)	Olej kokosowy (ok. 65%)	tbsp	36327	³y¿ka
+04506	Oil, sunflower, linoleic, (approx. 65%)	Olej kokosowy (ok. 65%)	cup	36328	szklanka
+04506	Oil, sunflower, linoleic, (approx. 65%)	Olej kokosowy (ok. 65%)	tsp	36329	³y¿eczka
+04517	Oil, grapeseed	Olej z pestek winogron	gram	36330	gram
+04517	Oil, grapeseed	Olej z pestek winogron	tablespoon	36331	³y¿ka
+04517	Oil, grapeseed	Olej z pestek winogron	cup	36332	szklanka
+04517	Oil, grapeseed	Olej z pestek winogron	tsp	36333	³y¿eczka
+04528	Oil, walnut	Olej z orzechów w³oskich	gram	36334	gram
+04528	Oil, walnut	Olej z orzechów w³oskich	tbsp	36335	³y¿ka
+04528	Oil, walnut	Olej z orzechów w³oskich	cup	36336	szklanka
+04528	Oil, walnut	Olej z orzechów w³oskich	tsp	36337	³y¿eczka
+04529	Oil, almond	Olej migda³owy	gram	36338	gram
+04529	Oil, almond	Olej migda³owy	tablespoon	36339	³y¿ka
+04529	Oil, almond	Olej migda³owy	cup	36340	szklanka
+04529	Oil, almond	Olej migda³owy	tsp	36341	³y¿eczka
+04532	Oil, hazelnut	Olej z orzechów laskowych	gram	36342	gram
+04532	Oil, hazelnut	Olej z orzechów laskowych	tablespoon	36343	³y¿ka
+04532	Oil, hazelnut	Olej z orzechów laskowych	cup	36344	szklanka
+04532	Oil, hazelnut	Olej z orzechów laskowych	tsp	36345	³y¿eczka
+04536	Oil, sheanut	Olej z mas³osza (Shea)	gram	36346	gram
+04536	Oil, sheanut	Olej z mas³osza (Shea)	tablespoon	36347	³y¿ka
+04536	Oil, sheanut	Olej z mas³osza (Shea)	cup	36348	szklanka
+04536	Oil, sheanut	Olej z mas³osza (Shea)	tsp	36349	³y¿eczka
+04574	Fat, duck	Kaczka, t³uszcz	gram	36350	gram
+04574	Fat, duck	Kaczka, t³uszcz	tbsp	36351	³y¿ka
+04574	Fat, duck	Kaczka, t³uszcz	cup	36352	szklanka
+04575	Fat, turkey	Indyk, t³uszcz	gram	36353	gram
+04575	Fat, turkey	Indyk, t³uszcz	tbsp	36354	³y¿ka
+04575	Fat, turkey	Indyk, t³uszcz	tsp	36355	³y¿eczka
+04575	Fat, turkey	Indyk, t³uszcz	cup	36356	szklanka
+04576	Fat, goose	Gêœ, t³uszcz	gram	36357	gram
+04576	Fat, goose	Gêœ, t³uszcz	tbsp	36358	³y¿ka
+04576	Fat, goose	Gêœ, t³uszcz	cup	36359	szklanka
+04581	Oil, avocado	Olej z awokado	gram	36360	gram
+04581	Oil, avocado	Olej z awokado	tbsp	36361	³y¿ka
+04581	Oil, avocado	Olej z awokado	cup	36362	szklanka
+04581	Oil, avocado	Olej z awokado	tsp	36363	³y¿eczka
+04582	Oil, canola	Olej rzepakowy	gram	36364	gram
+04582	Oil, canola	Olej rzepakowy	tbsp	36365	³y¿ka
+04582	Oil, canola	Olej rzepakowy	cup	36366	szklanka
+04582	Oil, canola	Olej rzepakowy	tsp	36367	³y¿eczka
+04583	Oil, mustard	Musztarda	gram	36368	gram
+04583	Oil, mustard	Musztarda	tbsp	36369	³y¿ka
+04583	Oil, mustard	Musztarda	cup	36370	szklanka
+04583	Oil, mustard	Musztarda	tsp	36371	³y¿eczka
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	gram	36372	gram
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	tbsp	36373	³y¿ka
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	cup	36374	szklanka
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	tsp	36375	³y¿eczka
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	"pat (1"" sq, 1/3"" high)"	36376	kawa³ek
+04610	Margarine, regular, 80% fat, composite, stick, with salt	Margaryna z sol¹	stick	36377	kostka
+04641	Salad dressing, mayonnaise, light	Majonez light	gram	36378	gram
+04641	Salad dressing, mayonnaise, light	Majonez light	tablespoon	36379	³y¿ka
+04708	Mayonnaise, reduced fat, with olive oil	Majonez z dodatkiem oliwy	gram	36380	gram
+04708	Mayonnaise, reduced fat, with olive oil	Majonez z dodatkiem oliwy	tbsp	36381	³y¿ka
+04708	Mayonnaise, reduced fat, with olive oil	Majonez z dodatkiem oliwy	cup	36382	szklanka
+04709	Salad dressing, mayonnaise-type, light	Dressing majonezowy	gram	36383	gram
+05011	Chicken, broilers or fryers, meat only, raw	Kurczak, tylko miêso	gram	36384	gram
+05011	Chicken, broilers or fryers, meat only, raw	Kurczak, tylko miêso	oz	36385	uncja (28 gram)
+05011	Chicken, broilers or fryers, meat only, raw	Kurczak, tylko miêso	unit (yield from 1 lb ready-to-cook chicken)	36386	450 gram
+05011	Chicken, broilers or fryers, meat only, raw	Kurczak, tylko miêso	chicken, bone and skin removed	36387	kurczak, bez koœci i skóry
+05023	Chicken, gizzard, all classes, raw	Kurczak, ¿o³¹dek	gram	36388	gram
+05023	Chicken, gizzard, all classes, raw	Kurczak, ¿o³¹dek	oz	36389	uncja (28 gram)
+05023	Chicken, gizzard, all classes, raw	Kurczak, ¿o³¹dek	lb	36390	funt (450 gram)
+05025	Chicken, heart, all classes, raw	Kurczak, serce	gram	36391	gram
+05025	Chicken, heart, all classes, raw	Kurczak, serce	heart	36392	sztuka
+05025	Chicken, heart, all classes, raw	Kurczak, serce	unit (yield from 1 lb ready-to-cook chicken)	36393	450 gram
+05027	Chicken, liver, all classes, raw	Kurczak, w¹troba	gram	36394	gram
+05027	Chicken, liver, all classes, raw	Kurczak, w¹troba	liver	36395	sztuka
+05039	Chicken, broilers or fryers, light meat, meat only, raw	Kurczak, tylko chude miêso	gram	36396	gram
+05039	Chicken, broilers or fryers, light meat, meat only, raw	Kurczak, tylko chude miêso	unit (yield from 1 lb ready-to-cook chicken)	36397	450 gram
+05039	Chicken, broilers or fryers, light meat, meat only, raw	Kurczak, tylko chude miêso	chicken, bone and skin removed	36398	kurczak, bez koœci i skóry
+05047	Chicken, broilers or fryers, separable fat, raw	Kurczak, t³uszcz	gram	36399	gram
+05047	Chicken, broilers or fryers, separable fat, raw	Kurczak, t³uszcz	tbsp	36400	³y¿ka
+05047	Chicken, broilers or fryers, separable fat, raw	Kurczak, t³uszcz	unit (yield from 1 lb ready-to-cook chicken)	36401	450 gram
+05047	Chicken, broilers or fryers, separable fat, raw	Kurczak, t³uszcz	chicken, separable fat	36402	t³uszcz
+05053	Chicken, broilers or fryers, back, meat only, raw	Kurczak, grzbiet	gram	36403	gram
+05053	Chicken, broilers or fryers, back, meat only, raw	Kurczak, grzbiet	unit (yield from 1 lb ready-to-cook chicken)	36404	450 gram
+05053	Chicken, broilers or fryers, back, meat only, raw	Kurczak, grzbiet	back, bone and skin removed	36405	grzbiet, bez koœci i skóry
+05066	Chicken, broilers or fryers, drumstick, meat and skin, raw	Kurczak, pa³eczka	gram	36406	gram
+05066	Chicken, broilers or fryers, drumstick, meat and skin, raw	Kurczak, pa³eczka	drumstick with skin	36407	pa³eczka, ze skór¹
+05066	Chicken, broilers or fryers, drumstick, meat and skin, raw	Kurczak, pa³eczka	drumstick	36408	pa³eczka, bez skóry
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	gram	36409	gram
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	oz	36410	uncja (28 gram)
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	leg, bone and skin removed (Sum of drumstick+thigh+back meat only)	36411	noga, bez koœci i skóry
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	thigh bone and skin removed	36412	udo, bez koœci i skóry
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	drumstick bone and skin removed	36413	pa³eczka, bez koœci i skóry
+05080	Chicken, broilers or fryers, leg, meat only, raw	Kurczak, udziec	back bone and skin removed	36414	szkielet
+05088	Chicken, broilers or fryers, neck, meat only, raw	Kurczak, szyja	gram	36415	gram
+05088	Chicken, broilers or fryers, neck, meat only, raw	Kurczak, szyja	unit (yield from 1 lb ready-to-cook chicken)	36416	450 gram
+05088	Chicken, broilers or fryers, neck, meat only, raw	Kurczak, szyja	neck, bone and skin removed	36417	szyja, bez koœci i skóry
+05096	Chicken, broilers or fryers, dark meat, thigh, meat only, raw	Kurczak, ciemne miêso	gram	36418	gram
+05096	Chicken, broilers or fryers, dark meat, thigh, meat only, raw	Kurczak, ciemne miêso	thigh without skin	36419	sztuka
+05096	Chicken, broilers or fryers, dark meat, thigh, meat only, raw	Kurczak, ciemne miêso	oz	36420	uncja (28 gram)
+05105	Chicken, broilers or fryers, wing, meat only, raw	Kurczak, skrzyd³o	gram	36421	gram
+05105	Chicken, broilers or fryers, wing, meat only, raw	Kurczak, skrzyd³o	wing, bone and skin removed (yield from 1 lb ready-to-cook chicken)	36422	skrzyd³o, bez koœci i skóry (450 gram)
+05105	Chicken, broilers or fryers, wing, meat only, raw	Kurczak, skrzyd³o	wing, bone and skin removed	36423	skrzyd³o, bez koœci i skóry
+05111	Canada Goose, breast meat, skinless, raw	Gêœ, dzika, pierœ	gram	36424	gram
+05111	Canada Goose, breast meat, skinless, raw	Gêœ, dzika, pierœ	oz	36425	uncja (28 gram)
+05111	Canada Goose, breast meat, skinless, raw	Gêœ, dzika, pierœ	breast	36426	sztuka
+05111	Canada Goose, breast meat, skinless, raw	Gêœ, dzika, pierœ	bird	36427	pierœ podwójna
+05139	Duck, domesticated, meat and skin, raw	Kaczka, miêso i skóra	gram	36428	gram
+05139	Duck, domesticated, meat and skin, raw	Kaczka, miêso i skóra	oz	36429	uncja (28 gram)
+05139	Duck, domesticated, meat and skin, raw	Kaczka, miêso i skóra	unit (yield from 1 lb ready-to-cook duck)	36430	450 gram
+05139	Duck, domesticated, meat and skin, raw	Kaczka, miêso i skóra	duck	36431	sztuka
+05141	Duck, domesticated, meat only, raw	Kaczka, tylko miêso	gram	36432	gram
+05141	Duck, domesticated, meat only, raw	Kaczka, tylko miêso	unit (yield from 1 lb ready-to-cook duck)	36433	450 gram
+05141	Duck, domesticated, meat only, raw	Kaczka, tylko miêso	duck	36434	sztuka
+05143	Duck, domesticated, liver, raw	Kaczka, w¹troba	gram	36435	gram
+05143	Duck, domesticated, liver, raw	Kaczka, w¹troba	liver	36436	sztuka
+05143	Duck, domesticated, liver, raw	Kaczka, w¹troba	unit (yield from 1 lb ready-to-cook duck)	36437	450 gram
+05144	Duck, wild, meat and skin, raw	Kaczka, dzika, miêso i skóra	gram	36438	gram
+05144	Duck, wild, meat and skin, raw	Kaczka, dzika, miêso i skóra	oz	36439	uncja (28 gram)
+05144	Duck, wild, meat and skin, raw	Kaczka, dzika, miêso i skóra	unit (yield from 1 lb ready-to-cook duck)	36440	450 gram
+05144	Duck, wild, meat and skin, raw	Kaczka, dzika, miêso i skóra	duck	36441	sztuka
+05145	Duck, wild, breast, meat only, raw	Kaczka, dzika, pierœ	gram	36442	gram
+05145	Duck, wild, breast, meat only, raw	Kaczka, dzika, pierœ	unit (yield from 1 lb ready-to-cook duck)	36443	450 gram
+05145	Duck, wild, breast, meat only, raw	Kaczka, dzika, pierœ	breast, bone and skin removed	36444	pierœ, bez koœci i skóry
+05146	Goose, domesticated, meat and skin, raw	Gêœ, ca³a	gram	36445	gram
+05146	Goose, domesticated, meat and skin, raw	Gêœ, ca³a	oz	36446	uncja (28 gram)
+05146	Goose, domesticated, meat and skin, raw	Gêœ, ca³a	unit (yield from 1 lb ready-to-cook goose)	36447	450 gram
+05146	Goose, domesticated, meat and skin, raw	Gêœ, ca³a	goose	36448	sztuka
+05148	Goose, domesticated, meat only, raw	Gêœ, tylko miêso	gram	36449	gram
+05148	Goose, domesticated, meat only, raw	Gêœ, tylko miêso	oz	36450	uncja (28 gram)
+05148	Goose, domesticated, meat only, raw	Gêœ, tylko miêso	unit (yield from 1 lb ready-to-cook goose)	36451	450 gram
+05148	Goose, domesticated, meat only, raw	Gêœ, tylko miêso	goose	36452	sztuka
+05150	Goose, liver, raw	Gêœ, w¹troba	gram	36453	gram
+05150	Goose, liver, raw	Gêœ, w¹troba	liver	36454	sztuka
+05150	Goose, liver, raw	Gêœ, w¹troba	unit (yield from 1 lb ready-to-cook goose)	36455	450 gram
+05153	Pheasant, raw, meat and skin	Ba¿ant, ca³y	gram	36456	gram
+05153	Pheasant, raw, meat and skin	Ba¿ant, ca³y	oz	36457	uncja (28 gram)
+05153	Pheasant, raw, meat and skin	Ba¿ant, ca³y	unit (yield from 1 lb ready-to-eat pheasant)	36458	450 gram
+05153	Pheasant, raw, meat and skin	Ba¿ant, ca³y	pheasant	36459	sztuka
+05154	Pheasant, raw, meat only	Ba¿ant, tylko miêso	gram	36460	gram
+05154	Pheasant, raw, meat only	Ba¿ant, tylko miêso	oz	36461	uncja (28 gram)
+05154	Pheasant, raw, meat only	Ba¿ant, tylko miêso	unit (yield from 1 lb ready-to-eat pheasant)	36462	450 gram
+05154	Pheasant, raw, meat only	Ba¿ant, tylko miêso	pheasant	36463	sztuka
+05155	Pheasant, breast, meat only, raw	Ba¿ant, pierœ	gram	36464	gram
+05155	Pheasant, breast, meat only, raw	Ba¿ant, pierœ	oz	36465	uncja (28 gram)
+05155	Pheasant, breast, meat only, raw	Ba¿ant, pierœ	unit (yield from 1 lb ready-to-eat pheasant)	36466	450 gram
+05155	Pheasant, breast, meat only, raw	Ba¿ant, pierœ	breast, bone and skin removed	36467	pierœ, bez koœci i skóry
+05156	Pheasant, leg, meat only, raw	Ba¿ant, udziec	gram	36468	gram
+05156	Pheasant, leg, meat only, raw	Ba¿ant, udziec	unit (yield from 1 lb ready-to-eat pheasant)	36469	450 gram
+05156	Pheasant, leg, meat only, raw	Ba¿ant, udziec	leg, bone and skin removed	36470	bez koœci i skóry
+05157	Quail, meat and skin, raw	Przepiórka, ca³a	gram	36471	gram
+05157	Quail, meat and skin, raw	Przepiórka, ca³a	quail	36472	sztuka
+05157	Quail, meat and skin, raw	Przepiórka, ca³a	unit (yield from 1 lb ready-to cook quail)	36473	450 gram
+05158	Quail, meat only, raw	Przepiórka, tylko miêso	gram	36474	gram
+05158	Quail, meat only, raw	Przepiórka, tylko miêso	quail	36475	sztuka
+05158	Quail, meat only, raw	Przepiórka, tylko miêso	unit (yield from 1 lb ready-to cook quail)	36476	450 gram
+05159	Quail, breast, meat only, raw	Przepiórka, pierœ	gram	36477	gram
+05159	Quail, breast, meat only, raw	Przepiórka, pierœ	oz	36478	uncja (28 gram)
+05159	Quail, breast, meat only, raw	Przepiórka, pierœ	unit (yield from 1 lb ready-to cook quail)	36479	450 gram
+05159	Quail, breast, meat only, raw	Przepiórka, pierœ	breast	36480	sztuka
+05167	Turkey, whole, meat only, raw	Indyk, ca³y	gram	36481	gram
+05167	Turkey, whole, meat only, raw	Indyk, ca³y	oz	36482	uncja (28 gram)
+05167	Turkey, whole, meat only, raw	Indyk, ca³y	bird	36483	sztuka
+05171	Turkey, whole, giblets, raw	Indyk, podroby	gram	36484	gram
+05171	Turkey, whole, giblets, raw	Indyk, podroby	oz	36485	uncja (28 gram)
+05171	Turkey, whole, giblets, raw	Indyk, podroby	giblets	36486	sztuka
+05173	Turkey, gizzard, all classes, raw	Indyk, ¿o³¹dek	gram	36487	gram
+05173	Turkey, gizzard, all classes, raw	Indyk, ¿o³¹dek	raw gizzard	36488	sztuka
+05175	Turkey, heart, all classes, raw	Indyk, serce	gram	36489	gram
+05175	Turkey, heart, all classes, raw	Indyk, serce	piece	36490	sztuka
+05177	Turkey, liver, all classes, raw	Indyk, w¹troba	gram	36491	gram
+05177	Turkey, liver, all classes, raw	Indyk, w¹troba	raw liver	36492	sztuka
+05179	Turkey from whole, neck, meat only, raw	Indyk, szyja	gram	36493	gram
+05179	Turkey from whole, neck, meat only, raw	Indyk, szyja	oz	36494	uncja (28 gram)
+05179	Turkey from whole, neck, meat only, raw	Indyk, szyja	lb	36495	funt (450 gram)
+05185	Turkey from whole, light meat, raw	Indyk, jasne miêso	gram	36496	gram
+05185	Turkey from whole, light meat, raw	Indyk, jasne miêso	serving	36497	porcja
+05187	Turkey from whole, dark meat, meat only, raw	Indyk, ciemne miêso	gram	36498	gram
+05187	Turkey from whole, dark meat, meat only, raw	Indyk, ciemne miêso	serving	36499	porcja
+05191	Turkey, all classes, breast, meat and skin, raw	Indyk, pierœ, ca³a	gram	36500	gram
+05191	Turkey, all classes, breast, meat and skin, raw	Indyk, pierœ, ca³a	unit (yield from 1 lb ready-to-cook turkey)	36501	450 gram
+05191	Turkey, all classes, breast, meat and skin, raw	Indyk, pierœ, ca³a	breast, bone removed	36502	pierœ, bez koœci
+05193	Turkey, all classes, leg, meat and skin, raw	Indyk, udziec	gram	36503	gram
+05193	Turkey, all classes, leg, meat and skin, raw	Indyk, udziec	unit (yield from 1 lb ready-to-cook turkey)	36504	450 gram
+05193	Turkey, all classes, leg, meat and skin, raw	Indyk, udziec	leg, bone removed	36505	udziec, bez koœci
+05195	Turkey, all classes, wing, meat and skin, raw	Indyk, skrzyd³o, ca³e	gram	36506	gram
+05195	Turkey, all classes, wing, meat and skin, raw	Indyk, skrzyd³o, ca³e	unit (yield from 1 lb ready-to-cook turkey)	36507	450 gram
+05195	Turkey, all classes, wing, meat and skin, raw	Indyk, skrzyd³o, ca³e	wing, bone removed	36508	skrzyd³o, bez koœci
+05219	Turkey, breast, from whole bird, meat only, raw	Indyk, pierœ, tylko miêso	gram	36512	gram
+05219	Turkey, breast, from whole bird, meat only, raw	Indyk, pierœ, tylko miêso	oz	36513	uncja (28 gram)
+05219	Turkey, breast, from whole bird, meat only, raw	Indyk, pierœ, tylko miêso	breast	36514	pierœ
+05227	Turkey, wing, from whole bird, meat only, raw	Indyk, skrzyd³o, tylko miêso	gram	36515	gram
+05227	Turkey, wing, from whole bird, meat only, raw	Indyk, skrzyd³o, tylko miêso	oz	36516	uncja (28 gram)
+05227	Turkey, wing, from whole bird, meat only, raw	Indyk, skrzyd³o, tylko miêso	wing	36517	sztuka
+05302	Poultry, mechanically deboned, from backs and necks without skin, raw	Drób, oddzielany mechanicznie z doros³ych kur, bez skór	gram	36518	gram
+05302	Poultry, mechanically deboned, from backs and necks without skin, raw	Drób, oddzielany mechanicznie z doros³ych kur, bez skór	lb	36519	funt (450 gram)
+05303	Poultry, mechanically deboned, from mature hens, raw	Drób, oddzielany mechanicznie z doros³ych kur	gram	36520	gram
+05303	Poultry, mechanically deboned, from mature hens, raw	Drób, oddzielany mechanicznie z doros³ych kur	lb	36521	funt (450 gram)
+05305	Ground turkey, raw	Indyk, mielony	gram	36522	gram
+05305	Ground turkey, raw	Indyk, mielony	lb	36523	funt (450 gram)
+05305	Ground turkey, raw	Indyk, mielony	patty, 4 oz	36524	paczka (115 gram)
+05332	Chicken, ground, raw	Kurczak, miêso mielone	gram	36532	gram
+05332	Chicken, ground, raw	Kurczak, miêso mielone	oz crumbled	36533	uncja (28 gram)
+05651	Ostrich, oyster, raw	Ostryga	gram	36537	gram
+05651	Ostrich, oyster, raw	Ostryga	serving ( cooked from 4 oz raw)	36538	porcja 
+05651	Ostrich, oyster, raw	Ostryga	oz	36539	uncja (28 gram)
+05662	Ground turkey, fat free, raw	Indyk, mielony, bez t³uszczu	gram	36540	gram
+05662	Ground turkey, fat free, raw	Indyk, mielony, bez t³uszczu	patty (cooked from 4 oz raw)	36541	paczka (115 gram)
+05662	Ground turkey, fat free, raw	Indyk, mielony, bez t³uszczu	oz	36542	uncja (28 gram)
+05662	Ground turkey, fat free, raw	Indyk, mielony, bez t³uszczu	lb	36543	funt (450 gram)
+06076	Soup, beef broth, cubed, dry	Kostka bulionowa, wieprzowa	gram	36544	gram
+06076	Soup, beef broth, cubed, dry	Kostka bulionowa, wieprzowa	cube	36545	kostka
+06080	Soup, chicken broth or bouillon, dry	Bulion	gram	36546	gram
+06080	Soup, chicken broth or bouillon, dry	Bulion	cube	36547	kostka
+06080	Soup, chicken broth or bouillon, dry	Bulion	teaspoon	36548	³y¿eczka
+06081	Soup, chicken broth cubes, dry	Kostka bulionowa, drobiowa	gram	36549	gram
+06081	Soup, chicken broth cubes, dry	Kostka bulionowa, drobiowa	cube	36550	kostka
+06112	Sauce, teriyaki, ready-to-serve	Sos Teriyaki	gram	36551	gram
+06112	Sauce, teriyaki, ready-to-serve	Sos Teriyaki	tbsp	36552	³y¿ka
+06112	Sauce, teriyaki, ready-to-serve	Sos Teriyaki	fl oz	36553	uncja cieczy (60 ml)
+06112	Sauce, teriyaki, ready-to-serve	Sos Teriyaki	cup	36554	szklanka
+06118	Gravy, brown, dry	Sos br¹zowy (fix)	gram	36555	gram
+06118	Gravy, brown, dry	Sos br¹zowy (fix)	tbsp	36556	³y¿ka
+06120	Gravy, chicken, dry	Sos pieczeniowy, jasny (fix)	gram	36557	gram
+06120	Gravy, chicken, dry	Sos pieczeniowy, jasny (fix)	tbsp	36558	³y¿ka
+06120	Gravy, chicken, dry	Sos pieczeniowy, jasny (fix)	serving	36559	porcja
+06122	Gravy, mushroom, dry, powder	Sos grzybowy (fix)	gram	36560	gram
+06122	Gravy, mushroom, dry, powder	Sos grzybowy (fix)	cup (8 fl oz)	36561	szklanka
+06123	Gravy, onion, dry, mix	Sos cebulowy (fix)	gram	36562	gram
+06123	Gravy, onion, dry, mix	Sos cebulowy (fix)	cup (8 fl oz)	36563	szklanka 
+06124	Gravy, pork, dry, powder	Sos pieczeniowy, ciemny (fix)	gram	36564	gram
+06124	Gravy, pork, dry, powder	Sos pieczeniowy, ciemny (fix)	serving	36565	porcja
+06126	Gravy, turkey, dry	Sos pieczeniowy, do indyka (fix)	gram	36566	gram
+06126	Gravy, turkey, dry	Sos pieczeniowy, do indyka (fix)	serving	36567	porcja
+06150	Sauce, barbecue	Sos BBQ	gram	36573	gram
+06150	Sauce, barbecue	Sos BBQ	tbsp	36574	³y¿ka
+06150	Sauce, barbecue	Sos BBQ	cup	36575	szklanka
+06150	Sauce, barbecue	Sos BBQ	cup	36576	szklanka
+06152	Sauce, pizza, canned, ready-to-serve	Sos do pizzy	gram	36577	gram
+06152	Sauce, pizza, canned, ready-to-serve	Sos do pizzy	cup	36578	szklanka
+06159	Soup, tomato, canned, condensed	Sos pomidorowy	gram	36579	gram
+06159	Soup, tomato, canned, condensed	Sos pomidorowy	cup	36580	szklanka
+06159	Soup, tomato, canned, condensed	Sos pomidorowy	can	36581	puszka
+06164	Sauce, salsa, ready-to-serve	Sos Salsa	gram	36582	gram
+06164	Sauce, salsa, ready-to-serve	Sos Salsa	tbsp	36583	³y¿ka
+06164	Sauce, salsa, ready-to-serve	Sos Salsa	cup	36584	szklanka
+06164	Sauce, salsa, ready-to-serve	Sos Salsa	cup	36585	szklanka
+06167	Sauce, homemade, white, thick	Sos jasny	gram	36586	gram
+06167	Sauce, homemade, white, thick	Sos jasny	cup	36587	szklanka
+06167	Sauce, homemade, white, thick	Sos jasny	cup	36588	szklanka
+06169	Sauce, ready-to-serve, pepper, TABASCO	Tabasco	gram	36589	gram
+06169	Sauce, ready-to-serve, pepper, TABASCO	Tabasco	tsp	36590	³y¿eczka
+06169	Sauce, ready-to-serve, pepper, TABASCO	Tabasco	tsp	36591	³y¿eczka
+06963	Fish broth	Bulion rybny	gram	36592	gram
+06963	Fish broth	Bulion rybny	cup	36593	szklanka
+06963	Fish broth	Bulion rybny	fl oz	36594	uncja cieczy (60 ml)
+07019	Chorizo, pork and beef	Chorizo	gram	36595	gram
+07019	Chorizo, pork and beef	Chorizo	oz	36596	uncja (28 gram)
+07019	Chorizo, pork and beef	Chorizo	"link (4"" long)"	36597	laska
+07024	Frankfurter, chicken	Frankfurterka, drobiowa	gram	36598	gram
+07024	Frankfurter, chicken	Frankfurterka, drobiowa	oz	36599	uncja (28 gram)
+07024	Frankfurter, chicken	Frankfurterka, drobiowa	link	36600	laska
+07025	Frankfurter, turkey	Frankfurterka, z indyka	gram	36601	gram
+07025	Frankfurter, turkey	Frankfurterka, z indyka	oz	36602	uncja (28 gram)
+07025	Frankfurter, turkey	Frankfurterka, z indyka	frankfurter	36603	sztuka
+07027	Ham, chopped, not canned	Szynka, siekana	gram	36604	gram
+07027	Ham, chopped, not canned	Szynka, siekana	"slice (1 oz) (4"" x 4"" x 3/32"" thick)"	36605	plaster (28 g)
+07027	Ham, chopped, not canned	Szynka, siekana	"slice (4-1/4"" x 4-1/4"" x 1/16"")"	36606	plaster
+07029	Ham, sliced, regular (approximately 11% fat)	Szynka	gram	36607	gram
+07029	Ham, sliced, regular (approximately 11% fat)	Szynka	grams 1 serving	36608	gram per porcja
+07029	Ham, sliced, regular (approximately 11% fat)	Szynka	slice	36609	plaster
+07030	Ham, minced	Szynka, mielona	gram	36610	gram
+07030	Ham, minced	Szynka, mielona	oz	36611	uncja (28 gram)
+07030	Ham, minced	Szynka, mielona	"slice (4-1/4"" x 4-1/4"" x 1/16"")"	36612	plaster
+07036	Sausage, Italian, pork, raw	Kie³basa, w³oska, wieprzowa	gram	36613	gram
+07036	Sausage, Italian, pork, raw	Kie³basa, w³oska, wieprzowa	link, 4/lb	36614	laska, ma³a
+07036	Sausage, Italian, pork, raw	Kie³basa, w³oska, wieprzowa	link, 5/lb	36615	laska, du¿a
+07050	Mortadella, beef, pork	Mortadela	gram	36616	gram
+07050	Mortadella, beef, pork	Mortadela	oz	36617	uncja (28 gram)
+07050	Mortadella, beef, pork	Mortadela	slice (15 per 8 oz package)	36618	plaster
+07057	Pepperoni, beef and pork, sliced	Pepperoni, plastry	gram	36619	gram
+07057	Pepperoni, beef and pork, sliced	Pepperoni, plastry	oz	36620	uncja (28 gram)
+07057	Pepperoni, beef and pork, sliced	Pepperoni, plastry	piece	36621	kawa³ek
+07057	Pepperoni, beef and pork, sliced	Pepperoni, plastry	oz	36622	uncja (28 gram)
+07059	Polish sausage, pork	Kie³basa, polska, wieprzowa	gram	36623	gram
+07059	Polish sausage, pork	Kie³basa, polska, wieprzowa	oz	36624	uncja (28 gram)
+07059	Polish sausage, pork	Kie³basa, polska, wieprzowa	"sausage (10"" long x 1-1/4"" dia)"	36625	laska
+07074	Smoked link sausage, pork	Kabanos, wieprzowy	gram	36626	gram
+07074	Smoked link sausage, pork	Kabanos, wieprzowy	"link (4"" long x 1-1/8"" dia)"	36627	laska
+07074	Smoked link sausage, pork	Kabanos, wieprzowy	"link, little (2"" long x 3/4"" dia)"	36628	laska, ma³a
+07075	Sausage, smoked link sausage, pork and beef	Kabanos, wieprzowo-drobiowy	gram	36629	gram
+07075	Sausage, smoked link sausage, pork and beef	Kabanos, wieprzowo-drobiowy	oz	36630	uncja (28 gram)
+07081	Turkey breast, sliced, prepackaged	Indyk, pierœ, plastry	gram	36631	gram
+07081	Turkey breast, sliced, prepackaged	Indyk, pierœ, plastry	slice	36632	plaster
+07926	Salami, Italian, pork	Salami	gram	36633	gram
+07926	Salami, Italian, pork	Salami	oz	36634	uncja (28 gram)
+07939	Frankfurter, pork	Frankfurterka, wieprzowa	gram	36635	gram
+07939	Frankfurter, pork	Frankfurterka, wieprzowa	link	36636	laska
+07970	Kielbasa, fully cooked, unheated	Kie³basa	gram	36642	gram
+07970	Kielbasa, fully cooked, unheated	Kie³basa	oz	36643	uncja (28 gram)
+07970	Kielbasa, fully cooked, unheated	Kie³basa	link	36644	laska
+07974	Bacon, turkey, low sodium	Indyk, boczek	gram	36645	gram
+07974	Bacon, turkey, low sodium	Indyk, boczek	serving	36646	porcja
+07977	Ham, smoked, extra lean, low sodium	Szynka, wêdzona	gram	36647	gram
+07979	Sausage, pork, turkey, and beef, reduced sodium	Kie³basa, wieprzowa	gram	36648	gram
+07979	Sausage, pork, turkey, and beef, reduced sodium	Kie³basa, wieprzowa	oz	36649	uncja (28 gram)
+07979	Sausage, pork, turkey, and beef, reduced sodium	Kie³basa, wieprzowa	serving	36650	porcja
+09002	Acerola juice, raw	Sok z aceroli	gram	36651	gram
+09002	Acerola juice, raw	Sok z aceroli	cup	36652	szklanka
+09002	Acerola juice, raw	Sok z aceroli	fl oz	36653	uncja cieczy (60 ml)
+09003	Apples, raw, with skin	Jab³ko	gram	36654	gram
+09003	Apples, raw, with skin	Jab³ko	cup, quartered or chopped	36655	szklanka, posiekane
+09003	Apples, raw, with skin	Jab³ko	cup slices	36656	szklanka, plastry
+09003	Apples, raw, with skin	Jab³ko	"large (3-1/4"" dia)"	36657	du¿e
+09003	Apples, raw, with skin	Jab³ko	"medium (3"" dia)"	36658	œrednie
+09003	Apples, raw, with skin	Jab³ko	"small (2-3/4"" dia)"	36659	ma³e
+09003	Apples, raw, with skin	Jab³ko	"extra small (2-1/2"" dia)"	36660	malutkie
+09003	Apples, raw, with skin	Jab³ko	NLEA serving	36661	porcja 
+09021	Apricots, raw	Morela	gram	36662	gram
+09021	Apricots, raw	Morela	cup, halves	36663	szklanka, po³ówki
+09021	Apricots, raw	Morela	cup, sliced	36664	szklanka, pokrojony
+09021	Apricots, raw	Morela	apricot	36665	sztuka
+09037	Avocados, raw, all commercial varieties	Awokado	gram	36666	gram
+09037	Avocados, raw, all commercial varieties	Awokado	cup, cubes	36667	szklanka, kostki
+09037	Avocados, raw, all commercial varieties	Awokado	cup, pureed	36668	szklanka, rozgniecione
+09037	Avocados, raw, all commercial varieties	Awokado	cup, sliced	36669	szklanka, krojony
+09037	Avocados, raw, all commercial varieties	Awokado	avocado, NS as to Florida or California	36670	sztuka
+09038	Avocados, raw, California	Awokado Kalifornijskie	gram	36671	gram
+09038	Avocados, raw, California	Awokado Kalifornijskie	cup, pureed	36672	szklanka, rozgniecione
+09038	Avocados, raw, California	Awokado Kalifornijskie	fruit, without skin and seed	36673	bez skóry i nasion
+09038	Avocados, raw, California	Awokado Kalifornijskie	NLEA serving	36674	porcja 
+09039	Avocados, raw, Florida	Awokado Florydzkie	gram	36675	gram
+09039	Avocados, raw, Florida	Awokado Florydzkie	cup, pureed	36676	szklanka, rozgniecione
+09039	Avocados, raw, Florida	Awokado Florydzkie	fruit without skin and seeds	36677	bez skóry i nasion
+09040	Bananas, raw	Banan	gram	36678	gram
+09040	Bananas, raw	Banan	cup, mashed	36679	szklanka, rozgniecione
+09040	Bananas, raw	Banan	cup, sliced	36680	szklanka, krojony
+09040	Bananas, raw	Banan	"extra small (less than 6"" long)"	36681	malutki
+09040	Bananas, raw	Banan	"small (6"" to 6-7/8"" long)"	36682	ma³y
+09040	Bananas, raw	Banan	"medium (7"" to 7-7/8"" long)"	36683	œredni
+09040	Bananas, raw	Banan	"large (8"" to 8-7/8"" long)"	36684	du¿y
+09040	Bananas, raw	Banan	"extra large (9"" or longer)"	36685	wielki
+09040	Bananas, raw	Banan	NLEA serving	36686	porcja 
+09042	Blackberries, raw	Je¿yny	gram	36687	gram
+09042	Blackberries, raw	Je¿yny	cup	36688	szklanka
+09050	Blueberries, raw	Jagody	gram	36689	gram
+09050	Blueberries, raw	Jagody	cup	36690	szklanka
+09050	Blueberries, raw	Jagody	berries	36691	sztuka
+09060	Carambola, (starfruit), raw	Karambola	gram	36692	gram
+09060	Carambola, (starfruit), raw	Karambola	cup, cubes	36693	szklanka, kostki
+09060	Carambola, (starfruit), raw	Karambola	cup, sliced	36694	szklanka, plastry
+09060	Carambola, (starfruit), raw	Karambola	"large (4-1/2"" long)"	36695	du¿a
+09060	Carambola, (starfruit), raw	Karambola	"medium (3-5/8"" long)"	36696	œrednia
+09060	Carambola, (starfruit), raw	Karambola	"small (3-1/8"" long)"	36697	ma³a
+09063	Cherries, sour, red, raw	Wiœnie, kwaœne	gram	36698	gram
+09063	Cherries, sour, red, raw	Wiœnie, kwaœne	cup, without pits	36699	szklanka, bez pestek
+09063	Cherries, sour, red, raw	Wiœnie, kwaœne	cup, with pits, yields	36700	szklanka, z pestkami
+09070	Cherries, sweet, raw	Wiœnie, s³odkie	gram	36701	gram
+09070	Cherries, sweet, raw	Wiœnie, s³odkie	cup, with pits, yields	36702	szklanka, z pestkami
+09070	Cherries, sweet, raw	Wiœnie, s³odkie	cup, without pits	36703	szklanka, bez pestek
+09070	Cherries, sweet, raw	Wiœnie, s³odkie	cherry	36704	sztuka
+09070	Cherries, sweet, raw	Wiœnie, s³odkie	NLEA serving	36705	porcja 
+09078	Cranberries, raw	¯urawina	gram	36706	gram
+09078	Cranberries, raw	¯urawina	cup, chopped	36707	szklanka, posiekana
+09078	Cranberries, raw	¯urawina	cup, whole	36708	szklanka
+09079	Cranberries, dried, sweetened	¯urawina s³odka, suszona	gram	36709	gram
+09079	Cranberries, dried, sweetened	¯urawina s³odka, suszona	cup	36710	szklanka
+09083	Currants, european black, raw	Porzeczka, europejska	gram	36711	gram
+09083	Currants, european black, raw	Porzeczka, europejska	cup	36712	szklanka
+09084	Currants, red and white, raw	Porzeczka, czerwona i bia³a	gram	36713	gram
+09084	Currants, red and white, raw	Porzeczka, czerwona i bia³a	cup	36714	szklanka
+09088	Elderberries, raw	Dziki bez	gram	36715	gram
+09088	Elderberries, raw	Dziki bez	cup	36716	szklanka
+09089	Figs, raw	Figi	gram	36717	gram
+09089	Figs, raw	Figi	"large (2-1/2"" dia)"	36718	du¿e
+09089	Figs, raw	Figi	"medium (2-1/4"" dia)"	36719	œrednie
+09089	Figs, raw	Figi	"small (1-1/2"" dia)"	36720	ma³e
+09107	Gooseberries, raw	Agrest	gram	36721	gram
+09107	Gooseberries, raw	Agrest	cup	36722	szklanka
+09110	Goji berries, dried	Jagody Goji	gram	36723	gram
+09110	Goji berries, dried	Jagody Goji	tbsp	36724	³y¿ka
+09111	Grapefruit, raw, pink and red and white, all areas	Grejpfrut	gram	36725	gram
+09111	Grapefruit, raw, pink and red and white, all areas	Grejpfrut	cup sections, with juice	36726	szklanka
+09111	Grapefruit, raw, pink and red and white, all areas	Grejpfrut	"large (approx 4-1/2"" dia)"	36727	du¿y
+09111	Grapefruit, raw, pink and red and white, all areas	Grejpfrut	"medium (approx 4"" dia)"	36728	œredni
+09111	Grapefruit, raw, pink and red and white, all areas	Grejpfrut	"small (approx 3-1/2"" dia)"	36729	ma³y
+09112	Grapefruit, raw, pink and red, all areas	Grejpfrut, ró¿owy/czerwony	gram	36730	gram
+09112	Grapefruit, raw, pink and red, all areas	Grejpfrut, ró¿owy/czerwony	cup sections, with juice	36731	szklanka
+09112	Grapefruit, raw, pink and red, all areas	Grejpfrut, ró¿owy/czerwony	"fruit (3-3/4"" dia)"	36732	sztuka
+09112	Grapefruit, raw, pink and red, all areas	Grejpfrut, ró¿owy/czerwony	NLEA serving	36733	porcja 
+09113	Grapefruit, raw, pink and red, California and Arizona	Grejpfrut, ró¿owy/czerwony, Kalifornijski	gram	36734	gram
+09113	Grapefruit, raw, pink and red, California and Arizona	Grejpfrut, ró¿owy/czerwony, Kalifornijski	cup sections, with juice	36735	szklanka
+09113	Grapefruit, raw, pink and red, California and Arizona	Grejpfrut, ró¿owy/czerwony, Kalifornijski	"fruit (3-3/4"" dia)"	36736	sztuka
+09114	Grapefruit, raw, pink and red, Florida	Grejpfrut, ró¿owy/czerwony, Florydzki	gram	36737	gram
+09114	Grapefruit, raw, pink and red, Florida	Grejpfrut, ró¿owy/czerwony, Florydzki	cup sections, with juice	36738	szklanka
+09114	Grapefruit, raw, pink and red, Florida	Grejpfrut, ró¿owy/czerwony, Florydzki	"fruit (3-3/4"" dia)"	36739	sztuka
+09116	Grapefruit, raw, white, all areas	Grejpfrut, bia³y	gram	36740	gram
+09116	Grapefruit, raw, white, all areas	Grejpfrut, bia³y	cup sections, with juice	36741	szklanka
+09116	Grapefruit, raw, white, all areas	Grejpfrut, bia³y	"fruit (3-3/4"" dia)"	36742	sztuka
+09117	Grapefruit, raw, white, California	Grejpfrut, bia³y, Kalifornijski	gram	36743	gram
+09117	Grapefruit, raw, white, California	Grejpfrut, bia³y, Kalifornijski	cup sections, with juice	36744	szklanka
+09117	Grapefruit, raw, white, California	Grejpfrut, bia³y, Kalifornijski	"fruit (3-3/4"" dia)"	36745	sztuka
+09118	Grapefruit, raw, white, Florida	Grejpfrut, bia³y, Florydzki	gram	36746	gram
+09118	Grapefruit, raw, white, Florida	Grejpfrut, bia³y, Florydzki	cup sections, with juice	36747	szklanka
+09118	Grapefruit, raw, white, Florida	Grejpfrut, bia³y, Florydzki	"fruit (3-3/4"" dia)"	36748	sztuka
+09128	Grapefruit juice, white, raw	Sok z grejpfruta bia³ego	gram	36749	gram
+09128	Grapefruit juice, white, raw	Sok z grejpfruta bia³ego	cup	36750	szklanka
+09128	Grapefruit juice, white, raw	Sok z grejpfruta bia³ego	fl oz	36751	uncja cieczy (60 ml)
+09128	Grapefruit juice, white, raw	Sok z grejpfruta bia³ego	fruit yields	36752	sok z ca³ego grejpfruta
+09129	Grapes, muscadine, raw	Winogrona, muscadine	gram	36753	gram
+09129	Grapes, muscadine, raw	Winogrona, muscadine	grape	36754	sztuka
+09139	Guavas, common, raw	Gujawa	gram	36755	gram
+09139	Guavas, common, raw	Gujawa	cup	36756	szklanka
+09139	Guavas, common, raw	Gujawa	fruit, without refuse	36757	sztuka
+09140	Guavas, strawberry, raw	Gujawa truskawkowa	gram	36758	gram
+09140	Guavas, strawberry, raw	Gujawa truskawkowa	cup	36759	szklanka
+09140	Guavas, strawberry, raw	Gujawa truskawkowa	fruit without refuse	36760	sztuka
+09148	Kiwifruit, green, raw	Kiwi	gram	36761	gram
+09148	Kiwifruit, green, raw	Kiwi	cup, sliced	36762	szklanka, pokrojone
+09148	Kiwifruit, green, raw	Kiwi	"fruit (2"" dia)"	36763	sztuka
+09148	Kiwifruit, green, raw	Kiwi	NLEA serving	36764	porcja 
+09149	Kumquats, raw	Kumkwat	gram	36765	gram
+09149	Kumquats, raw	Kumkwat	fruit without refuse	36766	sztuka
+09152	Lemon juice, raw	Sok z cytryny	gram	36767	gram
+09152	Lemon juice, raw	Sok z cytryny	cup	36768	szklanka
+09152	Lemon juice, raw	Sok z cytryny	fl oz	36769	uncja cieczy (60 ml)
+09152	Lemon juice, raw	Sok z cytryny	lemon yields	36770	sok z ca³ej cytryny
+09152	Lemon juice, raw	Sok z cytryny	wedge yields	36771	sok z klina
+09156	Lemon peel, raw	Skórka z cytryny	gram	36772	gram
+09156	Lemon peel, raw	Skórka z cytryny	tbsp	36773	³y¿ka
+09156	Lemon peel, raw	Skórka z cytryny	tsp	36774	³y¿eczka
+09159	Limes, raw	Limonka	gram	36775	gram
+09159	Limes, raw	Limonka	"fruit (2"" dia)"	36776	sztuka
+09159	Limes, raw	Limonka	NLEA serving	36777	porcja 
+09164	Litchis, raw	Liczi	gram	36778	gram
+09164	Litchis, raw	Liczi	cup	36779	szklanka
+09164	Litchis, raw	Liczi	fruit without refuse	36780	sztuka
+09176	Mangos, raw	Mango	gram	36781	gram
+09176	Mangos, raw	Mango	cup pieces	36782	szklanka, kostki
+09176	Mangos, raw	Mango	fruit without refuse	36783	sztuka
+09181	Melons, cantaloupe, raw	Melon Kantalupa	gram	36784	gram
+09181	Melons, cantaloupe, raw	Melon Kantalupa	cup, balls	36785	szklanka, kulki
+09181	Melons, cantaloupe, raw	Melon Kantalupa	cup, cubes	36786	szklanka, kostki
+09181	Melons, cantaloupe, raw	Melon Kantalupa	cup, diced	36787	szklanka, pokrojony w kostkê
+09181	Melons, cantaloupe, raw	Melon Kantalupa	"melon, large (about 6-1/2"" dia)"	36788	melon, du¿y
+09181	Melons, cantaloupe, raw	Melon Kantalupa	wedge, large (1/8 of large melon)	36789	klin, du¿y
+09181	Melons, cantaloupe, raw	Melon Kantalupa	"melon, medium (about 5"" dia)"	36790	melon, œredni
+09181	Melons, cantaloupe, raw	Melon Kantalupa	wedge, medium (1/8 of medium melon)	36791	klin, du¿y
+09181	Melons, cantaloupe, raw	Melon Kantalupa	"melon, small (about 4-1/4"" dia)"	36792	melon, ma³y
+09181	Melons, cantaloupe, raw	Melon Kantalupa	wedge, small (1/8 of small melon)	36793	klin, ma³y
+09181	Melons, cantaloupe, raw	Melon Kantalupa	cantaloupe balls	36794	kulki
+09181	Melons, cantaloupe, raw	Melon Kantalupa	NLEA serving	36795	porcja 
+09183	Melons, casaba, raw	Melon Casaba	gram	36796	gram
+09183	Melons, casaba, raw	Melon Casaba	cup, cubes	36797	szklanka, kostki
+09183	Melons, casaba, raw	Melon Casaba	melon	36798	melon
+09183	Melons, casaba, raw	Melon Casaba	fruit	36799	sztuka
+09184	Melons, honeydew, raw	Melon miodowy	gram	36800	gram
+09184	Melons, honeydew, raw	Melon miodowy	cup, diced (approx 20 pieces per cup)	36801	szklanka, kawa³ki
+09184	Melons, honeydew, raw	Melon miodowy	cup, balls	36802	szklanka, kulki
+09184	Melons, honeydew, raw	Melon miodowy	"melon (5-1/4"" dia)"	36803	melon, ma³y
+09184	Melons, honeydew, raw	Melon miodowy	"melon (6"" - 7"" dia)"	36804	melon, œredni
+09184	Melons, honeydew, raw	Melon miodowy	"wedge (1/8 of 5-1/4"" dia melon)"	36805	klin, ma³y
+09184	Melons, honeydew, raw	Melon miodowy	"wedge (1/8 of 6"" to 7"" dia melon)"	36806	klin, œredni
+09184	Melons, honeydew, raw	Melon miodowy	honeydew balls	36807	kulki
+09184	Melons, honeydew, raw	Melon miodowy	NLEA serving	36808	porcja 
+09190	Mulberries, raw	Morwa	gram	36809	gram
+09190	Mulberries, raw	Morwa	cup	36810	szklanka
+09190	Mulberries, raw	Morwa	fruit	36811	sztuka
+09191	Nectarines, raw	Nektarynka	gram	36812	gram
+09191	Nectarines, raw	Nektarynka	cup slices	36813	szklanka, plastry
+09191	Nectarines, raw	Nektarynka	"small (2-1/3"" dia)"	36814	ma³a
+09191	Nectarines, raw	Nektarynka	"medium (2-1/2"" dia)"	36815	œrednia
+09191	Nectarines, raw	Nektarynka	"large (2-3/4"" dia)"	36816	du¿a
+09191	Nectarines, raw	Nektarynka	NLEA serving	36817	porcja 
+09195	Olives, pickled, canned or bottled, green	Oliwki zielone	gram	36818	gram
+09195	Olives, pickled, canned or bottled, green	Oliwki zielone	olive	36819	sztuka
+09200	Oranges, raw, all commercial varieties	Pomarañcza	gram	36820	gram
+09200	Oranges, raw, all commercial varieties	Pomarañcza	cup, sections	36821	szklanka
+09200	Oranges, raw, all commercial varieties	Pomarañcza	"large (3-1/16"" dia)"	36822	du¿a
+09200	Oranges, raw, all commercial varieties	Pomarañcza	"small (2-3/8"" dia)"	36823	ma³a
+09200	Oranges, raw, all commercial varieties	Pomarañcza	"fruit (2-5/8"" dia)"	36824	sztuka
+09201	Oranges, raw, California, valencias	Pomarañcza, kalifornijska	gram	36825	gram
+09201	Oranges, raw, California, valencias	Pomarañcza, kalifornijska	cup sections, without membranes	36826	szklanka
+09201	Oranges, raw, California, valencias	Pomarañcza, kalifornijska	"fruit (2-5/8"" dia)"	36827	ma³a
+09202	Oranges, raw, navels	Pomarañcza, nowelina	gram	36828	gram
+09202	Oranges, raw, navels	Pomarañcza, nowelina	cup sections, without membranes	36829	szklanka
+09202	Oranges, raw, navels	Pomarañcza, nowelina	"fruit (2-7/8"" dia)"	36830	ma³a
+09202	Oranges, raw, navels	Pomarañcza, nowelina	NLEA serving	36831	porcja 
+09203	Oranges, raw, Florida	Pomarañcza, florydzka	gram	36832	gram
+09203	Oranges, raw, Florida	Pomarañcza, florydzka	cup sections, without membranes	36833	sztuka
+09203	Oranges, raw, Florida	Pomarañcza, florydzka	"fruit (2-5/8"" dia)"	36834	ma³a
+09203	Oranges, raw, Florida	Pomarañcza, florydzka	"fruit (2-11/16"" dia)"	36835	du¿a
+09205	Oranges, raw, with peel	Pomarañcza, ze skórk¹	gram	36836	gram
+09205	Oranges, raw, with peel	Pomarañcza, ze skórk¹	cup	36837	szklanka
+09205	Oranges, raw, with peel	Pomarañcza, ze skórk¹	fruit without seeds	36838	sztuka
+09206	Orange juice, raw	Sok pomarañczowy	gram	36839	gram
+09206	Orange juice, raw	Sok pomarañczowy	cup	36840	szklanka
+09206	Orange juice, raw	Sok pomarañczowy	fl oz	36841	uncja cieczy (60 ml)
+09206	Orange juice, raw	Sok pomarañczowy	fruit yields	36842	sok z ca³ej pomarañczy
+09216	Orange peel, raw	Skórka pomarañczowa	gram	36843	gram
+09216	Orange peel, raw	Skórka pomarañczowa	tbsp	36844	³y¿ka
+09216	Orange peel, raw	Skórka pomarañczowa	tsp	36845	³y¿eczka
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	gram	36846	gram
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	cup, sections	36847	szklanka
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	"small (2-1/4"" dia)"	36848	ma³a
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	"medium (2-1/2"" dia)"	36849	œrednia
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	"large (2-3/4"" dia)"	36850	du¿a
+09218	Tangerines, (mandarin oranges), raw	Mandarynka	NLEA serving	36851	porcja 
+09226	Papayas, raw	Papaya	gram	36852	gram
+09226	Papayas, raw	Papaya	"cup 1"" pieces"	36853	szklanka, 
+09226	Papayas, raw	Papaya	cup, mashed	36854	szklanka, rozgniecione
+09226	Papayas, raw	Papaya	fruit, small	36855	ma³a
+09226	Papayas, raw	Papaya	fruit, large	36856	du¿a
+09236	Peaches, yellow, raw	Brzoskwinia	gram	36857	gram
+09236	Peaches, yellow, raw	Brzoskwinia	cup slices	36858	szklanka, pokrojona
+09236	Peaches, yellow, raw	Brzoskwinia	"small (2-1/2"" dia)"	36859	ma³a
+09236	Peaches, yellow, raw	Brzoskwinia	"medium (2-2/3"" dia)"	36860	œrednia
+09236	Peaches, yellow, raw	Brzoskwinia	"large (2-3/4"" dia)"	36861	du¿a
+09236	Peaches, yellow, raw	Brzoskwinia	"extra large (3"" dia)"	36862	wielka
+09236	Peaches, yellow, raw	Brzoskwinia	NLEA serving	36863	porcja 
+09252	Pears, raw	Gruszka	gram	36864	gram
+09252	Pears, raw	Gruszka	cup, slices	36865	szklanka, plastry
+09252	Pears, raw	Gruszka	cup, cubes	36866	szklanka, kostki
+09252	Pears, raw	Gruszka	small	36867	ma³a
+09252	Pears, raw	Gruszka	medium	36868	œrednia
+09252	Pears, raw	Gruszka	large	36869	du¿a
+09252	Pears, raw	Gruszka	NLEA serving	36870	porcja 
+09266	Pineapple, raw, all varieties	Ananas	gram	36871	gram
+09266	Pineapple, raw, all varieties	Ananas	cup, chunks	36872	szklanka, kawa³ki
+09266	Pineapple, raw, all varieties	Ananas	fruit	36873	sztuka
+09266	Pineapple, raw, all varieties	Ananas	"slice (4-2/3"" dia x 3/4"" thick)"	36874	plaster (gruby)
+09266	Pineapple, raw, all varieties	Ananas	"slice (3-1/2"" dia x 3/4"" thick)"	36875	plaster (œredni)
+09266	Pineapple, raw, all varieties	Ananas	"slice, thin (3-1/2"" dia x 1/2"" thick)"	36876	plaster (cienki)
+09279	Plums, raw	Œliwka	gram	36877	gram
+09279	Plums, raw	Œliwka	cup, sliced	36878	szklanka, plastry
+09279	Plums, raw	Œliwka	"fruit (2-1/8"" dia)"	36879	sztuka
+09279	Plums, raw	Œliwka	NLEA serving	36880	porcja 
+09286	Pomegranates, raw	Granat	gram	36881	gram
+09286	Pomegranates, raw	Granat	cup arils (seed/juice sacs)	36882	szklanka
+09286	Pomegranates, raw	Granat	"pomegranate (4"" dia)"	36883	sztuka
+09295	Pummelo, raw	Pomelo	gram	36884	gram
+09295	Pummelo, raw	Pomelo	cup, sections	36885	szklanka
+09295	Pummelo, raw	Pomelo	fruit without refuse	36886	sztuka
+09296	Quinces, raw	Pigwa	gram	36887	gram
+09296	Quinces, raw	Pigwa	fruit without refuse	36888	sztuka
+09302	Raspberries, raw	Maliny	gram	36889	gram
+09302	Raspberries, raw	Maliny	cup	36890	szklanka
+09302	Raspberries, raw	Maliny	pint as purchased, yields	36891	opakowanie
+09302	Raspberries, raw	Maliny	raspberries	36892	sztuka
+09316	Strawberries, raw	Truskawki, œwie¿e	gram	36893	gram
+09316	Strawberries, raw	Truskawki, œwie¿e	cup, halves	36894	szklanka, po³ówki
+09316	Strawberries, raw	Truskawki, œwie¿e	cup, pureed	36895	szklanka, zmiksowane
+09316	Strawberries, raw	Truskawki, œwie¿e	cup, sliced	36896	szklanka, plastry
+09316	Strawberries, raw	Truskawki, œwie¿e	cup, whole	36897	szklanka
+09316	Strawberries, raw	Truskawki, œwie¿e	"extra large (1-5/8"" dia)"	36898	wielka
+09316	Strawberries, raw	Truskawki, œwie¿e	"large (1-3/8"" dia)"	36899	du¿a
+09316	Strawberries, raw	Truskawki, œwie¿e	"medium (1-1/4"" dia)"	36900	œrednia
+09316	Strawberries, raw	Truskawki, œwie¿e	pint as purchased, yields	36901	450 gram
+09316	Strawberries, raw	Truskawki, œwie¿e	"small (1"" dia)"	36902	ma³e
+09316	Strawberries, raw	Truskawki, œwie¿e	NLEA serving	36903	porcja 
+09318	Strawberries, frozen, unsweetened	Truskawki, mro¿one, nies³odzone	gram	36904	gram
+09318	Strawberries, frozen, unsweetened	Truskawki, mro¿one, nies³odzone	cup, thawed	36905	szklanka, rozmro¿one
+09318	Strawberries, frozen, unsweetened	Truskawki, mro¿one, nies³odzone	cup, unthawed	36906	szklanka, nierozmro¿one
+09318	Strawberries, frozen, unsweetened	Truskawki, mro¿one, nies³odzone	berry	36907	sztuka
+09318	Strawberries, frozen, unsweetened	Truskawki, mro¿one, nies³odzone	package (20 oz)	36908	paczka (550 gram)
+09319	Strawberries, frozen, sweetened, whole	Truskawki, mro¿one, s³odzone	gram	36909	gram
+09319	Strawberries, frozen, sweetened, whole	Truskawki, mro¿one, s³odzone	cup, thawed	36910	szklanka, rozmro¿one
+09319	Strawberries, frozen, sweetened, whole	Truskawki, mro¿one, s³odzone	package (10 oz)	36911	paczka (280 gram)
+09322	Tamarinds, raw	Tamarynd	gram	36912	gram
+09322	Tamarinds, raw	Tamarynd	cup, pulp	36913	szklanka, masa
+09322	Tamarinds, raw	Tamarynd	"fruit (3"" x 1"")"	36914	sztuka
+09326	Watermelon, raw	Arbuz	gram	36915	gram
+09326	Watermelon, raw	Arbuz	cup, balls	36916	szklanka, kulki
+09326	Watermelon, raw	Arbuz	cup, diced	36917	szklanka, kostki
+09326	Watermelon, raw	Arbuz	"melon (15"" long x 7-1/2"" dia)"	36918	wielkoœci melona
+09326	Watermelon, raw	Arbuz	wedge (approx 1/16 of melon)	36919	klin
+09326	Watermelon, raw	Arbuz	watermelon balls	36920	kulki
+09326	Watermelon, raw	Arbuz	NLEA serving	36921	porcja 
+09340	Pears, asian, raw	Gruszka, azjatycka	gram	36922	gram
+09340	Pears, asian, raw	Gruszka, azjatycka	"fruit 2-1/4"" high x 2-1/2"" dia"	36923	œrednia
+09340	Pears, asian, raw	Gruszka, azjatycka	"fruit 3-3/8"" high x 3"" diameter"	36924	du¿a
+09404	Grapefruit juice, pink, raw	Sok z grejpfruta ró¿owego	gram	36925	gram
+09404	Grapefruit juice, pink, raw	Sok z grejpfruta ró¿owego	cup	36926	szklanka
+09404	Grapefruit juice, pink, raw	Sok z grejpfruta ró¿owego	fruit yields	36927	sok z ca³ego grejpfruta
+09412	Pears, raw, bartlett	Gruszka, Bartlett	gram	36928	gram
+09412	Pears, raw, bartlett	Gruszka, Bartlett	cup, sliced	36929	szklanka, pokrojona
+09412	Pears, raw, bartlett	Gruszka, Bartlett	small	36930	ma³a
+09412	Pears, raw, bartlett	Gruszka, Bartlett	medium	36931	œrednia
+09412	Pears, raw, bartlett	Gruszka, Bartlett	large	36932	du¿a
+09413	Pears, raw, red anjou	Gruszka, Red Anjou	gram	36933	gram
+09413	Pears, raw, red anjou	Gruszka, Red Anjou	small	36934	ma³a
+09413	Pears, raw, red anjou	Gruszka, Red Anjou	medium	36935	œrednia
+09413	Pears, raw, red anjou	Gruszka, Red Anjou	large	36936	du¿a
+09413	Pears, raw, red anjou	Gruszka, Red Anjou	cup, sliced	36937	szklanka, pokrojona
+09414	Pears, raw, bosc	Gruszka, Bosc	gram	36938	gram
+09414	Pears, raw, bosc	Gruszka, Bosc	cup, sliced	36939	szklanka
+09414	Pears, raw, bosc	Gruszka, Bosc	small	36940	ma³a
+09414	Pears, raw, bosc	Gruszka, Bosc	medium	36941	œrednia
+09414	Pears, raw, bosc	Gruszka, Bosc	large	36942	du¿a
+09415	Pears, raw, green anjou	Gruszka, Green Anjou	gram	36943	gram
+09415	Pears, raw, green anjou	Gruszka, Green Anjou	cup, sliced	36944	szklanka, pokrojona
+09415	Pears, raw, green anjou	Gruszka, Green Anjou	small	36945	ma³a
+09415	Pears, raw, green anjou	Gruszka, Green Anjou	medium	36946	œrednia
+09415	Pears, raw, green anjou	Gruszka, Green Anjou	large	36947	du¿a
+09429	Pineapple, raw, traditional varieties	Ananas, tradycyjny	gram	36948	gram
+09429	Pineapple, raw, traditional varieties	Ananas, tradycyjny	cup, chunks	36949	szklanka, kawa³ki
+09429	Pineapple, raw, traditional varieties	Ananas, tradycyjny	"slice (4-2/3"" dia x 3/4"" thick)"	36950	plaster
+09429	Pineapple, raw, traditional varieties	Ananas, tradycyjny	fruit	36951	sztuka
+09429	Pineapple, raw, traditional varieties	Ananas, tradycyjny	NLEA serving	36952	porcja 
+09430	Pineapple, raw, extra sweet variety	Ananas, odmiana s³odka	gram	36953	gram
+09430	Pineapple, raw, extra sweet variety	Ananas, odmiana s³odka	cup, chunks	36954	szklanka, kawa³ki
+09430	Pineapple, raw, extra sweet variety	Ananas, odmiana s³odka	"slice (4-2/3"" dia x 3/4"" thick)"	36955	plaster
+09430	Pineapple, raw, extra sweet variety	Ananas, odmiana s³odka	fruit	36956	sztuka
+09430	Pineapple, raw, extra sweet variety	Ananas, odmiana s³odka	NLEA serving	36957	porcja 
+09433	Clementines, raw	Klementynka	gram	36958	gram
+09433	Clementines, raw	Klementynka	fruit	36959	sztuka
+09500	Apples, raw, red delicious, with skin	Jab³ko, Red Delicious	gram	36960	gram
+09500	Apples, raw, red delicious, with skin	Jab³ko, Red Delicious	cup, sliced	36961	szklanka, pokrojone
+09500	Apples, raw, red delicious, with skin	Jab³ko, Red Delicious	large	36962	du¿e
+09500	Apples, raw, red delicious, with skin	Jab³ko, Red Delicious	medium	36963	œrednie
+09500	Apples, raw, red delicious, with skin	Jab³ko, Red Delicious	small	36964	ma³e
+09501	Apples, raw, golden delicious, with skin	Jab³ko, Golden Delicious	gram	36965	gram
+09501	Apples, raw, golden delicious, with skin	Jab³ko, Golden Delicious	cup, sliced	36966	szklanka, pokrojone
+09501	Apples, raw, golden delicious, with skin	Jab³ko, Golden Delicious	large	36967	du¿e
+09501	Apples, raw, golden delicious, with skin	Jab³ko, Golden Delicious	medium	36968	œrednie
+09501	Apples, raw, golden delicious, with skin	Jab³ko, Golden Delicious	small	36969	ma³e
+09502	Apples, raw, granny smith, with skin	Jab³ko, Granny Smith	gram	36970	gram
+09502	Apples, raw, granny smith, with skin	Jab³ko, Granny Smith	cup, sliced	36971	szklanka, pokrojone
+09502	Apples, raw, granny smith, with skin	Jab³ko, Granny Smith	large	36972	du¿e
+09502	Apples, raw, granny smith, with skin	Jab³ko, Granny Smith	medium	36973	œrednie
+09502	Apples, raw, granny smith, with skin	Jab³ko, Granny Smith	small	36974	ma³e
+09503	Apples, raw, gala, with skin	Jab³ko, Gala	gram	36975	gram
+09503	Apples, raw, gala, with skin	Jab³ko, Gala	cup, sliced	36976	szklanka, pokrojone
+09503	Apples, raw, gala, with skin	Jab³ko, Gala	large	36977	du¿e
+09503	Apples, raw, gala, with skin	Jab³ko, Gala	medium	36978	œrednie
+09503	Apples, raw, gala, with skin	Jab³ko, Gala	small	36979	ma³e
+09504	Apples, raw, fuji, with skin	Jab³ko, Fuji	gram	36980	gram
+09504	Apples, raw, fuji, with skin	Jab³ko, Fuji	cup, sliced	36981	szklanka, pokrojone
+09504	Apples, raw, fuji, with skin	Jab³ko, Fuji	large	36982	du¿e
+09504	Apples, raw, fuji, with skin	Jab³ko, Fuji	medium	36983	œrednie
+09504	Apples, raw, fuji, with skin	Jab³ko, Fuji	small	36984	ma³e
+09518	Raspberries, frozen, unsweetened	Maliny, mro¿one, nies³odzone	gram	36985	gram
+09518	Raspberries, frozen, unsweetened	Maliny, mro¿one, nies³odzone	cup, unthawed	36986	szklanka
+10004	Pork, fresh, backfat, raw	Wieprzowina, s³onina karkowa	gram	36990	gram
+10004	Pork, fresh, backfat, raw	Wieprzowina, s³onina karkowa	oz	36991	uncja (28 gram)
+10004	Pork, fresh, backfat, raw	Wieprzowina, s³onina karkowa	lb	36992	funt (450 gram)
+10005	Pork, fresh, belly, raw	Wieprzowina, brzuch	gram	36993	gram
+10005	Pork, fresh, belly, raw	Wieprzowina, brzuch	oz	36994	uncja (28 gram)
+10005	Pork, fresh, belly, raw	Wieprzowina, brzuch	lb	36995	funt (450 gram)
+10006	Pork, fresh, separable fat, raw	Wieprzowina, t³uszcz	gram	36996	gram
+10006	Pork, fresh, separable fat, raw	Wieprzowina, t³uszcz	oz	36997	uncja (28 gram)
+10006	Pork, fresh, separable fat, raw	Wieprzowina, t³uszcz	oz	36998	uncja (28 gram)
+10010	Pork, fresh, leg (ham), whole, separable lean only, raw	Wieprzowina, noga, ca³a	gram	36999	gram
+10010	Pork, fresh, leg (ham), whole, separable lean only, raw	Wieprzowina, noga, ca³a	oz	37000	uncja (28 gram)
+10010	Pork, fresh, leg (ham), whole, separable lean only, raw	Wieprzowina, noga, ca³a	lb	37001	funt (450 gram)
+10014	Pork, fresh, leg (ham), rump half, separable lean only, raw	Wieprzowina, noga, zad	gram	37002	gram
+10014	Pork, fresh, leg (ham), rump half, separable lean only, raw	Wieprzowina, noga, zad	oz	37003	uncja (28 gram)
+10014	Pork, fresh, leg (ham), rump half, separable lean only, raw	Wieprzowina, noga, zad	lb	37004	funt (450 gram)
+10014	Pork, fresh, leg (ham), rump half, separable lean only, raw	Wieprzowina, noga, zad	roast	37005	porcja 
+10018	Pork, fresh, leg (ham), shank half, separable lean only, raw	Wieprzowina, noga, cholewka	gram	37006	gram
+10018	Pork, fresh, leg (ham), shank half, separable lean only, raw	Wieprzowina, noga, cholewka	oz	37007	uncja (28 gram)
+10018	Pork, fresh, leg (ham), shank half, separable lean only, raw	Wieprzowina, noga, cholewka	lb	37008	funt (450 gram)
+10018	Pork, fresh, leg (ham), shank half, separable lean only, raw	Wieprzowina, noga, cholewka	roast	37009	porcja 
+10024	Pork, fresh, loin, whole, separable lean only, raw	Wieprzowina, polêdwica, ca³a	gram	37010	gram
+10024	Pork, fresh, loin, whole, separable lean only, raw	Wieprzowina, polêdwica, ca³a	oz	37011	uncja (28 gram)
+10024	Pork, fresh, loin, whole, separable lean only, raw	Wieprzowina, polêdwica, ca³a	chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)	37012	porcja 
+10032	Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ³opatka	gram	37013	gram
+10032	Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ³opatka	oz	37014	uncja (28 gram)
+10032	Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ³opatka	chop	37015	porcja 
+10040	Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw	Wieprzowina, polêdwica, z koœci¹	gram	37016	gram
+10040	Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw	Wieprzowina, polêdwica, z koœci¹	oz	37017	uncja (28 gram)
+10040	Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw	Wieprzowina, polêdwica, z koœci¹	chop without refuse (Yield from 1 raw chop, with refuse, weighing 259g)	37018	porcja 
+10048	Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ¿ebra, z koœci¹	gram	37019	gram
+10048	Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ¿ebra, z koœci¹	oz	37020	uncja (28 gram)
+10048	Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, ¿ebra, z koœci¹	chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)	37021	porcja 
+10056	Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, befsztyk, z koœci¹	gram	37022	gram
+10056	Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, befsztyk, z koœci¹	oz	37023	uncja (28 gram)
+10056	Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, befsztyk, z koœci¹	lb	37024	funt (450 gram)
+10056	Pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw	Wieprzowina, befsztyk, z koœci¹	roast without refuse (Yield from 1 raw roast, with refuse, weighing 1818g)	37025	porcja 
+10066	Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	gram	37030	gram
+10066	Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	oz	37031	uncja (28 gram)
+10066	Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	chop	37032	porcja 
+10066	Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	lb	37033	funt (450 gram)
+10072	Pork, fresh, shoulder, whole, separable lean only, raw	Wieprzowina, ³opatka, ca³a	gram	37034	gram
+10072	Pork, fresh, shoulder, whole, separable lean only, raw	Wieprzowina, ³opatka, ca³a	oz	37035	uncja (28 gram)
+10072	Pork, fresh, shoulder, whole, separable lean only, raw	Wieprzowina, ³opatka, ca³a	lb	37036	funt (450 gram)
+10077	Pork, fresh, shoulder, arm picnic, separable lean only, raw	Wieprzowina, ³opatka, pacha	gram	37037	gram
+10077	Pork, fresh, shoulder, arm picnic, separable lean only, raw	Wieprzowina, ³opatka, pacha	oz	37038	uncja (28 gram)
+10077	Pork, fresh, shoulder, arm picnic, separable lean only, raw	Wieprzowina, ³opatka, pacha	roast	37039	porcja 
+10084	Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw	Wieprzowina, karkówka	gram	37040	gram
+10084	Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw	Wieprzowina, karkówka	oz	37041	uncja (28 gram)
+10084	Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw	Wieprzowina, karkówka	steak without refuse (Yield from 1 raw steak, with refuse, weighing 379g)	37042	porcja 
+10094	Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw	Wieprzowina, polêdwica, bez koœci	gram	37045	gram
+10094	Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw	Wieprzowina, polêdwica, bez koœci	oz	37046	uncja (28 gram)
+10094	Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw	Wieprzowina, polêdwica, bez koœci	chop	37047	porcja 
+10096	Pork, fresh, variety meats and by-products, brain, raw	Wieprzowina, mózg	gram	37048	gram
+10096	Pork, fresh, variety meats and by-products, brain, raw	Wieprzowina, mózg	oz	37049	uncja (28 gram)
+10096	Pork, fresh, variety meats and by-products, brain, raw	Wieprzowina, mózg	oz	37050	uncja (28 gram)
+10098	Pork, fresh, variety meats and by-products, chitterlings, raw	Wieprzowina, flaki	gram	37051	gram
+10098	Pork, fresh, variety meats and by-products, chitterlings, raw	Wieprzowina, flaki	oz	37052	uncja (28 gram)
+10100	Pork, fresh, variety meats and by-products, ears, frozen, raw	Wieprzowina, ucho	gram	37053	gram
+10100	Pork, fresh, variety meats and by-products, ears, frozen, raw	Wieprzowina, ucho	oz	37054	uncja (28 gram)
+10100	Pork, fresh, variety meats and by-products, ears, frozen, raw	Wieprzowina, ucho	ear	37055	porcja 
+10102	Pork, fresh, variety meats and by-products, feet, raw	Wieprzowina, kopyto	gram	37056	gram
+10102	Pork, fresh, variety meats and by-products, feet, raw	Wieprzowina, noga	oz	37057	uncja (28 gram)
+10103	Pork, fresh, variety meats and by-products, heart, raw	Wieprzowina, serce	gram	37058	gram
+10103	Pork, fresh, variety meats and by-products, heart, raw	Wieprzowina, serce	oz	37059	uncja (28 gram)
+10103	Pork, fresh, variety meats and by-products, heart, raw	Wieprzowina, serce	heart	37060	porcja 
+10105	Pork, fresh, variety meats and by-products, jowl, raw	Wieprzowina, podgarle	gram	37061	gram
+10105	Pork, fresh, variety meats and by-products, jowl, raw	Wieprzowina, podgarle	oz	37062	uncja (28 gram)
+10105	Pork, fresh, variety meats and by-products, jowl, raw	Wieprzowina, podgarle	oz	37063	uncja (28 gram)
+10106	Pork, fresh, variety meats and by-products, kidneys, raw	Wieprzowina, nerki	gram	37064	gram
+10106	Pork, fresh, variety meats and by-products, kidneys, raw	Wieprzowina, nerki	oz	37065	uncja (28 gram)
+10106	Pork, fresh, variety meats and by-products, kidneys, raw	Wieprzowina, nerki	kidney	37066	porcja 
+10109	Pork, fresh, variety meats and by-products, leaf fat, raw	Wieprzowina, sad³o	gram	37067	gram
+10109	Pork, fresh, variety meats and by-products, leaf fat, raw	Wieprzowina, sad³o	oz	37068	uncja (28 gram)
+10109	Pork, fresh, variety meats and by-products, leaf fat, raw	Wieprzowina, sad³o	oz	37069	uncja (28 gram)
+10110	Pork, fresh, variety meats and by-products, liver, raw	Wieprzowina, w¹troba	gram	37070	gram
+10110	Pork, fresh, variety meats and by-products, liver, raw	Wieprzowina, w¹troba	oz	37071	uncja (28 gram)
+10110	Pork, fresh, variety meats and by-products, liver, raw	Wieprzowina, w¹troba	oz	37072	uncja (28 gram)
+10112	Pork, fresh, variety meats and by-products, lungs, raw	Wieprzowina, p³uca	gram	37073	gram
+10112	Pork, fresh, variety meats and by-products, lungs, raw	Wieprzowina, p³uca	oz	37074	uncja (28 gram)
+10112	Pork, fresh, variety meats and by-products, lungs, raw	Wieprzowina, p³uca	lb	37075	funt (450 gram)
+10114	Pork, fresh, variety meats and by-products, mechanically separated, raw	Wieprzowina, mechanicznie oddzielana	gram	37076	gram
+10114	Pork, fresh, variety meats and by-products, mechanically separated, raw	Wieprzowina, mechanicznie oddzielana	oz	37077	uncja (28 gram)
+10114	Pork, fresh, variety meats and by-products, mechanically separated, raw	Wieprzowina, mechanicznie oddzielana	lb	37078	funt (450 gram)
+10115	Pork, fresh, variety meats and by-products, pancreas, raw	Wieprzowina, trzustka	gram	37079	gram
+10115	Pork, fresh, variety meats and by-products, pancreas, raw	Wieprzowina, trzustka	oz	37080	uncja (28 gram)
+10115	Pork, fresh, variety meats and by-products, pancreas, raw	Wieprzowina, trzustka	oz	37081	uncja (28 gram)
+10117	Pork, fresh, variety meats and by-products, spleen, raw	Wieprzowina, œledziona	gram	37082	gram
+10117	Pork, fresh, variety meats and by-products, spleen, raw	Wieprzowina, œledziona	oz	37083	uncja (28 gram)
+10117	Pork, fresh, variety meats and by-products, spleen, raw	Wieprzowina, œledziona	oz	37084	uncja (28 gram)
+10119	Pork, fresh, variety meats and by-products, stomach, raw	Wieprzowina, œledziona	gram	37085	gram
+10119	Pork, fresh, variety meats and by-products, stomach, raw	Wieprzowina, ¿o³¹dek	oz	37086	uncja (28 gram)
+10119	Pork, fresh, variety meats and by-products, stomach, raw	Wieprzowina, ¿o³¹dek	oz	37087	uncja (28 gram)
+10121	Pork, fresh, variety meats and by-products, tongue, raw	Wieprzowina, jêzyk	gram	37088	gram
+10121	Pork, fresh, variety meats and by-products, tongue, raw	Wieprzowina, jêzyk	oz	37089	uncja (28 gram)
+10121	Pork, fresh, variety meats and by-products, tongue, raw	Wieprzowina, jêzyk	oz	37090	uncja (28 gram)
+10123	Pork, cured, bacon, unprepared	Wieprzowina, boczek	gram	37091	gram
+10123	Pork, cured, bacon, unprepared	Wieprzowina, boczek	slice raw	37092	plaster
+10123	Pork, cured, bacon, unprepared	Wieprzowina, boczek	package	37093	paczka
+10192	Pork, fresh, backribs, separable lean and fat, raw	Wieprzowina, ¿ebra, ¿eberka	gram	37098	gram
+10192	Pork, fresh, backribs, separable lean and fat, raw	Wieprzowina, ¿ebra, ¿eberka	oz	37099	uncja (28 gram)
+10199	Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw	Wieprzowina, ¿ebra, bez koœci	gram	37100	gram
+10199	Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw	Wieprzowina, ¿ebra, bez koœci	oz	37101	uncja (28 gram)
+10199	Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw	Wieprzowina, ¿ebra, bez koœci	chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 113 g)	37102	porcja 
+10214	Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw	Wieprzowina, befsztyk, bez koœci	gram	37106	gram
+10214	Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw	Wieprzowina, befsztyk, bez koœci	oz	37107	uncja (28 gram)
+10214	Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw	Wieprzowina, befsztyk, bez koœci	chop	37108	porcja 
+10219	Pork, fresh, ground, raw	Wieprzowina, mielona	gram	37109	gram
+10219	Pork, fresh, ground, raw	Wieprzowina, mielona	oz	37110	uncja (28 gram)
+10219	Pork, fresh, ground, raw	Wieprzowina, mielona	oz	37111	uncja (28 gram)
+10225	Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	gram	37112	gram
+10225	Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	oz	37113	uncja (28 gram)
+10225	Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw	Wieprzowina, grzbiet, bez koœci	roast	37114	porcja 
+10894	Pork, cured, ham, separable fat, boneless, heated	Wieprzowina, szynka, bez koœci, konserwowa	gram	37118	gram
+10894	Pork, cured, ham, separable fat, boneless, heated	Wieprzowina, szynka, bez koœci, konserwowa	oz	37119	uncja (28 gram)
+10895	Pork, cured, ham, separable fat, boneless, unheated	Wieprzowina, szynka	gram	37120	gram
+10895	Pork, cured, ham, separable fat, boneless, unheated	Wieprzowina, szynka	oz	37121	uncja (28 gram)
+10898	Pork, pickled pork hocks	Wieprzowina, golonka	gram	37122	gram
+10898	Pork, pickled pork hocks	Wieprzowina, golonka	oz	37123	uncja (28 gram)
+10972	Pork, ground, 84% lean / 16% fat, raw	Wieprzowina, mielona, 84% miêsa chudego, 16% miêsa t³ustego	gram	37124	gram
+10972	Pork, ground, 84% lean / 16% fat, raw	Wieprzowina, mielona, 84% miêsa chudego, 16% miêsa t³ustego	oz	37125	uncja (28 gram)
+10973	Pork, ground, 96% lean / 4% fat, raw	Wieprzowina, mielona, 96% miêsa chudego, 4% miêsa t³ustego	gram	37126	gram
+10973	Pork, ground, 96% lean / 4% fat, raw	Wieprzowina, mielona, 96% miêsa chudego, 4% miêsa t³ustego	oz	37127	uncja (28 gram)
+10994	Bacon, pre-sliced, reduced/low sodium, unprepared	S³onina	gram	37128	gram
+10994	Bacon, pre-sliced, reduced/low sodium, unprepared	S³onina	slice	37129	plaster
+10994	Bacon, pre-sliced, reduced/low sodium, unprepared	S³onina	package	37130	porcja 
+11011	Asparagus, raw	Szparagi	gram	37131	gram
+11011	Asparagus, raw	Szparagi	cup	37132	szklanka
+11011	Asparagus, raw	Szparagi	"spear, small (5"" long or less)"	37133	ma³e
+11011	Asparagus, raw	Szparagi	"spear, medium (5-1/4"" to 7"" long)"	37134	œrednie
+11011	Asparagus, raw	Szparagi	"spear, large (7-1/4"" to 8-1/2"")"	37135	du¿e
+11011	Asparagus, raw	Szparagi	"spear, extra large (8-3/4"" to 10"" long)"	37136	wielkie
+11011	Asparagus, raw	Szparagi	"spear tip (2"" long or less)"	37137	g³ówka
+11031	Lima beans, immature seeds, raw	Fasola limeñska, niedojrza³e nasiona	gram	37138	gram
+11031	Lima beans, immature seeds, raw	Fasola limeñska, niedojrza³e nasiona	cup	37139	szklanka
+11052	Beans, snap, green, raw	Fasola szparagowa, zielona	gram	37140	gram
+11052	Beans, snap, green, raw	Fasola szparagowa, zielona	"cup 1/2"" pieces"	37141	szklanka
+11052	Beans, snap, green, raw	Fasola szparagowa, zielona	"beans (4"" long)"	37142	sztuka
+11080	Beets, raw	Burak	gram	37143	gram
+11080	Beets, raw	Burak	cup	37144	szklanka
+11080	Beets, raw	Burak	"beet (2"" dia)"	37145	sztuka
+11086	Beet greens, raw	Burak æwik³owy	gram	37146	gram
+11086	Beet greens, raw	Burak æwik³owy	cup	37147	szklanka
+11086	Beet greens, raw	Burak æwik³owy	leaf	37148	liœæ
+11086	Beet greens, raw	Burak æwik³owy	"cup (1"" pieces)"	37149	2 szklanki
+11090	Broccoli, raw	Broku³	gram	37150	gram
+11090	Broccoli, raw	Broku³	cup chopped	37151	szklanka, posiekany
+11090	Broccoli, raw	Broku³	bunch	37152	kiœæ
+11090	Broccoli, raw	Broku³	"spear (about 5"" long)"	37153	
+11090	Broccoli, raw	Broku³	stalk	37154	³odyga
+11090	Broccoli, raw	Broku³	cup, chopped or diced	37155	szklanka, kostki
+11090	Broccoli, raw	Broku³	NLEA serving	37156	porcja 
+11096	Broccoli raab, raw	Rzepa naciowa	gram	37157	gram
+11096	Broccoli raab, raw	Rzepa naciowa	cup chopped	37158	szklanka, posiekana
+11096	Broccoli raab, raw	Rzepa naciowa	stalk	37159	sztuka
+11098	Brussels sprouts, raw	Brukselka	gram	37160	gram
+11098	Brussels sprouts, raw	Brukselka	cup	37161	szklanka
+11098	Brussels sprouts, raw	Brukselka	sprout	37162	sztuka
+11104	Burdock root, raw	Korzeñ ³opianu	gram	37163	gram
+11104	Burdock root, raw	Korzeñ ³opianu	"cup (1"" pieces)"	37164	szklanka
+11104	Burdock root, raw	Korzeñ ³opianu	root	37165	sztuka
+11109	Cabbage, raw	Kapusta	gram	37166	gram
+11109	Cabbage, raw	Kapusta	cup, chopped	37167	szklanka, posiekana
+11109	Cabbage, raw	Kapusta	cup, shredded	37168	szklanka, pokrojona
+11109	Cabbage, raw	Kapusta	"head, large (about 7"" dia)"	37169	g³owa, du¿a
+11109	Cabbage, raw	Kapusta	leaf, large	37170	liœæ, du¿y
+11109	Cabbage, raw	Kapusta	"head, medium (about 5-3/4"" dia)"	37171	g³owa, œrednia
+11109	Cabbage, raw	Kapusta	leaf, medium	37172	liœæ, œredni
+11109	Cabbage, raw	Kapusta	"head, small (about 4-1/2"" dia)"	37173	g³owa, ma³a
+11109	Cabbage, raw	Kapusta	leaf	37174	liœæ, ma³y
+11112	Cabbage, red, raw	Kapusta czerwona	gram	37175	gram
+11112	Cabbage, red, raw	Kapusta czerwona	cup, chopped	37176	szklanka, posiekana
+11112	Cabbage, red, raw	Kapusta czerwona	cup, shredded	37177	szklanka, pokrojona
+11112	Cabbage, red, raw	Kapusta czerwona	"head, large (about 5-1/2"" dia)"	37178	g³ówka, du¿a
+11112	Cabbage, red, raw	Kapusta czerwona	leaf	37179	liœæ
+11112	Cabbage, red, raw	Kapusta czerwona	"head, medium (about 5"" dia)"	37180	g³ówka, œrednia
+11112	Cabbage, red, raw	Kapusta czerwona	"head, small (4"" dia)"	37181	g³ówka, ma³a
+11114	Cabbage, savoy, raw	Kapusta warzywna, w³oska	gram	37182	gram
+11114	Cabbage, savoy, raw	Kapusta warzywna, w³oska	cup, shredded	37183	szklanka, posiekana
+11116	Cabbage, chinese (pak-choi), raw	Kapusta pekiñska	gram	37184	gram
+11116	Cabbage, chinese (pak-choi), raw	Kapusta pekiñska	cup, shredded	37185	szklanka, posiekana
+11116	Cabbage, chinese (pak-choi), raw	Kapusta pekiñska	head	37186	g³owa
+11116	Cabbage, chinese (pak-choi), raw	Kapusta pekiñska	leaf	37187	liœæ
+11118	Cabbage, kimchi	Kapusta, kiszona	gram	37188	gram
+11118	Cabbage, kimchi	Kapusta, kiszona	cup	37189	szklanka
+11119	Cabbage, chinese (pe-tsai), raw	Kapusta pekiñska	gram	37190	gram
+11119	Cabbage, chinese (pe-tsai), raw	Kapusta pekiñska	cup, shredded	37191	szklanka, posiekana
+11122	Cardoon, raw	Karczoch	gram	37192	gram
+11122	Cardoon, raw	Karczoch	cup, shredded	37193	szklanka, posiekany
+11124	Carrots, raw	Marchewka	gram	37194	gram
+11124	Carrots, raw	Marchewka	cup chopped	37195	szklanka, posiekana
+11124	Carrots, raw	Marchewka	cup grated	37196	szklanka, tarta
+11124	Carrots, raw	Marchewka	cup strips or slices	37197	szklanka, plastry
+11124	Carrots, raw	Marchewka	"large (7-1/4"" to 8-/1/2"" long)"	37198	du¿a
+11124	Carrots, raw	Marchewka	medium	37199	œrednia
+11124	Carrots, raw	Marchewka	"small (5-1/2"" long)"	37200	ma³a
+11124	Carrots, raw	Marchewka	slice	37201	plaster
+11124	Carrots, raw	Marchewka	"strip large (3"" long)"	37202	plaster, du¿y
+11124	Carrots, raw	Marchewka	strip medium	37203	plaster, œredni
+11134	Cassava, raw	Maniok jadalny	gram	37204	gram
+11134	Cassava, raw	Maniok jadalny	cup	37205	szklanka
+11134	Cassava, raw	Maniok jadalny	root	37206	sztuka
+11135	Cauliflower, raw	Kalafior	gram	37207	gram
+11135	Cauliflower, raw	Kalafior	"cup chopped (1/2"" pieces)"	37208	szklanka, posiekany
+11135	Cauliflower, raw	Kalafior	floweret	37209	ró¿yczka
+11135	Cauliflower, raw	Kalafior	"head large (6-7"" dia.)"	37210	du¿y
+11135	Cauliflower, raw	Kalafior	"head medium (5-6"" dia.)"	37211	œredni
+11135	Cauliflower, raw	Kalafior	"head small (4"" dia.)"	37212	ma³y
+11141	Celeriac, raw	Seler korzeniowy	gram	37213	gram
+11141	Celeriac, raw	Seler korzeniowy	cup	37214	szklanka
+11143	Celery, raw	Seler naciowy	gram	37215	gram
+11143	Celery, raw	Seler naciowy	cup chopped	37216	szklanka, posiekany
+11143	Celery, raw	Seler naciowy	NLEA serving	37217	porcja 
+11143	Celery, raw	Seler naciowy	tbsp	37218	³y¿ka
+11143	Celery, raw	Seler naciowy	"stalk, large (11""-12"" long)"	37219	³odyga, du¿a
+11143	Celery, raw	Seler naciowy	"stalk, medium (7-1/2"" - 8"" long)"	37220	³odyga, œrednia
+11143	Celery, raw	Seler naciowy	"stalk, small (5"" long)"	37221	³odyga, ma³a
+11143	Celery, raw	Seler naciowy	"strip (4"" long)"	37222	pasek
+11147	Chard, swiss, raw	Burak liœciowy	gram	37223	gram
+11147	Chard, swiss, raw	Burak liœciowy	cup	37224	szklanka
+11147	Chard, swiss, raw	Burak liœciowy	leaf	37225	liœæ
+11151	Chicory, witloof, raw	Cykoria liœciowa	gram	37226	gram
+11151	Chicory, witloof, raw	Cykoria liœciowa	head	37227	sztuka
+11151	Chicory, witloof, raw	Cykoria liœciowa	cup	37228	szklanka
+11152	Chicory greens, raw	Cykoria, liœcie	gram	37229	gram
+11152	Chicory greens, raw	Cykoria, liœcie	cup, chopped	37230	szklanka, posiekana
+11154	Chicory roots, raw	Cykoria korzeniowa	gram	37231	gram
+11154	Chicory roots, raw	Cykoria korzeniowa	root	37232	sztuka
+11154	Chicory roots, raw	Cykoria korzeniowa	"cup (1"" pieces)"	37233	szklanka
+11156	Chives, raw	Szczypiorek	gram	37234	gram
+11156	Chives, raw	Szczypiorek	tbsp chopped	37235	³y¿ka, posiekany
+11156	Chives, raw	Szczypiorek	tsp chopped	37236	³yêczka, posiekany
+11161	Collards, raw	Jarmu¿	gram	37237	gram
+11161	Collards, raw	Jarmu¿	cup, chopped	37238	szklanka, posiekany
+11165	Coriander (cilantro) leaves, raw	Kolendra	gram	37239	gram
+11165	Coriander (cilantro) leaves, raw	Kolendra	cup	37240	szklanka
+11165	Coriander (cilantro) leaves, raw	Kolendra	sprigs	37241	ga³¹zka
+11167	Corn, sweet, yellow, raw	Kukurydza, s³odka	gram	37242	gram
+11167	Corn, sweet, yellow, raw	Kukurydza, s³odka	cup	37243	szklanka
+11167	Corn, sweet, yellow, raw	Kukurydza, s³odka	"ear, large (7-3/4"" to 9"" long) yields"	37244	du¿a
+11167	Corn, sweet, yellow, raw	Kukurydza, s³odka	"ear, medium (6-3/4"" to 7-1/2"" long) yields"	37245	œrednia
+11167	Corn, sweet, yellow, raw	Kukurydza, s³odka	"ear, small (5-1/2"" to 6-1/2"" long)"	37246	ma³a
+11190	Cornsalad, raw	Roszponka	gram	37247	gram
+11190	Cornsalad, raw	Roszponka	cup	37248	szklanka
+11199	Yardlong bean, raw	Wspiêga chiñska	gram	37249	gram
+11199	Yardlong bean, raw	Wspiêga chiñska	cup slices	37250	szklanka, plastry
+11199	Yardlong bean, raw	Wspiêga chiñska	pod	37251	sztuka
+11203	Cress, garden, raw	Rze¿ucha	gram	37252	gram
+11203	Cress, garden, raw	Rze¿ucha	cup	37253	szklanka
+11203	Cress, garden, raw	Rze¿ucha	sprig	37254	ga³¹zka
+11205	Cucumber, with peel, raw	Ogórek zielony	gram	37255	gram
+11205	Cucumber, with peel, raw	Ogórek zielony	cup slices	37256	szklanka, pokrojony
+11205	Cucumber, with peel, raw	Ogórek zielony	"cucumber (8-1/4"")"	37257	sztuka
+11207	Dandelion greens, raw	Mniszek	gram	37258	gram
+11207	Dandelion greens, raw	Mniszek	cup, chopped	37259	szklanka, posiekany
+11209	Eggplant, raw	Bak³a¿an	gram	37260	gram
+11209	Eggplant, raw	Bak³a¿an	cup, cubes	37261	szklanka, kostki
+11209	Eggplant, raw	Bak³a¿an	eggplant, peeled (yield from 1-1/4 lb)	37262	sztuka, obrany
+11209	Eggplant, raw	Bak³a¿an	eggplant, unpeeled (approx 1-1/4 lb)	37263	sztuka, nieobrany
+11211	Edamame, frozen, unprepared	Soja, zielona, m³oda	gram	37264	gram
+11211	Edamame, frozen, unprepared	Soja, zielona, m³oda	cup	37265	szklanka
+11211	Edamame, frozen, unprepared	Soja, zielona, m³oda	package	37266	paczka
+11213	Endive, raw	Cykoria sa³atowa	gram	37267	gram
+11213	Endive, raw	Cykoria sa³atowa	cup, chopped	37268	szklanka, posiekana
+11213	Endive, raw	Cykoria sa³atowa	head	37269	sztuka
+11215	Garlic, raw	Czosnek	gram	37270	gram
+11215	Garlic, raw	Czosnek	cup	37271	szklanka
+11215	Garlic, raw	Czosnek	tsp	37272	³y¿eczka
+11215	Garlic, raw	Czosnek	clove	37273	z¹bek
+11215	Garlic, raw	Czosnek	cloves	37274	z¹bki
+11216	Ginger root, raw	Korzeñ imbiru	gram	37275	gram
+11216	Ginger root, raw	Korzeñ imbiru	tsp	37276	³y¿eczka
+11216	Ginger root, raw	Korzeñ imbiru	"cup slices (1"" dia)"	37277	szklanka
+11216	Ginger root, raw	Korzeñ imbiru	"slices (1"" dia)"	37278	plaster
+11218	Gourd, white-flowered (calabash), raw	Tykwa pospolita	gram	37279	gram
+11218	Gourd, white-flowered (calabash), raw	Tykwa pospolita	"cup (1"" pieces)"	37280	szklanka
+11218	Gourd, white-flowered (calabash), raw	Tykwa pospolita	gourd	37281	sztuka
+11220	Gourd, dishcloth (towelgourd), raw	Trukwa	gram	37282	gram
+11220	Gourd, dishcloth (towelgourd), raw	Trukwa	"cup (1"" pieces)"	37283	szklanka
+11220	Gourd, dishcloth (towelgourd), raw	Trukwa	gourd	37284	sztuka
+11226	Jerusalem-artichokes, raw	S³onecznik bulwiasty	gram	37285	gram
+11226	Jerusalem-artichokes, raw	S³onecznik bulwiasty	cup slices	37286	szklanka
+11233	Kale, raw	Jarmu¿	gram	37287	gram
+11233	Kale, raw	Jarmu¿	"cup 1"" pieces, loosely packed"	37288	szklanka
+11238	Mushrooms, shiitake, raw	Grzyb Shiitake	gram	37289	gram
+11238	Mushrooms, shiitake, raw	Grzyb Shiitake	piece whole	37290	sztuka
+11239	Mushrooms, Chanterelle, raw	Kurki	gram	37291	gram
+11239	Mushrooms, Chanterelle, raw	Kurki	cup	37292	szklanka
+11239	Mushrooms, Chanterelle, raw	Kurki	piece	37293	sztuka
+11240	Mushrooms, morel, raw	Smardz	gram	37294	gram
+11240	Mushrooms, morel, raw	Smardz	cup	37295	szklanka
+11240	Mushrooms, morel, raw	Smardz	piece	37296	kawa³ek
+11241	Kohlrabi, raw	Kalarepa	gram	37297	gram
+11241	Kohlrabi, raw	Kalarepa	cup	37298	szklanka
+11241	Kohlrabi, raw	Kalarepa	slice	37299	plaster
+11244	Lambsquarters, raw	Komosa bia³a	gram	37300	gram
+11246	Leeks, (bulb and lower leaf-portion), raw	Por	gram	37301	gram
+11246	Leeks, (bulb and lower leaf-portion), raw	Por	cup	37302	szklanka
+11246	Leeks, (bulb and lower leaf-portion), raw	Por	leek	37303	sztuka
+11246	Leeks, (bulb and lower leaf-portion), raw	Por	slice	37304	plaster
+11248	Lentils, sprouted, raw	Soczewica, pêdy	gram	37305	gram
+11248	Lentils, sprouted, raw	Soczewica, pêdy	cup	37306	szklanka
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	gram	37307	gram
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	cup, shredded or chopped	37308	szklanka, posiekana
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	"head (5"" dia)"	37309	g³owa
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	leaf, large	37310	liœæ, du¿y
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	leaf, medium	37311	liœæ, œredni
+11250	Lettuce, butterhead (includes boston and bibb types), raw	Sa³ata mas³owa	leaf	37312	liœæ
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	gram	37313	gram
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	cup shredded	37314	szklanka, posiekana
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	leaf inner	37315	liœæ, wewnêtrzny
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	leaf outer	37316	liœæ, zewnêtrzny
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	head	37317	g³owa
+11251	Lettuce, cos or romaine, raw	Sa³ata rzymska	NLEA serving	37318	porcja 
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	gram	37319	gram
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	cup shredded	37320	szklanka, poszatkowana
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	"cup, chopped (1/2"" pieces, loosely packed)"	37321	szklanka, posiekana
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	head, large	37322	g³owa, du¿a
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	"head, medium (6"" dia)"	37323	g³owa, œrednia
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	head, small	37324	g³owa, ma³a
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	leaf, large	37325	liœæ, du¿y
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	leaf, medium	37326	liœæ, œredni
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	leaf, small	37327	liœæ, ma³y
+11252	Lettuce, iceberg (includes crisphead types), raw	Sa³ata lodowa	NLEA Serving	37328	porcja 
+11253	Lettuce, green leaf, raw	Sa³ata zielona, karbowana	gram	37329	gram
+11253	Lettuce, green leaf, raw	Sa³ata zielona, karbowana	cup shredded	37330	szklanka, posiekana
+11253	Lettuce, green leaf, raw	Sa³ata zielona, karbowana	head	37331	g³owa
+11253	Lettuce, green leaf, raw	Sa³ata zielona, karbowana	leaf inner	37332	liœæ, wewnêtrzny
+11253	Lettuce, green leaf, raw	Sa³ata zielona, karbowana	leaf outer	37333	liœæ, zewnêtrzny
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	gram	37334	gram
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	cup shredded	37335	szklanka, posiekana
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	leaf inner	37336	liœæ, wewnêtrzny
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	leaf outer	37337	liœæ, zewnêtrzny
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	head	37338	g³owa
+11257	Lettuce, red leaf, raw	Sa³ata czerwona, karbowana	NLEA serving	37339	porcja 
+11260	Mushrooms, white, raw	Pieczarka, jasna	gram	37340	gram
+11260	Mushrooms, white, raw	Pieczarka, jasna	cup, pieces or slices	37341	szklanka, plastry
+11260	Mushrooms, white, raw	Pieczarka, jasna	cup, whole	37342	szklanka
+11260	Mushrooms, white, raw	Pieczarka, jasna	large	37343	du¿a
+11260	Mushrooms, white, raw	Pieczarka, jasna	medium	37344	œrednia
+11260	Mushrooms, white, raw	Pieczarka, jasna	slice	37345	plaster
+11260	Mushrooms, white, raw	Pieczarka, jasna	small	37346	ma³a
+11260	Mushrooms, white, raw	Pieczarka, jasna	cup pieces	37347	szklanka, kawa³ki
+11265	Mushrooms, portabella, raw	Pieczarka, ciemna (portabella)	gram	37348	gram
+11265	Mushrooms, portabella, raw	Pieczarka, ciemna (portabella)	cup diced	37349	szklanka, kostki
+11265	Mushrooms, portabella, raw	Pieczarka, ciemna (portabella)	piece whole	37350	kawa³ek
+11266	Mushrooms, brown, italian, or crimini, raw	Pieczarka, br¹zowa	gram	37351	gram
+11266	Mushrooms, brown, italian, or crimini, raw	Pieczarka, br¹zowa	cup whole	37352	szklanka
+11266	Mushrooms, brown, italian, or crimini, raw	Pieczarka, br¹zowa	cup sliced	37353	szklanka, pokrojona
+11266	Mushrooms, brown, italian, or crimini, raw	Pieczarka, br¹zowa	piece whole	37354	kawa³ek
+11270	Mustard greens, raw	Gorczyca, liœæ	gram	37355	gram
+11270	Mustard greens, raw	Gorczyca, liœæ	cup, chopped	37356	szklanka, posiekana
+11274	Mustard spinach, (tendergreen), raw	Komatsuna	gram	37357	gram
+11274	Mustard spinach, (tendergreen), raw	Komatsuna	cup, chopped	37358	szklanka, posiekana
+11282	Onions, raw	Cebula	gram	37359	gram
+11282	Onions, raw	Cebula	cup, chopped	37360	szklanka, posiekana
+11282	Onions, raw	Cebula	cup, sliced	37361	szklanka, pokrojona
+11282	Onions, raw	Cebula	tbsp chopped	37362	³y¿eczka, posiekana
+11282	Onions, raw	Cebula	large	37363	du¿a
+11282	Onions, raw	Cebula	"slice, large (1/4"" thick)"	37364	plaster, gruby
+11282	Onions, raw	Cebula	"medium (2-1/2"" dia)"	37365	œrednia
+11282	Onions, raw	Cebula	"slice, medium (1/8"" thick)"	37366	plaster, œredni
+11282	Onions, raw	Cebula	small	37367	ma³a
+11282	Onions, raw	Cebula	slice, thin	37368	plaster, cienki
+11282	Onions, raw	Cebula	rings	37369	kr¹¿ki
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	gram	37370	gram
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	cup, chopped	37371	szklanka, posiekana
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	tbsp chopped	37372	³y¿ka, posiekana
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	large	37373	du¿a
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	"medium (4-1/8"" long)"	37374	œrednia
+11291	Onions, spring or scallions (includes tops and bulb), raw	Dymka	"small (3"" long)"	37375	ma³a
+11293	Onions, welsh, raw	Czosnek dêty	gram	37376	gram
+11294	Onions, sweet, raw	Cebula s³odka	gram	37377	gram
+11294	Onions, sweet, raw	Cebula s³odka	NLEA serving	37378	porcja 
+11294	Onions, sweet, raw	Cebula s³odka	onion	37379	sztuka
+11297	Parsley, fresh	Pietruszka, œwie¿a	gram	37380	gram
+11297	Parsley, fresh	Pietruszka, œwie¿a	cup chopped	37381	szklanka, posiekany
+11297	Parsley, fresh	Pietruszka, œwie¿a	tbsp	37382	³y¿ka
+11297	Parsley, fresh	Pietruszka, œwie¿a	sprigs	37383	ga³¹zka
+11298	Parsnips, raw	Pasternak	gram	37384	gram
+11298	Parsnips, raw	Pasternak	cup slices	37385	szklanka, plastry
+11300	Peas, edible-podded, raw	Groszek	gram	37386	gram
+11300	Peas, edible-podded, raw	Groszek	cup, chopped	37387	szklanka, posiekany
+11300	Peas, edible-podded, raw	Groszek	cup, whole	37388	szklanka, ca³y
+11300	Peas, edible-podded, raw	Groszek	pea pods	37389	sztuka
+11304	Peas, green, raw	Groch zwyczajny	gram	37390	gram
+11304	Peas, green, raw	Groch zwyczajny	cup	37391	szklanka
+11316	Peas, mature seeds, sprouted, raw	Groch, nasiona	gram	37392	gram
+11316	Peas, mature seeds, sprouted, raw	Groch, nasiona	cup	37393	szklanka
+11333	Peppers, sweet, green, raw	Papryka zielona	gram	37397	gram
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	cup, chopped	37398	szklanka, posiekana
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	cup, sliced	37399	szklanka, plastry
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	tbsp	37400	³y¿ka
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	"large (2-1/4 per lb, approx 3-3/4"" long, 3"" dia)"	37401	du¿a
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	"medium (approx 2-3/4"" long, 2-1/2"" dia)"	37402	œrednia
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	"ring (3"" dia, 1/4"" thick)"	37403	kr¹¿ek
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	small	37404	ma³a
+11333	Peppers, sweet, green, raw	Papryka zielona, s³odka	strips	37405	pasek
+11352	Potatoes, flesh and skin, raw	Ziemniak ze skór¹	gram	37406	gram
+11352	Potatoes, flesh and skin, raw	Ziemniak ze skór¹	cup, diced	37407	szklanka, pokrojony w kostkê
+11352	Potatoes, flesh and skin, raw	Ziemniak ze skór¹	"Potato large (3"" to 4-1/4"" dia)"	37408	du¿y
+11352	Potatoes, flesh and skin, raw	Ziemniak ze skór¹	"Potato medium (2-1/4"" to 3-1/4"" dia)"	37409	œredni
+11352	Potatoes, flesh and skin, raw	Ziemniak ze skór¹	"Potato small (1-3/4"" to 2-1/2"" dia)"	37410	ma³y
+11353	Potatoes, russet, flesh and skin, raw	Ziemniak, stary	gram	37411	gram
+11353	Potatoes, russet, flesh and skin, raw	Ziemniak, stary	cup, diced	37412	szklanka, pokrojony w kostkê
+11353	Potatoes, russet, flesh and skin, raw	Ziemniak, stary	"potato large (3"" to 4-1/4"" dia)"	37413	du¿y
+11353	Potatoes, russet, flesh and skin, raw	Ziemniak, stary	"Potato medium (2-1/4"" to 3-1/4"" dia)"	37414	œredni
+11353	Potatoes, russet, flesh and skin, raw	Ziemniak, stary	"Potato small (1-3/4"" to 2-1/4"" dia)"	37415	ma³y
+11354	Potatoes, white, flesh and skin, raw	Ziemniak, bia³y	gram	37416	gram
+11354	Potatoes, white, flesh and skin, raw	Ziemniak, bia³y	cup, diced	37417	szklanka, pokrojony w kostkê
+11354	Potatoes, white, flesh and skin, raw	Ziemniak, bia³y	"large (3"" to 4-1/4"" dia.)"	37418	du¿y
+11354	Potatoes, white, flesh and skin, raw	Ziemniak, bia³y	"medium (2+-1/4"" to 3-1/4"" dia.)"	37419	œredni
+11354	Potatoes, white, flesh and skin, raw	Ziemniak, bia³y	"small (1-3/4"" to 2-1/4"" dia.)"	37420	ma³y
+11355	Potatoes, red, flesh and skin, raw	Ziemniak, czerwony	gram	37421	gram
+11355	Potatoes, red, flesh and skin, raw	Ziemniak, czerwony	cup, diced	37422	szklanka, pokrojony w kostkê
+11355	Potatoes, red, flesh and skin, raw	Ziemniak, czerwony	"potato large (3"" to 4-1/4"" dia)"	37423	du¿y
+11355	Potatoes, red, flesh and skin, raw	Ziemniak, czerwony	"potato medium (2-1/4"" to 3-1/4"" dia)"	37424	œredni
+11355	Potatoes, red, flesh and skin, raw	Ziemniak, czerwony	"potato small (1-3/4"" to 2-1/4"" dia)"	37425	ma³y
+11362	Potatoes, raw, skin	Ziemniak	gram	37426	gram
+11362	Potatoes, raw, skin	Ziemniak	skin	37427	skóra
+11416	Pumpkin flowers, raw	Dynia, kwiaty	gram	37428	gram
+11416	Pumpkin flowers, raw	Dynia, kwiaty	cup	37429	szklanka
+11416	Pumpkin flowers, raw	Dynia, kwiaty	flower	37430	sztuka
+11418	Pumpkin leaves, raw	Dynia, liœcie	gram	37431	gram
+11418	Pumpkin leaves, raw	Dynia, liœcie	cup	37432	szklanka
+11422	Pumpkin, raw	Dynia	gram	37433	gram
+11422	Pumpkin, raw	Dynia	"cup (1"" cubes)"	37434	szklanka
+11429	Radishes, raw	Rzodkiew	gram	37435	gram
+11429	Radishes, raw	Rzodkiew	cup slices	37436	szklanka, plastry
+11429	Radishes, raw	Rzodkiew	"large (1"" to 1-1/4"" dia)"	37437	du¿a
+11429	Radishes, raw	Rzodkiew	"medium (3/4"" to 1"" dia)"	37438	œrednia
+11429	Radishes, raw	Rzodkiew	slice	37439	plaster
+11429	Radishes, raw	Rzodkiew	small	37440	ma³a
+11429	Radishes, raw	Rzodkiew	cup slices	37441	szklanka, plastry
+11430	Radishes, oriental, raw	Rzodkiew japoñska	gram	37442	gram
+11430	Radishes, oriental, raw	Rzodkiew japoñska	cup slices	37443	szklanka, plastry
+11430	Radishes, oriental, raw	Rzodkiew japoñska	"radish (7"" long)"	37444	sztuka
+11435	Rutabagas, raw	Brukiew	gram	37445	gram
+11435	Rutabagas, raw	Brukiew	cup, cubes	37446	szklanka, kostki
+11435	Rutabagas, raw	Brukiew	large	37447	du¿a
+11435	Rutabagas, raw	Brukiew	medium	37448	œrednia
+11435	Rutabagas, raw	Brukiew	small	37449	ma³a
+11442	Seaweed, agar, raw	Agar	gram	37450	gram
+11442	Seaweed, agar, raw	Agar	tbsp (1/8 cup)	37451	³y¿ka
+11444	Seaweed, irishmoss, raw	Mech Irlandzki	gram	37452	gram
+11444	Seaweed, irishmoss, raw	Mech Irlandzki	tbsp (1/8 cup)	37453	³y¿ka
+11445	Seaweed, kelp, raw	Krasnorosty morskie	gram	37454	gram
+11445	Seaweed, kelp, raw	Krasnorosty morskie	tbsp (1/8 cup)	37455	³y¿eczka
+11446	Seaweed, laver, raw	Szkar³atnica pêpkowa	gram	37456	gram
+11446	Seaweed, laver, raw	Szkar³atnica pêpkowa	sheets	37457	garœæ
+11446	Seaweed, laver, raw	Szkar³atnica pêpkowa	tbsp (1/8 cup)	37458	³y¿ka
+11450	Soybeans, green, raw	Soja, zielona	gram	37459	gram
+11450	Soybeans, green, raw	Soja, zielona	cup	37460	szklanka
+11452	Soybeans, mature seeds, sprouted, raw	Soja, dojrza³a	gram	37461	gram
+11452	Soybeans, mature seeds, sprouted, raw	Soja, dojrza³a	cup	37462	szklanka
+11452	Soybeans, mature seeds, sprouted, raw	Soja, dojrza³a	sprouts	37463	szklanka
+11457	Spinach, raw	Szpinak	gram	37464	gram
+11457	Spinach, raw	Szpinak	cup	37465	szklanka
+11457	Spinach, raw	Szpinak	bunch	37466	garœæ
+11457	Spinach, raw	Szpinak	leaf	37467	liœæ
+11457	Spinach, raw	Szpinak	package (10 oz)	37468	paczka (280 gram)
+11467	Squash, summer, crookneck and straightneck, raw	Dynia Crookneck	gram	37469	gram
+11467	Squash, summer, crookneck and straightneck, raw	Dynia Crookneck	cup sliced	37470	szklanka, pokrojona
+11475	Squash, summer, scallop, raw	Patison	gram	37471	gram
+11475	Squash, summer, scallop, raw	Patison	cup slices	37472	szklanka, plastry
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	gram	37473	gram
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	cup, chopped	37474	szklanka, posiekana
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	cup, sliced	37475	szklanka, pokrojona
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	large	37476	du¿a
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	medium	37477	œrednia
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	slice	37478	plaster
+11477	Squash, summer, zucchini, includes skin, raw	Cukinia	small	37479	ma³a
+11482	Squash, winter, acorn, raw	Dynia szparagowa	gram	37480	gram
+11482	Squash, winter, acorn, raw	Dynia szparagowa	cup, cubes	37481	szklanka, kostki
+11482	Squash, winter, acorn, raw	Dynia szparagowa	squash (4 inch dia)	37482	sztuka
+11485	Squash, winter, butternut, raw	Dynia pi¿mowa	gram	37483	gram
+11485	Squash, winter, butternut, raw	Dynia pi¿mowa	cup, cubes	37484	szklanka, kostki
+11489	Squash, winter, hubbard, raw	Dynia olbrzymia	gram	37485	gram
+11489	Squash, winter, hubbard, raw	Dynia olbrzymia	cup, cubes	37486	szklanka, kostki
+11492	Squash, winter, spaghetti, raw	Dynia makaronowa	gram	37487	gram
+11492	Squash, winter, spaghetti, raw	Dynia makaronowa	cup, cubes	37488	szklanka, kostki
+11507	Sweet potato, raw, unprepared	S³odki ziemniak (batat)	gram	37489	gram
+11507	Sweet potato, raw, unprepared	S³odki ziemniak (batat)	cup, cubes	37490	szklanka, kostki
+11507	Sweet potato, raw, unprepared	S³odki ziemniak (batat)	"sweetpotato, 5"" long"	37491	sztuka
+11527	Tomatoes, green, raw	Pomidor, zielony	gram	37492	gram
+11527	Tomatoes, green, raw	Pomidor, zielony	cup	37493	szklanka
+11527	Tomatoes, green, raw	Pomidor, zielony	large	37494	du¿y
+11527	Tomatoes, green, raw	Pomidor, zielony	medium	37495	œredni
+11527	Tomatoes, green, raw	Pomidor, zielony	slice or wedge	37496	plaster
+11527	Tomatoes, green, raw	Pomidor, zielony	small	37497	ma³y
+11533	Tomatoes, red, ripe, canned, stewed	Pomidor, czerwony, puszka	gram	37498	gram
+11533	Tomatoes, red, ripe, canned, stewed	Pomidor, czerwony, puszka	cup	37499	szklanka
+11537	Tomatoes, red, ripe, canned, with green chilies	Pomidor, czerwony, z dodatkiem zielonego chili, puszka	gram	37500	gram
+11537	Tomatoes, red, ripe, canned, with green chilies	Pomidor, czerwony, z dodatkiem zielonego chili, puszka	cup	37501	szklanka
+11548	Tomato powder	Pomidor, sproszkowany	gram	37502	gram
+11564	Turnips, raw	Rzepa	gram	37503	gram
+11564	Turnips, raw	Rzepa	cup, cubes	37504	szklanka, kostki
+11564	Turnips, raw	Rzepa	large	37505	du¿a
+11564	Turnips, raw	Rzepa	medium	37506	œrednia
+11564	Turnips, raw	Rzepa	slice	37507	plaster
+11564	Turnips, raw	Rzepa	small	37508	ma³a
+11564	Turnips, raw	Rzepa	cup, cubes	37509	szklanka, kostki
+11568	Turnip greens, raw	Rzepa, liœcie	gram	37510	gram
+11568	Turnip greens, raw	Rzepa, liœcie	cup, chopped	37511	szklanka, posiekana
+11616	Dock, raw	Szczaw	gram	37512	gram
+11616	Dock, raw	Szczaw	cup, chopped	37513	szklanka
+11669	Seaweed, wakame, raw	Undaria pierzastodzielna	gram	37525	gram
+11669	Seaweed, wakame, raw	Undaria pierzastodzielna	tbsp (1/8 cup)	37526	³y¿ka
+11670	Peppers, hot chili, green, raw	Papryka chili, zielona	gram	37527	gram
+11670	Peppers, hot chili, green, raw	Papryka chili, zielona	pepper	37528	sztuka
+11670	Peppers, hot chili, green, raw	Papryka chili, zielona	cup, chopped or diced	37529	szklanka, posiekana
+11676	Radish seeds, sprouted, raw	Rzodkiew, kie³ki	gram	37530	gram
+11676	Radish seeds, sprouted, raw	Rzodkiew, kie³ki	cup	37531	szklanka
+11677	Shallots, raw	Cebula, szalotka	gram	37532	gram
+11677	Shallots, raw	Cebula, szalotka	tbsp chopped	37533	³y¿ka, posiekana
+11695	Tomatoes, orange, raw	Pomidor, pomarañczowy	gram	37534	gram
+11695	Tomatoes, orange, raw	Pomidor, pomarañczowy	cup, chopped	37535	szklanka, posiekany
+11695	Tomatoes, orange, raw	Pomidor, pomarañczowy	tomato	37536	sztuka
+11696	Tomatoes, yellow, raw	Pomidor, ¿ó³ty	gram	37537	gram
+11696	Tomatoes, yellow, raw	Pomidor, ¿ó³ty	cup, chopped	37538	szklanka, posiekany
+11696	Tomatoes, yellow, raw	Pomidor, ¿ó³ty	tomato	37539	sztuka
+11722	Beans, snap, yellow, raw	Fasola szparagowa, ¿ó³ta	gram	37540	gram
+11722	Beans, snap, yellow, raw	Fasola szparagowa, ¿ó³ta	"cup 1/2"" pieces"	37541	szklanka
+11722	Beans, snap, yellow, raw	Fasola szparagowa, ¿ó³ta	"beans (4"" long)"	37542	sztuka
+11740	Broccoli, flower clusters, raw	Broku³, ró¿yczki	gram	37543	gram
+11740	Broccoli, flower clusters, raw	Broku³, ró¿yczki	cup flowerets	37544	szklanka
+11740	Broccoli, flower clusters, raw	Broku³, ró¿yczki	floweret	37545	ró¿yczka
+11741	Broccoli, stalks, raw	Broku³, ³odyga	gram	37546	gram
+11741	Broccoli, stalks, raw	Broku³, ³odyga	stalk	37547	sztuka
+11749	Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw	Kapusta, m³oda	gram	37548	gram
+11749	Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw	Kapusta, m³oda	cup, shredded	37549	szklanka, posiekana
+11749	Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw	Kapusta, m³oda	head	37550	g³ówka
+11819	Peppers, hot chili, red, raw	Papryka chili, czerwona	gram	37554	gram
+11819	Peppers, hot chili, red, raw	Papryka chili, czerwona	pepper	37555	sztuka
+11819	Peppers, hot chili, red, raw	Papryka chili, czerwona	cup, chopped or diced	37556	szklanka, posiekana
+11900	Corn, sweet, white, raw	Kukurydza, s³odka, bia³a	gram	37557	gram
+11900	Corn, sweet, white, raw	Kukurydza, s³odka, bia³a	"ear, small (5-1/2"" to 6-1/2"" long)"	37558	ma³a
+11900	Corn, sweet, white, raw	Kukurydza, s³odka, bia³a	"ear, medium (6-3/4"" to 7-1/2"" long)"	37559	œrednia
+11900	Corn, sweet, white, raw	Kukurydza, s³odka, bia³a	"ear, large (7-3/4"" to 9"" long)"	37560	du¿a
+11900	Corn, sweet, white, raw	Kukurydza, s³odka, bia³a	cup kernels	37561	szklanka
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	gram	37562	gram
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	cup	37563	szklanka
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	"large (4"" long)"	37564	du¿y
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	"medium (3-3/4"" long)"	37565	œredni
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	slice	37566	plaster
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	small	37567	ma³y
+11941	Pickles, cucumber, sour	Ogórek kiszony (pikle)	spear	37568	sztuka
+11952	Radicchio, raw	Cykoria sa³atowa	gram	37569	gram
+11952	Radicchio, raw	Cykoria sa³atowa	cup, shredded	37570	szklanka, poszatkowana
+11952	Radicchio, raw	Cykoria sa³atowa	leaf	37571	liœæ
+11960	Carrots, baby, raw	Marchewka baby	gram	37572	gram
+11960	Carrots, baby, raw	Marchewka baby	large	37573	du¿a
+11960	Carrots, baby, raw	Marchewka baby	medium	37574	œrednia
+11960	Carrots, baby, raw	Marchewka baby	NLEA serving	37575	porcja 
+11965	Cauliflower, green, raw	Kalafior zielony	gram	37576	gram
+11965	Cauliflower, green, raw	Kalafior zielony	cup	37577	szklanka
+11965	Cauliflower, green, raw	Kalafior zielony	floweret	37578	ró¿yczka
+11965	Cauliflower, green, raw	Kalafior zielony	"head, large (6-7"" dia)"	37579	du¿y
+11965	Cauliflower, green, raw	Kalafior zielony	"head, medium (5-6"" dia)"	37580	œredni
+11965	Cauliflower, green, raw	Kalafior zielony	"head, small (4"" dia)"	37581	ma³y
+11977	Peppers, serrano, raw	Papryka Serrano	gram	37582	gram
+11977	Peppers, serrano, raw	Papryka Serrano	cup, chopped	37583	szklanka, posiekana
+11977	Peppers, serrano, raw	Papryka Serrano	pepper	37584	sztuka
+11979	Peppers, jalapeno, raw	Papryka Jalapeno	gram	37585	gram
+11979	Peppers, jalapeno, raw	Papryka Jalapeno	cup, sliced	37586	szklanka, plastry
+11979	Peppers, jalapeno, raw	Papryka Jalapeno	pepper	37587	sztuka
+11981	Peppers, hungarian, raw	Papryka, wêgierska	gram	37588	gram
+11981	Peppers, hungarian, raw	Papryka, wêgierska	pepper	37589	sztuka
+11984	Epazote, raw	Komosa pi¿mowa	gram	37590	gram
+11984	Epazote, raw	Komosa pi¿mowa	tbsp	37591	³y¿ka
+11984	Epazote, raw	Komosa pi¿mowa	sprig	37592	ga³¹zka
+12023	Seeds, sesame seeds, whole, dried	Sezam, nasiona	gram	37596	gram
+12023	Seeds, sesame seeds, whole, dried	Sezam, nasiona	cup	37597	szklanka
+12023	Seeds, sesame seeds, whole, dried	Sezam, nasiona	tbsp	37598	³y¿ka
+12033	Seeds, sesame flour, low-fat	M¹ka sezamowa	gram	37599	gram
+12033	Seeds, sesame flour, low-fat	M¹ka sezamowa	oz	37600	uncja (28 gram)
+12061	Nuts, almonds	Migda³y	gram	37601	gram
+12061	Nuts, almonds	Migda³y	cup, whole	37602	szklanka, ca³e
+12061	Nuts, almonds	Migda³y	cup, sliced	37603	szklanka, krojone
+12061	Nuts, almonds	Migda³y	cup, slivered	37604	szklanka, blanszowane
+12061	Nuts, almonds	Migda³y	cup, ground	37605	szklanka, mielone
+12061	Nuts, almonds	Migda³y	oz (23 whole kernels)	37606	uncja (28 gram)
+12061	Nuts, almonds	Migda³y	almond	37607	sztuka
+12062	Nuts, almonds, blanched	Migda³y, blanszowane	gram	37608	gram
+12062	Nuts, almonds, blanched	Migda³y, blanszowane	cup whole kernels	37609	szklanka
+12062	Nuts, almonds, blanched	Migda³y, blanszowane	tbsp	37610	³y¿ka
+12062	Nuts, almonds, blanched	Migda³y, blanszowane	oz	37611	uncja (28 gram)
+12087	Nuts, cashew nuts, raw	Orzechy nerkowca	gram	37612	gram
+12087	Nuts, cashew nuts, raw	Orzechy nerkowca	oz	37613	uncja (28 gram)
+12088	Nuts, cashew butter, plain, without salt added	Mas³o z orzechow nerkowca	gram	37614	gram
+12088	Nuts, cashew butter, plain, without salt added	Mas³o z orzechow nerkowca	tbsp	37615	³y¿ka
+12088	Nuts, cashew butter, plain, without salt added	Mas³o z orzechow nerkowca	oz	37616	uncja (28 gram)
+12097	Nuts, chestnuts, european, raw, unpeeled	Kasztan, nieobrany	gram	37617	gram
+12097	Nuts, chestnuts, european, raw, unpeeled	Kasztan, nieobrany	cup	37618	szklanka
+12097	Nuts, chestnuts, european, raw, unpeeled	Kasztan, nieobrany	oz	37619	uncja (28 gram)
+12098	Nuts, chestnuts, european, raw, peeled	Kasztan, obrany	gram	37620	gram
+12098	Nuts, chestnuts, european, raw, peeled	Kasztan, obrany	oz	37621	uncja (28 gram)
+12104	Nuts, coconut meat, raw	Kokos, mi¹¿sz	gram	37622	gram
+12104	Nuts, coconut meat, raw	Kokos, mi¹¿sz	cup, shredded	37623	szklanka, posiekany
+12104	Nuts, coconut meat, raw	Kokos, mi¹¿sz	medium	37624	œredni
+12104	Nuts, coconut meat, raw	Kokos, mi¹¿sz	"piece (2"" x 2"" x 1/2"")"	37625	kawa³ek
+12115	Nuts, coconut cream, raw (liquid expressed from grated meat)	Kokos, œmietana	gram	37626	gram
+12115	Nuts, coconut cream, raw (liquid expressed from grated meat)	Kokos, œmietana	tbsp	37627	³y¿ka
+12115	Nuts, coconut cream, raw (liquid expressed from grated meat)	Kokos, œmietana	cup	37628	szklanka
+12117	Nuts, coconut milk, raw (liquid expressed from grated meat and water)	Kokos, woda	gram	37629	gram
+12117	Nuts, coconut milk, raw (liquid expressed from grated meat and water)	Kokos, woda	cup	37630	szklanka
+12117	Nuts, coconut milk, raw (liquid expressed from grated meat and water)	Kokos, woda	tbsp	37631	³y¿ka
+12142	Nuts, pecans	Orzechy pekan	gram	37632	gram
+12142	Nuts, pecans	Orzechy pekan	cup, chopped	37633	szklanka, posiekane
+12142	Nuts, pecans	Orzechy pekan	cup, halves	37634	szklanka, po³ówki
+12142	Nuts, pecans	Orzechy pekan	oz (19 halves)	37635	uncja (28 gram)
+12151	Nuts, pistachio nuts, raw	Pistacje	gram	37636	gram
+12151	Nuts, pistachio nuts, raw	Pistacje	cup	37637	szklanka
+12151	Nuts, pistachio nuts, raw	Pistacje	oz (49 kernels)	37638	uncja (28 gram)
+12151	Nuts, pistachio nuts, raw	Pistacje	kernel	37639	sztuka
+12155	Nuts, walnuts, english	Orzechy w³oskie	gram	37640	gram
+12155	Nuts, walnuts, english	Orzechy w³oskie	cup, chopped	37641	szklanka, posiekane
+12155	Nuts, walnuts, english	Orzechy w³oskie	cup, ground	37642	szklanka, mielone
+12155	Nuts, walnuts, english	Orzechy w³oskie	cup, in shell, edible yield (7 nuts)	37643	szklanka, w skorupce
+12155	Nuts, walnuts, english	Orzechy w³oskie	cup shelled (50 halves)	37644	szklanka, w pow³oce
+12155	Nuts, walnuts, english	Orzechy w³oskie	cup pieces or chips	37645	szklanka, kawa³ki
+12155	Nuts, walnuts, english	Orzechy w³oskie	oz (14 halves)	37646	uncja (28 gram)
+12169	Seeds, sesame butter, paste	Mas³o sezamowe	gram	37647	gram
+12169	Seeds, sesame butter, paste	Mas³o sezamowe	tbsp	37648	³y¿ka
+12198	Seeds, sesame butter, tahini, from raw and stone ground kernels	Mas³o sezamowe (tahini)	gram	37649	gram
+12198	Seeds, sesame butter, tahini, from raw and stone ground kernels	Mas³o sezamowe (tahini)	tbsp	37650	³y¿ka
+12198	Seeds, sesame butter, tahini, from raw and stone ground kernels	Mas³o sezamowe (tahini)	oz	37651	uncja (28 gram)
+13002	Beef, carcass, separable lean and fat, select, raw	Wo³owina, tusza, miêso chude i t³uste	gram	37655	gram
+13002	Beef, carcass, separable lean and fat, select, raw	Wo³owina, tusza, miêso chude i t³uste	oz	37656	uncja (28 gram)
+13002	Beef, carcass, separable lean and fat, select, raw	Wo³owina, tusza, miêso chude i t³uste	lb	37657	funt (450 gram)
+13023	Beef, brisket, whole, separable lean only, all grades, raw	Wo³owina, mostek, ca³y, miêso chude	gram	37661	gram
+13023	Beef, brisket, whole, separable lean only, all grades, raw	Wo³owina, mostek, ca³y, miêso chude	oz	37662	uncja (28 gram)
+13023	Beef, brisket, whole, separable lean only, all grades, raw	Wo³owina, mostek, ca³y, miêso chude	lb	37663	funt (450 gram)
+13068	"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, ³ata, miêso chude	gram	37666	gram
+13068	"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, ³ata, miêso chude	oz	37667	uncja (28 gram)
+13068	"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, ³ata, miêso chude	steak	37668	stek
+13149	Beef, rib, shortribs, separable lean only, choice, raw	Wo³owina, ¿ebro, ¿ebra krótkie	gram	37672	gram
+13149	Beef, rib, shortribs, separable lean only, choice, raw	Wo³owina, ¿ebro, ¿ebra krótkie	oz	37673	uncja (28 gram)
+13149	Beef, rib, shortribs, separable lean only, choice, raw	Wo³owina, ¿ebro, ¿ebra krótkie	lb	37674	funt (450 gram)
+13227	"Beef, shank crosscuts, separable lean only, trimmed to 1/4"" fat, choice, raw"	Wo³owina, prêga	gram	37675	gram
+13227	"Beef, shank crosscuts, separable lean only, trimmed to 1/4"" fat, choice, raw"	Wo³owina, prêga	oz	37676	uncja (28 gram)
+13227	"Beef, shank crosscuts, separable lean only, trimmed to 1/4"" fat, choice, raw"	Wo³owina, prêga	lb	37677	funt (450 gram)
+13231	"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek Porterhouse, miêso chude	gram	37678	gram
+13231	"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek Porterhouse, miêso chude	oz	37679	uncja (28 gram)
+13231	"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek Porterhouse, miêso chude	steak	37680	stek
+13235	"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek t-bone, z koœci¹, miêso chude	gram	37681	gram
+13235	"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek t-bone, z koœci¹, miêso chude	oz	37682	uncja (28 gram)
+13235	"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, raw"	Wo³owina, rostbef, stek t-bone, z koœci¹, miêso chude	steak	37683	stek
+13284	"Beef, rib eye, small end (ribs 10-12), separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, ¿ebro, oczy, ¿ebra (¿ebra 10-12)	gram	37684	gram
+13284	"Beef, rib eye, small end (ribs 10-12), separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, ¿ebro, oczy, ¿ebra (¿ebra 10-12)	oz	37685	uncja (28 gram)
+13294	"Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, karkówka, miêso chude	gram	37686	gram
+13294	"Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, karkówka, miêso chude	oz	37687	uncja (28 gram)
+13294	"Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, karkówka, miêso chude	steak	37688	stek
+13294	"Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0"" fat, choice, raw"	Wo³owina, karkówka, miêso chude	roast	37689	pieczeñ
+13318	Beef, variety meats and by-products, brain, raw	Wo³owina, mózg	gram	37690	gram
+13318	Beef, variety meats and by-products, brain, raw	Wo³owina, mózg	oz	37691	uncja (28 gram)
+13318	Beef, variety meats and by-products, brain, raw	Wo³owina, mózg	oz	37692	uncja (28 gram)
+13321	Beef, variety meats and by-products, heart, raw	Wo³owina, serce	gram	37693	gram
+13321	Beef, variety meats and by-products, heart, raw	Wo³owina, serce	oz	37694	uncja (28 gram)
+13321	Beef, variety meats and by-products, heart, raw	Wo³owina, serce	oz	37695	uncja (28 gram)
+13323	Beef, variety meats and by-products, kidneys, raw	Wo³owina, nerki	gram	37696	gram
+13323	Beef, variety meats and by-products, kidneys, raw	Wo³owina, nerki	oz	37697	uncja (28 gram)
+13323	Beef, variety meats and by-products, kidneys, raw	Wo³owina, nerki	oz	37698	uncja (28 gram)
+13325	Beef, variety meats and by-products, liver, raw	Wo³owina, w¹troba	gram	37699	gram
+13325	Beef, variety meats and by-products, liver, raw	Wo³owina, w¹troba	oz	37700	uncja (28 gram)
+13328	Beef, variety meats and by-products, lungs, raw	Wo³owina, p³uca	gram	37701	gram
+13328	Beef, variety meats and by-products, lungs, raw	Wo³owina, p³uca	oz	37702	uncja (28 gram)
+13328	Beef, variety meats and by-products, lungs, raw	Wo³owina, p³uca	oz	37703	uncja (28 gram)
+13330	Beef, variety meats and by-products, mechanically separated beef, raw	Wo³owina, miêso mielone	gram	37704	gram
+13330	Beef, variety meats and by-products, mechanically separated beef, raw	Wo³owina, miêso mielone	oz	37705	uncja (28 gram)
+13330	Beef, variety meats and by-products, mechanically separated beef, raw	Wo³owina, miêso mielone	oz	37706	uncja (28 gram)
+13331	Beef, variety meats and by-products, pancreas, raw	Wo³owina, trzustka	gram	37707	gram
+13331	Beef, variety meats and by-products, pancreas, raw	Wo³owina, trzustka	oz	37708	uncja (28 gram)
+13331	Beef, variety meats and by-products, pancreas, raw	Wo³owina, trzustka	oz	37709	uncja (28 gram)
+13333	Beef, variety meats and by-products, spleen, raw	Wo³owina, œledziona	gram	37710	gram
+13333	Beef, variety meats and by-products, spleen, raw	Wo³owina, œledziona	oz	37711	uncja (28 gram)
+13333	Beef, variety meats and by-products, spleen, raw	Wo³owina, œledziona	oz	37712	uncja (28 gram)
+13335	Beef, variety meats and by-products, suet, raw	Wo³owina, ³ój	gram	37713	gram
+13335	Beef, variety meats and by-products, suet, raw	Wo³owina, ³ój	oz	37714	uncja (28 gram)
+13335	Beef, variety meats and by-products, suet, raw	Wo³owina, ³ój	oz	37715	uncja (28 gram)
+13337	Beef, variety meats and by-products, thymus, raw	Wo³owina, grasica	gram	37716	gram
+13337	Beef, variety meats and by-products, thymus, raw	Wo³owina, grasica	oz	37717	uncja (28 gram)
+13337	Beef, variety meats and by-products, thymus, raw	Wo³owina, grasica	oz	37718	uncja (28 gram)
+13339	Beef, variety meats and by-products, tongue, raw	Wo³owina, jêzyk	gram	37719	gram
+13339	Beef, variety meats and by-products, tongue, raw	Wo³owina, jêzyk	oz	37720	uncja (28 gram)
+13339	Beef, variety meats and by-products, tongue, raw	Wo³owina, jêzyk	oz	37721	uncja (28 gram)
+13341	Beef, variety meats and by-products, tripe, raw	Wo³owina, flaki	gram	37722	gram
+13341	Beef, variety meats and by-products, tripe, raw	Wo³owina, flaki	oz	37723	uncja (28 gram)
+13341	Beef, variety meats and by-products, tripe, raw	Wo³owina, flaki	oz	37724	uncja (28 gram)
+13358	Beef, cured, smoked, chopped beef	Wo³owina, wêdzona	gram	37725	gram
+13358	Beef, cured, smoked, chopped beef	Wo³owina, wêdzona	slice (1 oz)	37726	plaster (28 g)
+13498	Beef, ground, 70% lean meat / 30% fat, raw	Wo³owina, mielona, 70% miêso, 30% t³uszczu	gram	37739	gram
+13498	Beef, ground, 70% lean meat / 30% fat, raw	Wo³owina, mielona, 70% miêso, 30% t³uszczu	oz	37740	uncja (28 gram)
+13498	Beef, ground, 70% lean meat / 30% fat, raw	Wo³owina, mielona, 70% miêso, 30% t³uszczu	oz	37741	uncja (28 gram)
+13499	"Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, karkówka, miêso chude i t³uste	gram	37742	gram
+13499	"Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, karkówka, miêso chude i t³uste	oz	37743	uncja (28 gram)
+13499	"Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, karkówka, miêso chude i t³uste	steak	37744	stek
+13597	"Beef, brisket, flat half, boneless, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude	gram	37748	gram
+13597	"Beef, brisket, flat half, boneless, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude	oz	37749	uncja (28 gram)
+13597	"Beef, brisket, flat half, boneless, separable lean only, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude	piece	37750	kawa³ek
+13791	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean and fat, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude i t³uste	gram	37755	gram
+13791	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean and fat, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude i t³uste	oz	37756	uncja (28 gram)
+13791	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean and fat, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude i t³uste	roast	37757	pieczeñ
+13803	"Beef, brisket, whole, separable lean and fat, trimmed to 1/8"" fat, all grades, raw"	Wo³owina, mostek, ca³y, miêso chude i t³uste	gram	37760	gram
+13803	"Beef, brisket, whole, separable lean and fat, trimmed to 1/8"" fat, all grades, raw"	Wo³owina, mostek, ca³y, miêso chude i t³uste	oz	37761	uncja (28 gram)
+13803	"Beef, brisket, whole, separable lean and fat, trimmed to 1/8"" fat, all grades, raw"	Wo³owina, mostek, ca³y, miêso chude i t³uste	lb	37762	funt (450 gram)
+13813	"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, pachwina	gram	37763	gram
+13813	"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, pachwina	oz	37764	uncja (28 gram)
+13813	"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, pachwina	roast	37765	pieczeñ
+13813	"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, pachwina	lb	37766	funt (450 gram)
+13819	"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ³opatka	gram	37770	gram
+13819	"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ³opatka	oz	37771	uncja (28 gram)
+13819	"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ³opatka	lb	37772	funt (450 gram)
+13830	"Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ca³e (¿ebra 6-12)	gram	37773	gram
+13830	"Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ca³e (¿ebra 6-12)	oz	37774	uncja (28 gram)
+13830	"Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ca³e (¿ebra 6-12)	lb	37775	funt (450 gram)
+13844	"Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (¿ebra 6-9)	gram	37776	gram
+13844	"Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (¿ebra 6-9)	oz	37777	uncja (28 gram)
+13844	"Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (¿ebra 6-9)	lb	37778	funt (450 gram)
+13856	"Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (10-12)	gram	37779	gram
+13856	"Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (10-12)	oz	37780	uncja (28 gram)
+13856	"Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, ¿ebro, ¿ebra (10-12)	steak	37781	stek
+13866	"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, pe³ne ciêcie	gram	37782	gram
+13866	"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, pe³ne ciêcie	oz	37783	uncja (28 gram)
+13866	"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, pe³ne ciêcie	lb	37784	funt (450 gram)
+13874	"Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, dó³	gram	37785	gram
+13874	"Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, dó³	oz	37786	uncja (28 gram)
+13874	"Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, dó³	steak	37787	stek
+13881	"Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, œrodek	gram	37788	gram
+13881	"Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, œrodek	oz	37789	uncja (28 gram)
+13881	"Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, œrodek	lb	37790	funt (450 gram)
+13898	"Beef, round, top round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, góra, miêso chude i t³uste	gram	37797	gram
+13898	"Beef, round, top round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, góra, miêso chude i t³uste	oz	37798	uncja (28 gram)
+13898	"Beef, round, top round, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, udziec, góra, miêso chude i t³uste	lb	37799	funt (450 gram)
+13901	"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, udziec, góra, miêso chude	gram	37800	gram
+13901	"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, udziec, góra, miêso chude	oz	37801	uncja (28 gram)
+13901	"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, udziec, góra, miêso chude	lb	37802	funt (450 gram)
+13913	"Beef, loin, top loin, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, befsztyk, grzbiet	gram	37806	gram
+13913	"Beef, loin, top loin, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, befsztyk, grzbiet	oz	37807	uncja (28 gram)
+13915	"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, rostbef, grzbiet	gram	37808	gram
+13915	"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, rostbef, grzbiet	oz	37809	uncja (28 gram)
+13915	"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, prime, raw"	Wo³owina, rostbef, grzbiet	steak, excluding refuse (yield from 1 raw steak, with refuse, weighing 242 g)	37810	stek
+13923	"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, polêdwica	gram	37811	gram
+13923	"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, polêdwica	steak (yield from 1 raw steak weighing149g)	37812	stek
+13923	"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, polêdwica	oz	37813	uncja (28 gram)
+13923	"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, polêdwica	lb	37814	funt (450 gram)
+13934	"Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, befsztyk	gram	37815	gram
+13934	"Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, befsztyk	oz	37816	uncja (28 gram)
+13934	"Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8"" fat, select, raw"	Wo³owina, befsztyk	steak	37817	stek
+13958	"Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, befsztyk, brzuch	gram	37818	gram
+13958	"Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, befsztyk, brzuch	oz	37819	uncja (28 gram)
+13958	"Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, befsztyk, brzuch	roast	37820	pieczeñ
+13971	"Beef, flank, steak, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, ³ata, miêso chude i t³uste	gram	37821	gram
+13971	"Beef, flank, steak, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, ³ata, miêso chude i t³uste	oz	37822	uncja (28 gram)
+13971	"Beef, flank, steak, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, ³ata, miêso chude i t³uste	steak	37823	stek
+13974	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean only, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude	gram	37824	gram
+13974	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean only, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude	oz	37825	uncja (28 gram)
+13974	"'""Beef, chuck eye roast, boneless, America''s Beef Roast, separable lean only, trimmed to 0"""" fat, select, raw""'"	Wo³owina, karkówka, bez koœci, miêso chude	roast	37826	pieczeñ
+13983	"Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude i t³uste	gram	37827	gram
+13983	"Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude i t³uste	oz	37828	uncja (28 gram)
+13983	"Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0"" fat, select, raw"	Wo³owina, antrykot, bez koœci, miêso chude i t³uste	piece	37829	kawa³ek
+15001	Fish, anchovy, european, raw	Anchois	gram	37830	gram
+15001	Fish, anchovy, european, raw	Anchois	oz	37831	uncja (28 gram)
+15003	Fish, bass, fresh water, mixed species, raw	Okoñ morski	gram	37832	gram
+15003	Fish, bass, fresh water, mixed species, raw	Okoñ morski	fillet	37833	filet
+15003	Fish, bass, fresh water, mixed species, raw	Okoñ morski	oz	37834	uncja (28 gram)
+15004	Fish, bass, striped, raw	Okoñ pr¹¿kowany	gram	37835	gram
+15004	Fish, bass, striped, raw	Okoñ pr¹¿kowany	oz	37836	uncja (28 gram)
+15004	Fish, bass, striped, raw	Okoñ pr¹¿kowany	fillet	37837	filet
+15008	Fish, carp, raw	Karp	gram	37838	gram
+15008	Fish, carp, raw	Karp	oz	37839	uncja (28 gram)
+15008	Fish, carp, raw	Karp	fillet	37840	filet
+15010	Fish, catfish, channel, wild, raw	Sum	gram	37841	gram
+15010	Fish, catfish, channel, wild, raw	Sum	oz	37842	uncja (28 gram)
+15010	Fish, catfish, channel, wild, raw	Sum	fillet	37843	filet
+15012	Fish, caviar, black and red, granular	Kawior, czarny i czerwony	gram	37844	gram
+15012	Fish, caviar, black and red, granular	Kawior, czarny i czerwony	tbsp	37845	³y¿ka
+15012	Fish, caviar, black and red, granular	Kawior, czarny i czerwony	oz	37846	uncja (28 gram)
+15015	Fish, cod, Atlantic, raw	Dorsz atlantycki	gram	37847	gram
+15015	Fish, cod, Atlantic, raw	Dorsz atlantycki	oz	37848	uncja (28 gram)
+15015	Fish, cod, Atlantic, raw	Dorsz atlantycki	fillet	37849	filet
+15019	Fish, cod, Pacific, raw (may have been previously frozen)	Dorsz pacyficzny	gram	37850	gram
+15019	Fish, cod, Pacific, raw (may have been previously frozen)	Dorsz pacyficzny	fillet	37851	filet
+15019	Fish, cod, Pacific, raw (may have been previously frozen)	Dorsz pacyficzny	oz	37852	uncja (28 gram)
+15025	Fish, eel, mixed species, raw	Wêgorz	gram	37853	gram
+15025	Fish, eel, mixed species, raw	Wêgorz	oz	37854	uncja (28 gram)
+15025	Fish, eel, mixed species, raw	Wêgorz	fillet	37855	filet
+15028	Fish, flatfish (flounder and sole species), raw	Fl¹dra	gram	37856	gram
+15028	Fish, flatfish (flounder and sole species), raw	Fl¹dra	oz, boneless	37857	uncja (28 gram)
+15028	Fish, flatfish (flounder and sole species), raw	Fl¹dra	fillet	37858	filet
+15028	Fish, flatfish (flounder and sole species), raw	Fl¹dra	oz	37859	uncja (28 gram)
+15036	Fish, halibut, Atlantic and Pacific, raw	Halibut	gram	37860	gram
+15036	Fish, halibut, Atlantic and Pacific, raw	Halibut	oz	37861	uncja (28 gram)
+15036	Fish, halibut, Atlantic and Pacific, raw	Halibut	fillet	37862	filet
+15039	Fish, herring, Atlantic, raw	ŒledŸ atlantycki, surowy	gram	37863	gram
+15039	Fish, herring, Atlantic, raw	ŒledŸ atlantycki, surowy	oz, boneless	37864	uncja (28 gram)
+15039	Fish, herring, Atlantic, raw	ŒledŸ atlantycki, surowy	fillet	37865	filet
+15039	Fish, herring, Atlantic, raw	ŒledŸ atlantycki, surowy	oz	37866	uncja (28 gram)
+15041	Fish, herring, Atlantic, pickled	ŒledŸ, puszkowany	gram	37867	gram
+15041	Fish, herring, Atlantic, pickled	ŒledŸ, puszkowany	cup	37868	szklanka
+15041	Fish, herring, Atlantic, pickled	ŒledŸ, puszkowany	oz, boneless	37869	uncja (28 gram)
+15041	Fish, herring, Atlantic, pickled	ŒledŸ, puszkowany	cubic inch	37870	cal szeœcienny
+15041	Fish, herring, Atlantic, pickled	ŒledŸ, puszkowany	"piece (1-3/4"" x 7/8"" x 1/2"")"	37871	kawa³ek
+15043	Fish, herring, Pacific, raw	ŒledŸ pacyficzny, surowy	gram	37872	gram
+15043	Fish, herring, Pacific, raw	ŒledŸ pacyficzny, surowy	oz	37873	uncja (28 gram)
+15043	Fish, herring, Pacific, raw	ŒledŸ pacyficzny, surowy	fillet	37874	filet
+15046	Fish, mackerel, Atlantic, raw	Makrela atlantycka	gram	37875	gram
+15046	Fish, mackerel, Atlantic, raw	Makrela atlantycka	fillet	37876	filet
+15046	Fish, mackerel, Atlantic, raw	Makrela atlantycka	oz	37877	uncja (28 gram)
+15050	Fish, mackerel, Pacific and jack, mixed species, raw	Makrela pacyficzna	gram	37878	gram
+15050	Fish, mackerel, Pacific and jack, mixed species, raw	Makrela pacyficzna	oz	37879	uncja (28 gram)
+15050	Fish, mackerel, Pacific and jack, mixed species, raw	Makrela pacyficzna	fillet	37880	filet
+15051	Fish, mackerel, spanish, raw	Makrela hiszpañska	gram	37881	gram
+15051	Fish, mackerel, spanish, raw	Makrela hiszpañska	oz	37882	uncja (28 gram)
+15051	Fish, mackerel, spanish, raw	Makrela hiszpañska	fillet	37883	filet
+15060	Fish, perch, mixed species, raw	Okoñ	gram	37884	gram
+15060	Fish, perch, mixed species, raw	Okoñ	fillet	37885	filet
+15060	Fish, perch, mixed species, raw	Okoñ	oz	37886	uncja (28 gram)
+15062	Fish, pike, northern, raw	Szczupak	gram	37887	gram
+15062	Fish, pike, northern, raw	Szczupak	oz	37888	uncja (28 gram)
+15062	Fish, pike, northern, raw	Szczupak	fillet	37889	filet
+15065	Fish, pollock, Atlantic, raw	Mintaj	gram	37890	gram
+15065	Fish, pollock, Atlantic, raw	Mintaj	oz	37891	uncja (28 gram)
+15065	Fish, pollock, Atlantic, raw	Mintaj	fillet	37892	filet
+15076	Fish, salmon, Atlantic, wild, raw	£osoœ atlantycki, dziki	gram	37896	gram
+15076	Fish, salmon, Atlantic, wild, raw	£osoœ atlantycki, dziki	oz	37897	uncja (28 gram)
+15076	Fish, salmon, Atlantic, wild, raw	£osoœ atlantycki, dziki	fillet	37898	filet
+15077	Fish, salmon, chinook, smoked	£osoœ atlantycki, wêdzony	gram	37899	gram
+15077	Fish, salmon, chinook, smoked	£osoœ atlantycki, wêdzony	oz, boneless	37900	uncja (28 gram)
+15077	Fish, salmon, chinook, smoked	£osoœ atlantycki, wêdzony	oz	37901	uncja (28 gram)
+15077	Fish, salmon, chinook, smoked	£osoœ atlantycki, wêdzony	cubic inch, boneless	37902	cal szeœcienny
+15077	Fish, salmon, chinook, smoked	£osoœ atlantycki, wêdzony	cup, cooked	37903	szklanka
+15083	Fish, salmon, pink, raw	£osoœ ró¿owy (Gorbusza)	gram	37904	gram
+15083	Fish, salmon, pink, raw	£osoœ ró¿owy (Gorbusza)	oz	37905	uncja (28 gram)
+15083	Fish, salmon, pink, raw	£osoœ ró¿owy (Gorbusza)	fillet	37906	filet
+15091	Fish, sea bass, mixed species, raw	Okoñ	gram	37907	gram
+15091	Fish, sea bass, mixed species, raw	Okoñ	fillet	37908	filet
+15091	Fish, sea bass, mixed species, raw	Okoñ	oz	37909	uncja (28 gram)
+15095	Fish, shark, mixed species, raw	Rekin	gram	37910	gram
+15095	Fish, shark, mixed species, raw	Rekin	oz	37911	uncja (28 gram)
+15103	Fish, spot, raw	Kulbin	gram	37912	gram
+15103	Fish, spot, raw	Kulbin	fillet	37913	filet
+15103	Fish, spot, raw	Kulbin	oz	37914	uncja (28 gram)
+15109	Fish, surimi	Surimi	gram	37915	gram
+15109	Fish, surimi	Surimi	oz	37916	uncja (28 gram)
+15109	Fish, surimi	Surimi	oz	37917	uncja (28 gram)
+15115	Fish, trout, rainbow, wild, raw	Pstr¹g têczowy, dziki	gram	37918	gram
+15115	Fish, trout, rainbow, wild, raw	Pstr¹g têczowy, dziki	oz	37919	uncja (28 gram)
+15115	Fish, trout, rainbow, wild, raw	Pstr¹g têczowy, dziki	fillet	37920	filet
+15117	Fish, tuna, fresh, bluefin, raw	Tuñczyk	gram	37921	gram
+15117	Fish, tuna, fresh, bluefin, raw	Tuñczyk	oz	37922	uncja (28 gram)
+15129	Fish, turbot, european, raw	Skarbot	gram	37923	gram
+15129	Fish, turbot, european, raw	Skarbot	oz	37924	uncja (28 gram)
+15129	Fish, turbot, european, raw	Skarbot	fillet	37925	filet
+15147	Crustaceans, lobster, northern, raw	Homar	gram	37926	gram
+15147	Crustaceans, lobster, northern, raw	Homar	lobster	37927	sztuka
+15147	Crustaceans, lobster, northern, raw	Homar	oz	37928	uncja (28 gram)
+15149	Crustaceans, shrimp, mixed species, raw (may have been previously frozen)	Krewetka	gram	37929	gram
+15149	Crustaceans, shrimp, mixed species, raw (may have been previously frozen)	Krewetka	medium	37930	œrednia
+15149	Crustaceans, shrimp, mixed species, raw (may have been previously frozen)	Krewetka	small	37931	ma³a
+15149	Crustaceans, shrimp, mixed species, raw (may have been previously frozen)	Krewetka	oz	37932	uncja (28 gram)
+15149	Crustaceans, shrimp, mixed species, raw (may have been previously frozen)	Krewetka	large	37933	du¿a
+15154	Crustaceans, spiny lobster, mixed species, raw	Langusta	gram	37934	gram
+15154	Crustaceans, spiny lobster, mixed species, raw	Langusta	oz	37935	uncja (28 gram)
+15154	Crustaceans, spiny lobster, mixed species, raw	Langusta	lobster	37936	sztuka
+15157	Mollusks, clam, mixed species, raw	Ma³¿	gram	37937	gram
+15157	Mollusks, clam, mixed species, raw	Ma³¿	oz	37938	uncja (28 gram)
+15157	Mollusks, clam, mixed species, raw	Ma³¿	large	37939	du¿y
+15157	Mollusks, clam, mixed species, raw	Ma³¿	lb (with shell), yield after shell removed	37940	funt (450 gram)
+15157	Mollusks, clam, mixed species, raw	Ma³¿	medium	37941	œredni
+15157	Mollusks, clam, mixed species, raw	Ma³¿	small	37942	ma³y
+15157	Mollusks, clam, mixed species, raw	Ma³¿	cup (with liquid and clams)	37943	szklanka
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	gram	37944	gram
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	cup	37945	szklanka
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	oz	37946	uncja (28 gram)
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	large	37947	du¿y
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	medium	37948	œredni
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	small	37949	ma³y
+15164	Mollusks, mussel, blue, raw	Omu³ek jadalny (muszla)	oz	37950	uncja (28 gram)
+15167	Mollusks, oyster, eastern, wild, raw	Ostrygi, wschodnie	gram	37951	gram
+15167	Mollusks, oyster, eastern, wild, raw	Ostrygi, wschodnie	medium	37952	œrednie
+15167	Mollusks, oyster, eastern, wild, raw	Ostrygi, wschodnie	cup	37953	szklanka
+15171	Mollusks, oyster, Pacific, raw	Ostrygi, pacyficzne	gram	37954	gram
+15171	Mollusks, oyster, Pacific, raw	Ostrygi, pacyficzne	medium	37955	œrednie
+15171	Mollusks, oyster, Pacific, raw	Ostrygi, pacyficzne	oz	37956	uncja (28 gram)
+15185	Fish, tuna, white, canned in oil, without salt, drained solids	Tuñczyk, w oleju	gram	37957	gram
+15185	Fish, tuna, white, canned in oil, without salt, drained solids	Tuñczyk, w oleju	oz	37958	uncja (28 gram)
+15185	Fish, tuna, white, canned in oil, without salt, drained solids	Tuñczyk, w oleju	can	37959	puszka
+15186	Fish, tuna, white, canned in water, without salt, drained solids	Tuñczyk, w wodzie	gram	37960	gram
+15186	Fish, tuna, white, canned in water, without salt, drained solids	Tuñczyk, w wodzie	oz	37961	uncja (28 gram)
+15186	Fish, tuna, white, canned in water, without salt, drained solids	Tuñczyk, w wodzie	can	37962	puszka
+15236	Fish, salmon, Atlantic, farmed, raw	£osoœ atlantycki, hodowlany	gram	37963	gram
+15236	Fish, salmon, Atlantic, farmed, raw	£osoœ atlantycki, hodowlany	oz	37964	uncja (28 gram)
+15236	Fish, salmon, Atlantic, farmed, raw	£osoœ atlantycki, hodowlany	fillet	37965	filet
+15240	Fish, trout, rainbow, farmed, raw	Pstr¹g têczowy, hodowlany	gram	37969	gram
+15240	Fish, trout, rainbow, farmed, raw	Pstr¹g têczowy, hodowlany	fillet	37970	filet
+15240	Fish, trout, rainbow, farmed, raw	Pstr¹g têczowy, hodowlany	oz	37971	uncja (28 gram)
+15245	Mollusks, oyster, eastern, farmed, raw	Ostrygi, zachodnie	gram	37972	gram
+15245	Mollusks, oyster, eastern, farmed, raw	Ostrygi, zachodnie	oz	37973	uncja (28 gram)
+15245	Mollusks, oyster, eastern, farmed, raw	Ostrygi, zachodnie	medium	37974	œrednie
+15261	Fish, tilapia, raw	Tilapia	gram	37975	gram
+15261	Fish, tilapia, raw	Tilapia	fillet	37976	filet
+15268	Fish, cod, Pacific, raw (not previously frozen)	Dorsz pacyficzny	gram	37979	gram
+15268	Fish, cod, Pacific, raw (not previously frozen)	Dorsz pacyficzny	oz	37980	uncja (28 gram)
+16014	Beans, black, mature seeds, raw	Fasola, czarna (Mungo)	gram	37981	gram
+16014	Beans, black, mature seeds, raw	Fasola, czarna (Mungo)	cup	37982	szklanka
+16014	Beans, black, mature seeds, raw	Fasola, czarna (Mungo)	tbsp	37983	³y¿ka
+16035	Beans, kidney, royal red, mature seeds, raw	Fasola, czerwona	gram	37984	gram
+16035	Beans, kidney, royal red, mature seeds, raw	Fasola, czerwona	cup	37985	szklanka
+16040	Beans, pink, mature seeds, raw	Fasola, ró¿owa	gram	37986	gram
+16040	Beans, pink, mature seeds, raw	Fasola, ró¿owa	cup	37987	szklanka
+16055	Carob flour	Karob	gram	37988	gram
+16055	Carob flour	Karob	cup	37989	szklanka
+16055	Carob flour	Karob	tbsp	37990	³y¿ka
+16069	Lentils, raw	Soczewica	gram	37991	gram
+16069	Lentils, raw	Soczewica	cup	37992	szklanka
+16069	Lentils, raw	Soczewica	tablespoon	37993	³y¿ka
+16071	Lima beans, large, mature seeds, raw	Fasola limeñska, dojrza³a	gram	37994	gram
+16071	Lima beans, large, mature seeds, raw	Fasola limeñska, dojrza³a	cup	37995	szklanka
+16071	Lima beans, large, mature seeds, raw	Fasola limeñska, dojrza³a	tbsp	37996	³y¿ka
+16074	Lima beans, thin seeded (baby), mature seeds, raw	Fasola limeñska, baby, dojrza³a	gram	37997	gram
+16074	Lima beans, thin seeded (baby), mature seeds, raw	Fasola limeñska, baby, dojrza³a	cup	37998	szklanka
+16085	Peas, green, split, mature seeds, raw	Groch zwyczajny, dojrza³e nasiona	gram	37999	gram
+16085	Peas, green, split, mature seeds, raw	Groch zwyczajny, dojrza³e nasiona	cup	38000	szklanka
+16085	Peas, green, split, mature seeds, raw	Groch zwyczajny, dojrza³e nasiona	lb	38001	funt (450 gram)
+16091	Peanuts, spanish, raw	Orzechy ziemne, hiszpañskie	gram	38002	gram
+16091	Peanuts, spanish, raw	Orzechy ziemne, hiszpañskie	cup	38003	szklanka
+16091	Peanuts, spanish, raw	Orzechy ziemne, hiszpañskie	oz	38004	uncja (28 gram)
+16093	Peanuts, valencia, raw	Orzechy ziemne, odmiana Valencia	gram	38005	gram
+16093	Peanuts, valencia, raw	Orzechy ziemne, odmiana Valencia	cup	38006	szklanka
+16093	Peanuts, valencia, raw	Orzechy ziemne, odmiana Valencia	oz	38007	uncja (28 gram)
+16095	Peanuts, virginia, raw	Orzechy ziemne, odmiana Virginia	gram	38008	gram
+16095	Peanuts, virginia, raw	Orzechy ziemne, odmiana Virginia	cup	38009	szklanka
+16095	Peanuts, virginia, raw	Orzechy ziemne, odmiana Virginia	oz	38010	uncja (28 gram)
+16108	Soybeans, mature seeds, raw	Soja	gram	38011	gram
+16108	Soybeans, mature seeds, raw	Soja	cup	38012	szklanka
+16133	Yardlong beans, mature seeds, raw	Wspiêga chiñska	gram	38013	gram
+16133	Yardlong beans, mature seeds, raw	Wspiêga chiñska	cup	38014	szklanka
+16144	Lentils, pink or red, raw	Soczewica, ró¿owa lub czerwona	gram	38015	gram
+16144	Lentils, pink or red, raw	Soczewica, ró¿owa lub czerwona	cup	38016	szklanka
+16150	Peanut butter, smooth, reduced fat	Mas³o orzechowe, g³adkie, light	gram	38017	gram
+16150	Peanut butter, smooth, reduced fat	Mas³o orzechowe, g³adkie, light	tablespoon	38018	³y¿ka
+16158	Hummus, commercial	Hummus	gram	38019	gram
+16158	Hummus, commercial	Hummus	tbsp	38020	³y¿ka
+16158	Hummus, commercial	Hummus	cup	38021	szklanka
+16223	Soymilk (All flavors), enhanced	Mleko, sojowe	gram	38022	gram
+16223	Soymilk (All flavors), enhanced	Mleko, sojowe	cup	38023	szklanka
+16397	Peanut butter, chunk style, without salt	Mas³o orzechowe, crunchy, bez soli	gram	38024	gram
+16397	Peanut butter, chunk style, without salt	Mas³o orzechowe, crunchy, bez soli	tbsp	38025	³y¿ka
+16397	Peanut butter, chunk style, without salt	Mas³o orzechowe, crunchy, bez soli	cup	38026	szklanka
+16398	Peanut butter, smooth style, without salt	Mas³o orzechowe, g³adkie, bez soli	gram	38027	gram
+16398	Peanut butter, smooth style, without salt	Mas³o orzechowe, g³adkie, bez soli	tbsp	38028	³y¿ka
+16398	Peanut butter, smooth style, without salt	Mas³o orzechowe, g³adkie, bez soli	cup	38029	szklanka
+16399	Peanut butter with omega-3, creamy	Mas³o orzechowe, z Omega-3	gram	38030	gram
+16399	Peanut butter with omega-3, creamy	Mas³o orzechowe, z Omega-3	tbsp	38031	³y¿ka
+16424	Soy sauce made from soy and wheat (shoyu), low sodium	Sos sojowy	gram	38034	gram
+16424	Soy sauce made from soy and wheat (shoyu), low sodium	Sos sojowy	tbsp	38035	³y¿ka
+16424	Soy sauce made from soy and wheat (shoyu), low sodium	Sos sojowy	tsp	38036	³y¿eczka
+16424	Soy sauce made from soy and wheat (shoyu), low sodium	Sos sojowy	cup	38037	szklanka
+16426	Tofu, raw, firm, prepared with calcium sulfate	Tofu zwyczajne	gram	38038	gram
+16426	Tofu, raw, firm, prepared with calcium sulfate	Tofu zwyczajne	cup	38039	szklanka
+16426	Tofu, raw, firm, prepared with calcium sulfate	Tofu zwyczajne	block	38040	kawa³ek
+16427	Tofu, raw, regular, prepared with calcium sulfate	Tofu jedwabiste	gram	38041	gram
+16427	Tofu, raw, regular, prepared with calcium sulfate	Tofu jedwabiste	cup	38042	szklanka
+16427	Tofu, raw, regular, prepared with calcium sulfate	Tofu jedwabiste	block	38043	kawa³ek
+17009	"Lamb, domestic, foreshank, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, udziec	gram	38047	gram
+17009	"Lamb, domestic, foreshank, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, udziec	oz	38048	uncja (28 gram)
+17009	"Lamb, domestic, foreshank, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, udziec	lb	38049	funt (450 gram)
+17013	"Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, noga	gram	38050	gram
+17013	"Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, noga	oz	38051	uncja (28 gram)
+17013	"Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, noga	lb	38052	funt (450 gram)
+17017	"Lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, goleñ	gram	38053	gram
+17017	"Lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, goleñ	oz	38054	uncja (28 gram)
+17017	"Lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, goleñ	lb	38055	funt (450 gram)
+17026	"Lamb, domestic, loin, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, polêdwica	gram	38059	gram
+17026	"Lamb, domestic, loin, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, polêdwica	oz	38060	uncja (28 gram)
+17026	"Lamb, domestic, loin, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, polêdwica	chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 120 g)	38061	160 gram
+17032	"Lamb, domestic, rib, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ¿ebro	gram	38062	gram
+17032	"Lamb, domestic, rib, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ¿ebro	oz	38063	uncja (28 gram)
+17032	"Lamb, domestic, rib, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ¿ebro	lb	38064	funt (450 gram)
+17039	"Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ³opatka, ca³a	gram	38065	gram
+17039	"Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ³opatka, ca³a	oz	38066	uncja (28 gram)
+17039	"Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, ³opatka, ca³a	lb	38067	funt (450 gram)
+17047	"Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, pachwina	gram	38068	gram
+17047	"Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, pachwina	oz	38069	uncja (28 gram)
+17047	"Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, pachwina	chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 160 g)	38070	160 gram
+17055	"Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, karkówka	gram	38071	gram
+17055	"Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, karkówka	oz	38072	uncja (28 gram)
+17055	"Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4"" fat, choice, raw"	Jagniêcina, karkówka	lb	38073	funt (450 gram)
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	gram	38093	gram
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	"mini bagel (2-1/2"" dia)"	38094	malutki
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	"small bagel (3"" dia)"	38095	ma³y
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	"medium bagel (3-1/2"" to 4"" dia)"	38096	œredni
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	"large bagel (4-1/2"" dia)"	38097	du¿y
+18005	Bagels, cinnamon-raisin	Bajgiel, cynamonowo-rodzynkowy	oz	38098	uncja (28 gram)
+18007	Bagels, oat bran	Bajgiel, otrêbowy	gram	38099	gram
+18007	Bagels, oat bran	Bajgiel, otrêbowy	"mini bagel (2-1/2"" dia)"	38100	malutki
+18007	Bagels, oat bran	Bajgiel, otrêbowy	"small bagel (3"" dia)"	38101	ma³y
+18007	Bagels, oat bran	Bajgiel, otrêbowy	"medium bagel (3-1/2"" to 4"" dia)"	38102	œredni
+18007	Bagels, oat bran	Bajgiel, otrêbowy	"large bagel (4-1/2"" dia)"	38103	du¿y
+18007	Bagels, oat bran	Bajgiel, otrêbowy	oz	38104	uncja (28 gram)
+18019	Bread, banana, prepared from recipe, made with margarine	Chleb bananowy, z margaryn¹	gram	38105	gram
+18019	Bread, banana, prepared from recipe, made with margarine	Chleb bananowy, z margaryn¹	oz	38106	uncja (28 gram)
+18019	Bread, banana, prepared from recipe, made with margarine	Chleb bananowy, z margaryn¹	individual loaf (include Keebler Elfin Loaves)	38107	bochenek
+18019	Bread, banana, prepared from recipe, made with margarine	Chleb bananowy, z margaryn¹	slice	38108	kromka
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	gram	38112	gram
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	oz	38113	uncja (28 gram)
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	cubic inch	38114	kostka
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice, large or thick	38115	kromka, gruba
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice, regular	38116	kromka, zwyk³a
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice regular, crust not eaten	38117	kromka, bez skórki
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice	38118	kromka
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice, thin	38119	kromka, cienka
+18025	Bread, cracked-wheat	Chleb pszenno-¿ytni	slice thin, crust not eaten	38120	kromka, cienka, bez skórki
+18029	Bread, french or vienna (includes sourdough)	Chleb, francuski, na zakwasie	gram	38121	gram
+18029	Bread, french or vienna (includes sourdough)	Chleb, francuski, na zakwasie	oz	38122	uncja (28 gram)
+18029	Bread, french or vienna (includes sourdough)	Chleb, francuski, na zakwasie	slice	38123	kromka
+18032	Bread, irish soda, prepared from recipe	Chleb, irlandzki	gram	38129	gram
+18032	Bread, irish soda, prepared from recipe	Chleb, irlandzki	oz	38130	uncja (28 gram)
+18033	Bread, italian	Chleb, w³oski	gram	38131	gram
+18033	Bread, italian	Chleb, w³oski	oz	38132	uncja (28 gram)
+18033	Bread, italian	Chleb, w³oski	"slice, large (4-1/2"" x 3-1/4"" x 3/4"")"	38133	kromka, gruba
+18033	Bread, italian	Chleb, w³oski	slice, medium	38134	kromka
+18033	Bread, italian	Chleb, w³oski	"slice, small (3-1/4"" x 2-1/2"" x 1/2"")"	38135	kromka, cienka
+18036	Bread, multi-grain, toasted (includes whole-grain)	Chleb wieloziarnisty	gram	38136	gram
+18036	Bread, multi-grain, toasted (includes whole-grain)	Chleb wieloziarnisty	oz	38137	uncja (28 gram)
+18036	Bread, multi-grain, toasted (includes whole-grain)	Chleb wieloziarnisty	slice regular	38138	kromka
+18036	Bread, multi-grain, toasted (includes whole-grain)	Chleb wieloziarnisty	slice large	38139	kromka, du¿a
+18037	Bread, oat bran	Chleb otrêbowy	gram	38140	gram
+18037	Bread, oat bran	Chleb otrêbowy	oz	38141	uncja (28 gram)
+18037	Bread, oat bran	Chleb otrêbowy	slice	38142	kromka
+18039	Bread, oatmeal	Chleb owsiany	gram	38143	gram
+18039	Bread, oatmeal	Chleb owsiany	oz	38144	uncja (28 gram)
+18039	Bread, oatmeal	Chleb owsiany	slice	38145	kromka
+18041	Bread, pita, white, enriched	Pita	gram	38146	gram
+18041	Bread, pita, white, enriched	Pita	"pita, large (6-1/2"" dia)"	38147	du¿a
+18041	Bread, pita, white, enriched	Pita	"pita, small  (4"" dia)"	38148	ma³a
+18042	Bread, pita, whole-wheat	Pita pe³noziarnista	gram	38149	gram
+18042	Bread, pita, whole-wheat	Pita pe³noziarnista	"pita, large (6-1/2"" dia)"	38150	du¿a
+18042	Bread, pita, whole-wheat	Pita pe³noziarnista	"pita, small  (4"" dia)"	38151	ma³a
+18043	Bread, protein (includes gluten)	Chleb bia³kowy (z glutenem)	gram	38152	gram
+18043	Bread, protein (includes gluten)	Chleb bia³kowy (z glutenem)	oz	38153	uncja (28 gram)
+18043	Bread, protein (includes gluten)	Chleb bia³kowy (z glutenem)	slice	38154	kromka
+18044	Bread, pumpernickel	Pumpernikiel	gram	38155	gram
+18044	Bread, pumpernickel	Pumpernikiel	oz	38156	uncja (28 gram)
+18044	Bread, pumpernickel	Pumpernikiel	slice, regular	38157	kromka
+18044	Bread, pumpernickel	Pumpernikiel	slice, snack-size	38158	kromka, cienki
+18044	Bread, pumpernickel	Pumpernikiel	slice, thin	38159	kromka, gruby
+18044	Bread, pumpernickel	Pumpernikiel	"slice (5"" x 4"" x 3/8"")"	38160	kromka, œredni
+18047	Bread, raisin, enriched	Chleb z rodzynkami	gram	38161	gram
+18047	Bread, raisin, enriched	Chleb z rodzynkami	oz	38162	uncja (28 gram)
+18047	Bread, raisin, enriched	Chleb z rodzynkami	slice, large	38163	kromka, du¿a
+18047	Bread, raisin, enriched	Chleb z rodzynkami	slice	38164	kromka
+18047	Bread, raisin, enriched	Chleb z rodzynkami	slice, thin	38165	kromka, cienka
+18055	Bread, reduced-calorie, wheat	Chleb pszenny, light	gram	38166	gram
+18055	Bread, reduced-calorie, wheat	Chleb pszenny, light	oz	38167	uncja (28 gram)
+18055	Bread, reduced-calorie, wheat	Chleb pszenny, light	slice	38168	kromka
+18057	Bread, reduced-calorie, white	Chleb zwyczajny	gram	38169	gram
+18057	Bread, reduced-calorie, white	Chleb zwyczajny	oz	38170	uncja (28 gram)
+18057	Bread, reduced-calorie, white	Chleb zwyczajny	slice	38171	plaster
+18059	Bread, rice bran	Chleb ry¿owy	gram	38172	gram
+18059	Bread, rice bran	Chleb ry¿owy	oz	38173	uncja (28 gram)
+18059	Bread, rice bran	Chleb ry¿owy	slice	38174	kromka
+18060	Bread, rye	Chleb ¿ytni	gram	38175	gram
+18060	Bread, rye	Chleb ¿ytni	oz	38176	uncja (28 gram)
+18060	Bread, rye	Chleb ¿ytni	slice, regular	38177	kromka
+18060	Bread, rye	Chleb ¿ytni	slice, snack-size	38178	kromka, cienka
+18060	Bread, rye	Chleb ¿ytni	slice, thin	38179	kromka, gruba
+18064	Bread, wheat	Chleb pszenny	gram	38180	gram
+18064	Bread, wheat	Chleb pszenny	oz	38181	uncja (28 gram)
+18064	Bread, wheat	Chleb pszenny	slice	38182	plaster
+18066	Bread, wheat bran	Chleb otrêbowy	gram	38183	gram
+18066	Bread, wheat bran	Chleb otrêbowy	oz	38184	uncja (28 gram)
+18066	Bread, wheat bran	Chleb otrêbowy	slice	38185	kromka
+18080	Bread sticks, plain	Paluszek chlebowy	gram	38186	gram
+18080	Bread sticks, plain	Paluszek chlebowy	cup, small pieces	38187	szklanka, kawa³ki
+18080	Bread sticks, plain	Paluszek chlebowy	"stick, small (approx 4-1/4"" long)"	38188	ma³y
+18080	Bread sticks, plain	Paluszek chlebowy	"stick (7-5/8"" x 5/8"")"	38189	œredni
+18080	Bread sticks, plain	Paluszek chlebowy	"stick (9-1/4"" x 3/8"")"	38190	du¿y
+18239	Croissants, butter	Croissant maœlany	gram	38191	gram
+18239	Croissants, butter	Croissant maœlany	oz	38192	uncja (28 gram)
+18239	Croissants, butter	Croissant maœlany	croissant, mini	38193	malutki
+18239	Croissants, butter	Croissant maœlany	croissant, small	38194	ma³y
+18239	Croissants, butter	Croissant maœlany	croissant, medium	38195	œredni
+18239	Croissants, butter	Croissant maœlany	croissant, large	38196	du¿y
+18963	Garlic bread, frozen	Pieczywo czosnkowe	gram	38197	gram
+18963	Garlic bread, frozen	Pieczywo czosnkowe	slice presliced	38198	kawa³ek
+18963	Garlic bread, frozen	Pieczywo czosnkowe	slice	38199	plaster
+18964	Cinnamon buns, frosted (includes honey buns)	Bu³eczka cynamonowa	gram	38200	gram
+18964	Cinnamon buns, frosted (includes honey buns)	Bu³eczka cynamonowa	bun	38201	sztuka
+18966	Crackers, saltines, whole wheat (includes multi-grain)	Krakers solony	gram	38202	gram
+18966	Crackers, saltines, whole wheat (includes multi-grain)	Krakers solony	serving	38203	porcja
+18967	Bread, white wheat	Bajgiel, pszeniczny	gram	38204	gram
+18967	Bread, white wheat	Bajgiel, pszeniczny	slice	38205	plaster
+18968	Bagels, wheat	Bajgiel, pe³noziarnisty	gram	38206	gram
+18968	Bagels, wheat	Bajgiel, pe³noziarnisty	bagel	38207	sztuka
+18973	Focaccia, Italian flatbread, plain	Foccacia	gram	38208	gram
+18973	Focaccia, Italian flatbread, plain	Foccacia	piece	38209	kawa³ek
+19296	Honey	Miód	gram	38210	gram
+19296	Honey	Miód	cup	38211	szklanka
+19296	Honey	Miód	tbsp	38212	³y¿ka
+19296	Honey	Miód	packet (0.5 oz)	38213	paczka (16 gram)
+19334	Sugars, brown	Cukier br¹zowy	gram	38214	gram
+19334	Sugars, brown	Cukier br¹zowy	tsp unpacked	38215	³y¿eczka
+19334	Sugars, brown	Cukier br¹zowy	cup packed	38216	szklanka, upakowany
+19334	Sugars, brown	Cukier br¹zowy	cup unpacked	38217	szklanka, nieupakowany
+19334	Sugars, brown	Cukier br¹zowy	tsp packed	38218	³y¿eczka, upakowany
+19334	Sugars, brown	Cukier br¹zowy	tsp brownulated	38219	³y¿eczka, nieupakowany
+19335	Sugars, granulated	Cukier bia³y	gram	38220	gram
+19335	Sugars, granulated	Cukier bia³y	serving packet	38221	paczka
+19335	Sugars, granulated	Cukier bia³y	tsp	38222	³y¿eczka
+19335	Sugars, granulated	Cukier bia³y	cup	38223	szklanka
+19335	Sugars, granulated	Cukier bia³y	serving 1 cube	38224	kostka
+19336	Sugars, powdered	Cukier puder	gram	38225	gram
+19336	Sugars, powdered	Cukier puder	cup unsifted	38226	szklanka, nieprzesiany
+19336	Sugars, powdered	Cukier puder	cup sifted	38227	szklanka, przesiany
+19336	Sugars, powdered	Cukier puder	tbsp unsifted	38228	³y¿ka, nieprzesiana
+19336	Sugars, powdered	Cukier puder	tsp	38229	³y¿eczka
+19340	Sugars, maple	Klon	gram	38230	gram
+19340	Sugars, maple	Klon	tsp	38231	³y¿eczka
+19340	Sugars, maple	Klon	oz	38232	uncja (28 gram)
+19340	Sugars, maple	Klon	"piece (1-3/4"" x 1-1/4"" x 1/2"")"	38233	kawa³ek
+19400	Snacks, banana chips	Czipsy bananowe	gram	38234	gram
+19400	Snacks, banana chips	Czipsy bananowe	oz	38235	uncja (28 gram)
+19400	Snacks, banana chips	Czipsy bananowe	oz	38236	uncja (28 gram)
+19400	Snacks, banana chips	Czipsy bananowe	oz	38237	uncja (28 gram)
+19902	Chocolate, dark, 45- 59% cacao solids	Czekolada, gorzka, 45-59% kakao	gram	38238	gram
+19902	Chocolate, dark, 45- 59% cacao solids	Czekolada, gorzka, 45-59% kakao	oz	38239	uncja (28 gram)
+19902	Chocolate, dark, 45- 59% cacao solids	Czekolada, gorzka, 45-59% kakao	bar	38240	tabliczka
+19904	Chocolate, dark, 70-85% cacao solids	Czekolada, gorzka, 70%-85% kakao	gram	38241	gram
+19904	Chocolate, dark, 70-85% cacao solids	Czekolada, gorzka, 70%-85% kakao	oz	38242	uncja (28 gram)
+19904	Chocolate, dark, 70-85% cacao solids	Czekolada, gorzka, 70%-85% kakao	bar	38243	tabliczka
+19912	Sweetener, syrup, agave	Agawa	gram	38244	gram
+19912	Sweetener, syrup, agave	Agawa	tsp	38245	³y¿eczka
+19912	Sweetener, syrup, agave	Agawa	cup	38246	szklanka
+20012	Bulgur, dry	Kasza bulgur	gram	38247	gram
+20012	Bulgur, dry	Kasza bulgur	cup	38248	szklanka
+20035	Quinoa, uncooked	Komosa ry¿owa	gram	38249	gram
+20035	Quinoa, uncooked	Komosa ry¿owa	cup	38250	szklanka
+20038	Oats	Otrêby	gram	38251	gram
+20038	Oats	Otrêby	cup	38252	szklanka
+20040	Rice, brown, medium-grain, raw	Ry¿ br¹zowy, œrednioziarnisty	gram	38253	gram
+20040	Rice, brown, medium-grain, raw	Ry¿ br¹zowy, œrednioziarnisty	cup	38254	szklanka
+20050	Rice, white, medium-grain, raw, enriched	Ry¿ bia³y, œrednioziarnisty, wzbogacany	gram	38255	gram
+20050	Rice, white, medium-grain, raw, enriched	Ry¿ bia³y, œrednioziarnisty, wzbogacany	cup	38256	szklanka
+20071	Wheat, hard red spring	Pszenica, twarda, jara	gram	38257	gram
+20071	Wheat, hard red spring	Pszenica, twarda, jara	cup	38258	szklanka
+20072	Wheat, hard red winter	Pszenica, twarda, ozima	gram	38259	gram
+20072	Wheat, hard red winter	Pszenica, twarda, ozima	cup	38260	szklanka
+20073	Wheat, soft red winter	Pszenica, miêkka, ozima, czerwona	gram	38261	gram
+20073	Wheat, soft red winter	Pszenica, miêkka, ozima, czerwona	cup	38262	szklanka
+20074	Wheat, hard white	Pszenica, twarda, jasna	gram	38263	gram
+20074	Wheat, hard white	Pszenica, twarda, jasna	cup	38264	szklanka
+20075	Wheat, soft white	Pszenica, miêkka, jasna	gram	38265	gram
+20075	Wheat, soft white	Pszenica, miêkka, jasna	cup	38266	szklanka
+20076	Wheat, durum	Pszenica, durum (twarda)	gram	38267	gram
+20076	Wheat, durum	Pszenica, durum (twarda)	cup	38268	szklanka
+20080	Wheat flour, whole-grain	M¹ka pe³noziarnista	gram	38269	gram
+20080	Wheat flour, whole-grain	M¹ka pe³noziarnista	cup	38270	szklanka
+20081	Wheat flour, white, all-purpose, enriched, bleached	M¹ka pszenna, do wszystkiego, wzbogacana	gram	38271	gram
+20081	Wheat flour, white, all-purpose, enriched, bleached	M¹ka pszenna, do wszystkiego, wzbogacana	cup	38272	szklanka
+20082	Wheat flour, white, all-purpose, self-rising, enriched	M¹ka pszenna, do wszystkiego	gram	38273	gram
+20082	Wheat flour, white, all-purpose, self-rising, enriched	M¹ka pszenna, do wszystkiego	cup	38274	szklanka
+20083	Wheat flour, white, bread, enriched	M¹ka pszenna, do chleba	gram	38275	gram
+20083	Wheat flour, white, bread, enriched	M¹ka pszenna, do chleba	cup	38276	szklanka
+20084	Wheat flour, white, cake, enriched	M¹ka pszenna, do ciast	gram	38277	gram
+20084	Wheat flour, white, cake, enriched	M¹ka pszenna, do ciast	cup unsifted, dipped	38278	szklanka, nieprzesiana
+20086	Wheat flour, white, tortilla mix, enriched	M¹ka pszenna, do tortilli	gram	38279	gram
+20086	Wheat flour, white, tortilla mix, enriched	M¹ka pszenna, do tortilli	cup	38280	szklanka
+20087	Wheat, sprouted	Pszenica, kie³ki	gram	38281	gram
+20087	Wheat, sprouted	Pszenica, kie³ki	cup	38282	szklanka
+20088	Wild rice, raw	Dziki ry¿	gram	38283	gram
+20088	Wild rice, raw	Dziki ry¿	cup	38284	szklanka
+20090	Rice flour, brown	M¹ka ry¿owa, br¹zowa	gram	38285	gram
+20090	Rice flour, brown	M¹ka ry¿owa, br¹zowa	cup	38286	szklanka
+20444	Rice, white, long-grain, regular, raw, unenriched	Ry¿ bia³y, d³ugoziarnisty	gram	38287	gram
+20444	Rice, white, long-grain, regular, raw, unenriched	Ry¿ bia³y, d³ugoziarnisty	cup	38288	szklanka
+20446	Rice, white, long-grain, parboiled, unenriched, dry	Ry¿ bia³y, d³ugoziarnisty, paraboiled	gram	38289	gram
+20446	Rice, white, long-grain, parboiled, unenriched, dry	Ry¿ bia³y, d³ugoziarnisty, paraboiled	cup	38290	szklanka
+20450	Rice, white, medium-grain, raw, unenriched	Ry¿ bia³y, œrednioziarnisty	gram	38291	gram
+20450	Rice, white, medium-grain, raw, unenriched	Ry¿ bia³y, œrednioziarnisty	cup	38292	szklanka
+20452	Rice, white, short-grain, raw, unenriched	Ry¿ bia³y, krótkoziarnisty	gram	38293	gram
+20452	Rice, white, short-grain, raw, unenriched	Ry¿ bia³y, krótkoziarnisty	cup	38294	szklanka
+20466	Semolina, unenriched	Kasza manna	gram	38295	gram
+20466	Semolina, unenriched	Kasza manna	cup	38296	szklanka
+25071	Rice crackers	Wafle ry¿owe	gram	38297	gram
+27064	Wasabi	Wasabi	gram	38298	gram
+27064	Wasabi	Wasabi	tablespoon	38299	³y¿ka
+27064	Wasabi	Wasabi	teaspoon	38300	³y¿eczka
+35015	Blackberries, wild, raw (Alaska Native)	Je¿yny	gram	38301	gram
+35015	Blackberries, wild, raw (Alaska Native)	Je¿yny	cup	38302	szklanka
+42040	Syrups, grenadine	Grenadyna	gram	38303	gram
+42040	Syrups, grenadine	Grenadyna	tbsp	38304	³y¿ka
+42040	Syrups, grenadine	Grenadyna	tsp	38305	³y¿eczka
+43154	Alcoholic beverage, wine, cooking	Wino do gotowania	gram	38306	gram
+43154	Alcoholic beverage, wine, cooking	Wino do gotowania	tsp	38307	³y¿eczka
+43154	Alcoholic beverage, wine, cooking	Wino do gotowania	fl oz	38308	uncja cieczy (60 ml)

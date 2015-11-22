@@ -26,7 +26,7 @@
         </div>
         <div class="col-md-4">
           <span>Ocena</span>
-          <span class="big"><%= @recipe.votes_for.size %></span>
+          <span class="big"><%= "#{@recipe.get_upvotes.size} / #{@recipe.votes_for.size}" %></span>
           <span>Si</span>
         </div>
       </div>
@@ -41,8 +41,8 @@
             <li class="list-group-item">
               <%
                  prod = ingredient.item
-                 prod = ingredient.product.name if prod.blank?
-                 mes = ingredient.measure.unit if ingredient.measure
+                 prod = ingredient.product.name_t if prod.blank?
+                 mes = ingredient.measure.unit_t if ingredient.measure
                  mes = "gram" if mes.blank?
               %>
 

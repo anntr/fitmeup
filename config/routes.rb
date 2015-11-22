@@ -11,7 +11,7 @@ Rails.application.routes.draw do
 
 
   resources :recipes do
-    get :autocomplete_product_name, :on => :collection
+    get :autocomplete_product_name_t, :on => :collection
     resources :ingredients
     resources :comments
     member do

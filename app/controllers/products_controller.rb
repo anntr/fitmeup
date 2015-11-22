@@ -49,8 +49,8 @@ class ProductsController < ApplicationController
 
 
   def measures
-    @product = Product.where(:name => params[:name]).first
-    @units = @product.measures.pluck(:unit)
+    @product = Product.where(:name_t => params[:name]).first
+    @units = @product.measures.pluck(:unit_t)
     respond_to do |format|
       format.json { render json: @units }
     end

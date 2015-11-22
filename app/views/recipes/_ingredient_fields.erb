@@ -3,19 +3,20 @@
     <div class="form-group col-md-4">
       <%= f.fields_for :product do |item| %>
           <% name = f.object.item %>
-          <% name = f.object.product.name if f.object.product %>
-          <%= item.autocomplete_field :name, autocomplete_product_name_recipes_path,
+          <% name = f.object.product.name_t if f.object.product %>
+          <%= item.autocomplete_field :name, autocomplete_product_name_t_recipes_path,
                                       placeholder: "Produkt", class: "form-control input-sm ingredient", value: name, :update_elements => {} %>
       <% end %>
     </div>
 
     <div class="form-group col-md-2">
+      <%= f.object.inspect %>
       <%= f.number_field :modifier, value: f.object.modifier || 1, class: "form-control input-sm" %>
     </div>
     <div class="form-group col-md-5">
       <% mes = [] %>
-      <% mes << f.object.measure.unit if f.object.measure %>
-      <% mes.concat(f.object.product.measures.pluck(:unit)) if f.object.product %>
+      <% mes << f.object.measure.unit_t if f.object.measure %>
+      <% mes.concat(f.object.product.measures.pluck(:unit_t)) if f.object.product %>
       <% mes.uniq!  %>
       <%= f.select :measure, mes, {}, {class: "form-control input-sm measures"} %>
     </div>
