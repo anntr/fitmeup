@@ -21,15 +21,24 @@ class RecipesController < ApplicationController
   end
 
   def upvote
+
     @recipe = Recipe.find(params[:id])
-    @recipe.liked_by current_user
-    redirect_to(@recipe, notice: "Głos został oddany")
+    if current_user.voted_up_for?(@recipe)|| current_user.voted_down_for?(@recipe)
+      redirect_to(@recipe, notice: "Oddałeś już swój głos na ten przepis")
+    else
+      @recipe.liked_by current_user
+      redirect_to(@recipe, notice: "Twoje Si! zostało dodane")
+    end
   end
 
   def downvote
     @recipe = Recipe.find(params[:id])
-    @recipe.downvote_from current_user
-    redirect_to(@recipe, notice: "Głos został oddany")
+    if current_user.voted_down_for?(@recipe) || current_user.voted_up_for?(@recipe)
+      redirect_to(@recipe, notice: "Oddałeś już swój głos na ten przepis")
+    else
+      @recipe.downvote_from current_user
+      redirect_to(@recipe, notice: "Twoje Ne. zostało dodane")
+    end
   end
 
   # GET /recipes/1/edit
