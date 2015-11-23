@@ -148,16 +148,15 @@ class RecipesController < ApplicationController
     def add_ingredients params
       ingredients = []
       params.each do |key, value|
-        ingredients << add_ingredient(value)
+        unless  value["product"]["name"].blank?
+          ingredients << add_ingredient(value)
+        end
       end
       @recipe.ingredients = ingredients
     end
 
     def add_ingredient params
-      puts "kurwaaaaaaa"
-      puts params
       ingredient = Ingredient.find_by_id(params["id"]) || Ingredient.new
-      puts "ingr : #{ingredient.inspect}"
       if ingredient.persisted? && params["_destroy"] != "false"
           ingredient.mark_for_destruction
       else
@@ -169,9 +168,7 @@ class RecipesController < ApplicationController
           ingredient.item = params["product"]["name"]
         end
       end
-
       ingredient.modifier = params["modifier"]
-      puts ingredient.inspect
       ingredient
     end
 
