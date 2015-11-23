@@ -18,7 +18,7 @@ class SessionsController < ApplicationController
 
   def destroy
     session[:user_id] = nil
-    redirect_to root_path, success: "Pomyślnie wylogowano użytkownika"
+    redirect_to root_path, notice: "Pomyślnie wylogowano użytkownika"
   end
 
   def session_params
