@@ -50,7 +50,7 @@ class RecipesController < ApplicationController
 
   def print_recipe
     @recipe = Recipe.find(params[:id])
-    send_data(generate_pdf(@recipe), :filename => "#{@recipe.name_t}.pdf", :type => "application/pdf")
+    send_data(generate_pdf(@recipe), :filename => "#{@recipe.name}.pdf", :type => "application/pdf")
   end
 
 
