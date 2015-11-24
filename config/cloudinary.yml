@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: drpjdwn1m
+  api_key: '237193271324544'
+  api_secret: 28MtJkeX1zXXAXIVkCI41HNzfY8
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: drpjdwn1m
+  api_key: '237193271324544'
+  api_secret: 28MtJkeX1zXXAXIVkCI41HNzfY8
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: drpjdwn1m
+  api_key: '237193271324544'
+  api_secret: 28MtJkeX1zXXAXIVkCI41HNzfY8
+  enhance_image_tag: true
+  static_image_support: false

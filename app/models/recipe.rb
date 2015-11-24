@@ -9,11 +9,7 @@ class Recipe < ActiveRecord::Base
   accepts_nested_attributes_for :ingredients, :reject_if => proc { |attributes| attributes.any? {|k,v| v.blank?} }, :allow_destroy => true, :limit => 20
   accepts_nested_attributes_for :products
 
-
-  has_attached_file :image, styles: { small: "64x64", med: "100x100", large: "200x200" }, :default_url => ActionController::Base.helpers.asset_path('/images/empty_s.jpg')
-  validates_attachment :image,:size => { :in => 0..1.megabytes }
-  validates_attachment_content_type :image,
-                                    :content_type => /^image\/(png|gif|jpeg)/
+  has_attachment :image, accept: [:jpg, :png, :gif]
 
   validates :name, :instructions, :category, :ingredients, presence: true
   validates :name, length: { in: 3..100, wrong_length: "Tytuł musi mieć od 3 do 100 znaków"}

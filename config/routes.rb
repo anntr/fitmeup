@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+
+  mount Attachinary::Engine => "/attachinary"
+
   get 'pages/main'
   get 'pages/about'
 

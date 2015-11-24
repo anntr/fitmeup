@@ -2,8 +2,11 @@
     <div class="col-md-4 col-sm-6 recipe">
       <%= link_to recipe_path(recipe) do %>
       <div class="panel panel-default">
-        <%= image_tag(recipe.image.url, class: "img-responsive") %>
-
+        <% if recipe.image %>
+            <%= cl_image_tag(recipe.image.path, class: "img-responsive center-block") %>
+        <%else%>
+            <%= image_tag("empty.jpg", class: "img-responsive center-block") %>
+        <%end%>
         <div class="panel-body">
           <p class='lead'><%= truncate(recipe.name) %></p>
           <hr><p class="text-muted cal"><%= recipe.calories %> kalorii</p></hr>

@@ -2,7 +2,11 @@
   <%= link_to 'Powrót', recipes_path, class: "btn btn-default" %>
   <div class="row bottom-margin">
     <div class="col-md-offset-2 col-md-8">
-      <%= image_tag @recipe.image.url, class: "img-responsive center-block" %>
+      <% if @recipe.image %>
+          <%= cl_image_tag(@recipe.image.path, class: "img-responsive center-block") %>
+      <%else%>
+          <%= image_tag("empty.jpg", class: "img-responsive center-block") %>
+      <%end%>
     </div>
   </div>
   <div class="row bottom-margin">

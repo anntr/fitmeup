@@ -8,6 +8,8 @@ Bundler.require(*Rails.groups)
 
 module Fitmeup
   class Application < Rails::Application
+    require "attachinary/orm/active_record" # active_record or mongoid
+
     #config.assets.paths << "#{Rails}/assets/fonts"
     #config.assets.paths << "#{Rails}/vendor/assets/fonts"
     config.assets.paths << "#{Rails}/assets/fonts"
