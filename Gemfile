@@ -58,3 +58,4 @@ gem 'json'
 gem 'acts_as_votable'
 gem 'acts_as_commentable'
 gem 'prawn'
+gem "responders"
