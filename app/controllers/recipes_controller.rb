@@ -135,6 +135,9 @@ class RecipesController < ApplicationController
 
     def generate_pdf recipe
       Prawn::Document.new do
+        font_families.update("Arial" => {
+                                 :normal => "public/assets/fonts/arial.ttf"})
+        font "Arial"
         text "Wygenerowano ze strony FitMeUp"
         text "#{Date.new}"
         move_down 100
@@ -146,7 +149,7 @@ class RecipesController < ApplicationController
           text recipe.instructions
           recipe.ingredients.each do |ingredient|
             if ingredient.product
-              text "#{ingredient.product.name}, #{ingredient.modifier} #{ingredient.measure.unit}"
+              text "#{ingredient.product.name_t}, #{ingredient.modifier} #{ingredient.measure.unit_t}"
             else
               text "#{ingredient.item}, #{ingredient.modifier} gram"
             end
