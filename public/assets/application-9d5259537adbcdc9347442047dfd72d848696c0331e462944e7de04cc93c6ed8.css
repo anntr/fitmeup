@@ -7152,3 +7152,11 @@ body{
     display: flex;
     background-color: #a94442;
 }
+
+
+.recipe
+a:active,
+a:hover{
+    color: #B82257;
+    text-decoration: none;
+}

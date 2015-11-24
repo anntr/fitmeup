@@ -7147,12 +7147,15 @@ body{
     font-size: 20px;
 }
 
-#error_explanation {
-    color: red;
+.field_with_errors{
+    padding: 1px;
+    display: flex;
+    background-color: #a94442;
 }
 
-#error_explanation ul {
-    color: red;
-    margin: 0 0 30px 0;
-}
 
+.recipe
+a:active,
+a:hover{
+    color: #B82257;
+}
