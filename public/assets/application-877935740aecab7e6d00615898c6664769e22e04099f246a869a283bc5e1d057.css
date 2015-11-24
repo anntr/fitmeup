@@ -7154,6 +7154,23 @@ body{
 }
 
 
-.recipe a:active{
+.recipe
+a:active,
+a:hover{
     color: #B82257;
+    text-decoration: none;
+}
+
+.item.recipe {
+    display: inline-block;
+    padding:  .25rem;
+    width:  100%;
+}
+
+.row.recipes {
+    -moz-column-width: 18em;
+    -webkit-column-width: 18em;
+    -moz-column-gap: 1em;
+    -webkit-column-gap:1em;
+
 }

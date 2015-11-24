@@ -19,12 +19,12 @@
   </ul>
 
   <div class="tab-content">
-    <div id="all" class="tab-pane fade active in"><%= render "recipes", :recipes => @recipes  %></div>
-    <div id="breakfast" class="tab-pane fade"><%= render "recipes", :recipes => @recipes.any_category("1")  %></div>
-    <div id="snack" class="tab-pane fade"><%= render "recipes", :recipes => @recipes.any_category("2")  %></div>
-    <div id="lunch" class="tab-pane fade "><%= render "recipes", :recipes => @recipes.any_category("3")%></div>
-    <div id="dinner" class="tab-pane fade"><%= render "recipes", :recipes => @recipes.any_category("4")  %></div>
-    <div id="private" class="tab-pane fade"><%= render "recipes", :recipes => Recipe.user_recipes(current_user)%></div>
+    <div id="all" class="tab-pane fade active in"><div class="row recipes"><%= render "recipes", :recipes => @recipes  %></div></div>
+    <div id="breakfast" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("1")  %></div></div>
+    <div id="snack" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("2")  %></div></div>
+    <div id="lunch" class="tab-pane fade "><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("3")%></div></div>
+    <div id="dinner" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("4")  %></div></div>
+    <div id="private" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => Recipe.user_recipes(current_user)%></div></div>
 
   </div>
 

@@ -191,7 +191,7 @@ body{
 }
 
 .recipe .lead{
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .recipe .cal{
@@ -210,4 +210,18 @@ a:active,
 a:hover{
     color: #B82257;
     text-decoration: none;
+}
+
+.item.recipe {
+    display: inline-block;
+    padding:  .25rem;
+    width:  100%;
+}
+
+.row.recipes {
+    -moz-column-width: 18em;
+    -webkit-column-width: 18em;
+    -moz-column-gap: 2em;
+    -webkit-column-gap:2em;
+
 }
