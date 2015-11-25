@@ -7140,7 +7140,7 @@ body{
 }
 
 .recipe .lead{
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .recipe .cal{
@@ -7165,4 +7165,29 @@ a:hover{
     display: inline-block;
     padding:  .25rem;
     width:  100%;
+}
+
+.row.recipes {
+    -moz-column-width: 18em;
+    -webkit-column-width: 18em;
+    -moz-column-gap: 2em;
+    -webkit-column-gap:2em;
+
+}
+
+
+.menu .recipe div{
+    -webkit-box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+    -moz-box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+    box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+}
+
+.menu .recipe .heading{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 25px;
+}
+
+.menu .recipe h2{
+    font-size: 20px;
 }

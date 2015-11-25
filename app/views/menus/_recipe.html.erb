@@ -1,0 +1,31 @@
+<div class="col-md-4">
+  <% if recipe.image %>
+      <%= cl_image_tag(recipe.image.path, class: "img-responsive center-block", :height => 300, :crop => :fill) %>
+  <%else%>
+      <%= image_tag("empty.jpg", class: "img-responsive center-block") %>
+  <%end%>
+</div>
+<div class="col-md-8">
+  <h2><%= recipe.name %></h2>
+  <div class="col-md-6 details">
+    <h2>Składniki</h2>
+    <ul class="list-group">
+      <% recipe.ingredients.each do |ingredient| %>
+          <li class="list-group-item">
+            <%
+               prod = ingredient.item
+               prod = ingredient.product.name_t if prod.blank?
+               mes = ingredient.measure.unit_t if ingredient.measure
+               mes = "gram" if mes.blank?
+            %>
+            <span><%= prod %></span>
+            <span style="float: right"><%= "#{ingredient.modifier} #{mes}" %></span>
+          </li>
+      <%end%>
+    </ul>
+  </div>
+  <div class="col-md-6 details">
+    <h2>Instrukcja</h2>
+    <p><%= truncate(recipe.instructions) %></p>
+  </div>
+</div>

@@ -26,8 +26,7 @@ class MenusController < ApplicationController
   end
 
   def save
-    @menu = params[:menu]
-    @menu.save!
+    menu.save!
     render "show"
   end
 
@@ -42,8 +41,8 @@ class MenusController < ApplicationController
     end
       laboratory = Laboratory.new scientist, database, 500
       res = laboratory.produce_result
-      parse_results(res.first.chromosome_set)
-
+     @menu = parse_results(res.first.chromosome_set)
+    @menu.save!
     render "show"
   end
 
@@ -90,8 +89,9 @@ class MenusController < ApplicationController
   private
 
     def parse_results results
-      @menu = Menu.new
-      @menu.recipes<<results
+      menu = Menu.new
+      menu.recipes<<results
+      menu
     end
 
     # Use callbacks to share common setup or constraints between actions.

@@ -7170,7 +7170,24 @@ a:hover{
 .row.recipes {
     -moz-column-width: 18em;
     -webkit-column-width: 18em;
-    -moz-column-gap: 1em;
-    -webkit-column-gap:1em;
+    -moz-column-gap: 2em;
+    -webkit-column-gap:2em;
 
+}
+
+
+.menu.row {
+    -webkit-box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+    -moz-box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+    box-shadow: 1px 3px 15px 1px rgba(128,128,128,1);
+}
+
+.menu .recipe .heading{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 25px;
+}
+
+.menu .recipe h2{
+    font-size: 20px;
 }

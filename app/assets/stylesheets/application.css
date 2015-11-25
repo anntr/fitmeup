@@ -221,7 +221,32 @@ a:hover{
 .row.recipes {
     -moz-column-width: 18em;
     -webkit-column-width: 18em;
-    -moz-column-gap: 1em;
-    -webkit-column-gap:1em;
+    -moz-column-gap: 2em;
+    -webkit-column-gap:2em;
 
+}
+
+
+.menu .row {
+    -webkit-box-shadow: 1px 1px 1px 1px rgb(204, 204, 204);
+    -moz-box-shadow: 1px 1px 1px 1px rgb(204, 204, 204);
+    box-shadow: 1px 1px 1px 1px rgb(204, 204, 204);
+    margin-bottom: 100px;
+    padding: 10px;
+}
+
+.menu  .heading{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 25px;
+    color: #505050;
+    letter-spacing: 1px;
+}
+
+.menu h2{
+    font-size: 20px;
+}
+
+.menu .details{
+    padding-left: 0;
 }

@@ -1,18 +1,15 @@
-<div class="row">
-<% @menu.recipes.each do |recipe| %>
-    <div class="col-md-6 col-md-offset-3">
-      <div class="panel panel-primary ">
-        <div class="panel-heading">
-          <span><%= recipe.name %></span>
-        </div>
-        <div class="panel-body">
-          <%= recipe.instructions %>
-        </div>
-        <div class="panel-footer"><%= recipe.calories %> kalorii</div>
-      </div>
+<div class="menu">
+<% @menu.recipes.each_with_index do |recipe, index| %>
+    <% puts recipe %>
+    <div class="row">
+        <div class="heading"><%= "#{index_to_category index} (#{recipe.calories} kcal)"%></div>
+            <hr>
+            <%= render "recipe", :recipe => recipe %>
     </div>
-<% end %>
+<%end%>
 </div>
+
+
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
 <%= link_to 'Back', menus_path, class: "btn btn-default" %>
