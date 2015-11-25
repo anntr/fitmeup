@@ -11,10 +11,12 @@
   <ul class="nav nav-pills" role="tablist">
     <li role="presentation" class="active"><%= link_to "Wszystkie", recipes_path, :remote => true %></li>
     <li role="presentation"><%= link_to "Śniadania", recipes_path( :any_category => "1"), :remote => true%></li>
-    <li role="presentation"><%= link_to "Lunche", recipes_path(:any_category => "2"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Drugie śniadania", recipes_path(:any_category => "2"), :remote => true%></li>
     <li role="presentation"><%= link_to "Obiady", recipes_path(:any_category => "3"), :remote => true%></li>
     <li role="presentation"><%= link_to "Przekąski", recipes_path(:any_category => "4"), :remote => true%></li>
     <li role="presentation"><%= link_to "Kolacje", recipes_path(:any_category => "5"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Twoje przepisy", recipes_path(:user_recipes => current_user), :remote => true%></li>
+
   </ul>
 
   <div class="row recipes" id="recipes"><%= render "recipes", :collection => @recipes  %></div>

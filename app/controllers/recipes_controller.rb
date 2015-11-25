@@ -5,7 +5,7 @@ class RecipesController < ApplicationController
 
   # GET /recipes.json
   def index
-    @recipes = Recipe.where(:private => false).page(params[:page]).per(20)
+    @recipes = Recipe.page(params[:page]).per(20)
 
     filtering_params(params).each do |key, value|
       @recipes = @recipes.public_send(key, value) if value.present?
@@ -16,6 +16,8 @@ class RecipesController < ApplicationController
       format.html
     end
   end
+
+
 
   # GET /recipes/1
   # GET /recipes/1.json
@@ -143,7 +145,7 @@ class RecipesController < ApplicationController
 
   # A list of the param names that can be used for filtering the Product list
   def filtering_params(params)
-    params.slice(:any_category)
+    params.slice(:any_category, :user_recipes)
   end
 
     def generate_pdf recipe
