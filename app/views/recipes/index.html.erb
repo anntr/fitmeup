@@ -8,29 +8,19 @@
 </div>
 
 <div class="row">
-  <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" data-target="#all">Wszystkie (<%= @recipes.count %>)</a></li>
-    <li><a data-toggle="tab" data-target="#breakfast">Śniadania (<%= @recipes.any_category("1").count %>)</a></li>
-    <li><a data-toggle="tab" data-target="#snack">Przekąski (<%=@recipes.any_category("2").count %>)</a></li>
-    <li><a data-toggle="tab" data-target="#lunch">Lunch (<%=@recipes.any_category("3").count %>)</a></li>
-    <li><a data-toggle="tab" data-target="#dinner">Obiady (<%=@recipes.any_category("4").count %>)</a></li>
-    <li><a data-toggle="tab" data-target="#private">Twoje przepisy (<%= Recipe.user_recipes(current_user).count%>)</a></li>
-
+  <ul class="nav nav-pills" role="tablist">
+    <li role="presentation" class="active"><%= link_to "Wszystkie", recipes_path, :remote => true %></li>
+    <li role="presentation"><%= link_to "Śniadania", recipes_path( :any_category => "1"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Lunche", recipes_path(:any_category => "2"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Obiady", recipes_path(:any_category => "3"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Przekąski", recipes_path(:any_category => "4"), :remote => true%></li>
+    <li role="presentation"><%= link_to "Kolacje", recipes_path(:any_category => "5"), :remote => true%></li>
   </ul>
 
-  <div class="tab-content">
-    <div id="all" class="tab-pane fade active in"><div class="row recipes"><%= render "recipes", :recipes => @recipes  %></div></div>
-    <div id="breakfast" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("1")  %></div></div>
-    <div id="snack" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("2")  %></div></div>
-    <div id="lunch" class="tab-pane fade "><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("3")%></div></div>
-    <div id="dinner" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => @recipes.any_category("4")  %></div></div>
-    <div id="private" class="tab-pane fade"><div class="row recipes"><%= render "recipes", :recipes => Recipe.user_recipes(current_user)%></div></div>
+  <div class="row recipes" id="recipes"><%= render "recipes", :collection => @recipes  %></div>
 
-  </div>
+  <%= paginate @recipes %>
+
 
 </div>
 </div>
-
-
-
-
