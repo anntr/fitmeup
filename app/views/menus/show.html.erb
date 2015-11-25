@@ -1,20 +1,38 @@
-<div class="menu">
-<% @menu.recipes.each_with_index do |recipe, index| %>
-    <% puts recipe %>
-    <div class="row">
-        <div class="heading"><%= "#{index_to_category index} (#{recipe.calories} kcal)"%></div>
-            <hr>
-            <%= render "recipe", :recipe => recipe %>
+<div class="row bottom-margin">
+  <h1>Wygenerowaliśmy dla Ciebie menu!</h1>
+
+  <p class="lead">Oto twój jadłospis na 1 dzień. <br>Zachowaj go, lub wygeneruj nowy.</p>
+</div>
+
+<div class="row bottom-margin">
+  <div class="row bottom-margin">
+    <%= render :partial => "pages/generator_form" %>
+  </div>
+
+  <div class="row bottom-margin">
+    <div class="text-center">
+      <%= link_to('ZAPISZ', save_path(@menu), class: "btn btn-success btn-lg", style: "text-center") %>
     </div>
-<%end%>
+  </div>
+</div>
+
+<div class="menu">
+  <% @menu.recipes.each_with_index do |recipe, index| %>
+      <% puts recipe %>
+      <div class="row">
+        <div class="heading"><%= "#{index_to_category index} (#{recipe.calories} kcal)" %></div>
+        <hr>
+        <%= render "recipe", :recipe => recipe %>
+      </div>
+  <% end %>
 </div>
 
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-<%= link_to 'Back', menus_path, class: "btn btn-default" %>
+    <%= link_to 'Back', menus_path, class: "btn btn-default" %>
 
     <%= link_to 'Zapisz', save_path(:menu => @menu), method: "post", class: "btn btn-success" %>
   </div>
-  </div>
+</div>
 

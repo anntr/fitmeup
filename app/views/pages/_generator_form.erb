@@ -1,0 +1,13 @@
+<%= form_tag controller: 'menus', action: 'generate' do %>
+    <div class="input-group input-group-lg col-md-6 col-md-offset-3">
+      <%= label_tag(:calories, "Ustal dietę na:", class: "input-group-addon") %>
+      <%= number_field_tag(:calories, 1500, within: 1300..2500, step: 100, class: "form-control") %>
+      <span class="input-group-addon"> kcal</span>
+    </div>
+    <div class="text-center">
+      <br>
+      <%= button_tag(type: 'submit', class: "btn btn-primary btn-lg btn-action") do %>
+          GENERUJ <span class='glyphicon glyphicon-random'/>
+      <% end %>
+    </div>
+<% end %>

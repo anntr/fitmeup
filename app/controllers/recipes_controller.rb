@@ -65,7 +65,6 @@ class RecipesController < ApplicationController
       flash.now[:error] = "Musisz dodać conajmniej jeden składnik"
       render :new and return
     end
-    @recipe.calculate_calories
     @recipe.user = current_user
     if params[:private] == "1"
       @recipe.private = true
@@ -96,7 +95,7 @@ class RecipesController < ApplicationController
         flash.now[:error] = "Musisz dodać conajmniej jeden składnik"
         render :edit and return
       end
-      @recipe.calculate_calories
+
       @recipe.user = current_user
       if params[:private] == "1"
         @recipe.private = true

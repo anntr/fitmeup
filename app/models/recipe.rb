@@ -16,15 +16,12 @@ class Recipe < ActiveRecord::Base
   validates :instructions, length: { maximum: 3000 }
 
   after_validation :uncheck_ingredients
+  before_save :calculate_calories
 
   scope :any_category, -> (category){where(" ? = ANY(category)", category).where(:private => false)}
   scope :user_recipes, lambda { |curr_user|
                        where(:user => curr_user)
                      }
-
-  def image_attached?
-    self.image.file?
-  end
 
   def calculate_calories
     total_value = 0
@@ -33,6 +30,7 @@ class Recipe < ActiveRecord::Base
     end
     self.calories = total_value.round / servings
   end
+
 
   def self.sort_for_algorithm
     all_recipes = Recipe.where("calories > 0")
