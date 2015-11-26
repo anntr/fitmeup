@@ -1,28 +1,19 @@
 <div class="container">
 
-<div id="menu">
+  <h2>Wygeneruj nowe menu</h2>
+  <div class="row bottom-margin">
+    <%= render :partial => "pages/generator_form" %>
+  </div>
 
-</div>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="3">Przygotowane menu</th>
-    </tr>
-  </thead>
-
-  <tbody>
+  <h2>Twoje zapisane menu</h2>
+  <% if @menus.blank? %>
+      <p class="lead">Nie masz zapisanych jadłospisów</p>
+      <%else%>
+  <div class="list-group">
     <% @menus.each do |menu| %>
-      <tr>
-        <td><%= link_to 'Show', menu %></td>
-        <td><%= link_to 'Edit', edit_menu_path(menu) %></td>
-        <td><%= link_to 'Destroy', menu, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
+        <%= link_to "Jadłospis #{menu.created_at.strftime("%m/%d/%Y, %I:%M%p")}", menu, class: "list-group-item" %>
     <% end %>
-  </tbody>
-</table>
-
-<br>
-
-<%= link_to 'New Menu', new_menu_path %>
+  </div>
+      <%end%>
 </div>

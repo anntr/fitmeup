@@ -8,7 +8,7 @@ class MenusController < ApplicationController
   # GET /menus
   # GET /menus.json
   def index
-    @menus = Menu.all
+    @menus = Menu.saved_menus(current_user)
   end
 
   # GET /menus/1
@@ -26,7 +26,10 @@ class MenusController < ApplicationController
   end
 
   def save
-    menu.save!
+    @menu = Menu.find(params[:format])
+    @menu.saved = true
+    @menu.save!
+    flash.now[:notice] = "Menu zostało zapisane"
     render "show"
   end
 
@@ -42,8 +45,11 @@ class MenusController < ApplicationController
       laboratory = Laboratory.new scientist, database, 500
       res = laboratory.produce_result
      @menu = parse_results(res.first.chromosome_set)
+    if current_user
+      @menu.user = current_user
+    end
     @menu.save!
-    render "show"
+    render "menus/show"
   end
 
   # POST /menus

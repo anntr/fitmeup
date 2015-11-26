@@ -9,16 +9,18 @@
     <%= render :partial => "pages/generator_form" %>
   </div>
 
-  <div class="row bottom-margin">
+  <% if current_user %>
+      <% if !@menu.saved %>
+      <div class="row bottom-margin">
     <div class="text-center">
-      <%= link_to('ZAPISZ', save_path(@menu), class: "btn btn-success btn-lg", style: "text-center") %>
+      <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
     </div>
   </div>
+    <%end%>
 </div>
 
 <div class="menu">
   <% @menu.recipes.each_with_index do |recipe, index| %>
-      <% puts recipe %>
       <div class="row">
         <div class="heading"><%= "#{index_to_category index} (#{recipe.calories} kcal)" %></div>
         <hr>
@@ -26,13 +28,15 @@
       </div>
   <% end %>
 </div>
+  <%else%>
+      <div class="row">
+        <div class="text-center">
+          <h1>Zalogowani mogą więcej!</h1>
+          <p class="lead">Chciałbyś drukować przepisy, listy zakupów? Komentować i oceniać?</p>
+          <%= link_to "Zarejestruj się teraz!", new_user_path, class: "btn btn-primary" %>
 
+        </div>
+      </div>
+  <%end%>
 
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <%= link_to 'Back', menus_path, class: "btn btn-default" %>
-
-    <%= link_to 'Zapisz', save_path(:menu => @menu), method: "post", class: "btn btn-success" %>
-  </div>
-</div>
 
