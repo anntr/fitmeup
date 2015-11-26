@@ -10,7 +10,7 @@
   </div>
 
   <% if current_user %>
-      <% if @menu.saved == false %>
+      <% unless @menu.saved? %>
       <div class="row bottom-margin">
     <div class="text-center">
       <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>

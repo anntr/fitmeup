@@ -5,4 +5,8 @@ class Menu < ActiveRecord::Base
   scope :saved_menus, lambda { |curr_user|
                           where(:user => curr_user, :saved => true)}
 
+
+  def saved?
+    saved
+  end
 end
