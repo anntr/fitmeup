@@ -154,14 +154,12 @@ class RecipesController < ApplicationController
                                  :normal => "public/assets/fonts/arial.ttf"})
         font "Arial"
         text "Wygenerowano ze strony FitMeUp"
-        text "#{Date.new}"
         move_down 100
         stroke_horizontal_rule
         pad_bottom(20) {
           font_size(25) { text recipe.name }
           move_down 20
           default_leading 5
-          text recipe.instructions
           recipe.ingredients.each do |ingredient|
             if ingredient.product
               text "#{ingredient.product.name_t}, #{ingredient.modifier} #{ingredient.measure.unit_t}"
@@ -169,9 +167,11 @@ class RecipesController < ApplicationController
               text "#{ingredient.item}, #{ingredient.modifier} gram"
             end
           end
+          text recipe.instructions
         }
       end.render
     end
+  
     def add_ingredients params
       ingredients = []
       params.each do |key, value|
