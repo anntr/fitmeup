@@ -12,7 +12,7 @@
       <%else%>
   <div class="list-group">
     <% @menus.each do |menu| %>
-        <%= link_to "Jadłospis #{menu.created_at.strftime("%m/%d/%Y, %I:%M%p")}", menu, class: "list-group-item" %>
+        <%= link_to "Jadłospis #{parse_create_time menu.created_at}", menu, class: "list-group-item" %>
     <% end %>
   </div>
       <%end%>

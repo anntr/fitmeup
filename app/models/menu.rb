@@ -3,7 +3,7 @@ class Menu < ActiveRecord::Base
   belongs_to :user
 
   scope :saved_menus, lambda { |curr_user|
-                          where(:user => curr_user, :saved => true)}
+                          where(:user => curr_user, :saved => true).order(created_at: :desc)}
 
 
   def saved?

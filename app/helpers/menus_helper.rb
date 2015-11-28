@@ -16,4 +16,11 @@ module MenusHelper
         ""
     end
   end
+
+  def parse_create_time date
+    unless date.dst?
+      date += 1.hours
+    end
+    date.strftime("%m/%d/%Y, %I:%M%p")
+  end
 end
