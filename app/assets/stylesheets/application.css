@@ -250,3 +250,16 @@ a:hover{
 .menu .details{
     padding-left: 0;
 }
+
+.menu .row{
+    position: relative;
+}
+
+.menu .go-to{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+    float: right;
+}
+

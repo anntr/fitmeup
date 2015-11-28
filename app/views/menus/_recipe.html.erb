@@ -29,3 +29,4 @@
     <p><%= truncate(recipe.instructions, length: 300, separator: ' ') %></p>
   </div>
 </div>
+<%= link_to 'Idź do', recipe_path(recipe), class: "btn btn-default go-to", method: :get %>
