@@ -19,7 +19,7 @@
                mes = "gram" if mes.blank?
             %>
             <span><%= prod %></span>
-            <span style="float: right"><%= "#{ingredient.modifier} #{mes}" %></span>
+            <span style="float: right; font-style: italic"><%= "#{ingredient.modifier} #{mes}" %></span>
           </li>
       <%end%>
     </ul>

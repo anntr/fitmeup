@@ -6886,6 +6886,9 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
  */
 
 
+body{
+    font-family: 'Roboto', sans-serif;!important;
+}
 
 .ui-autocomplete {
     position: absolute;
@@ -6953,9 +6956,6 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
     cursor: pointer;
 }
 
-body{
-    font-family: 'Roboto', sans-serif;
-}
 .fitmeup-nav {
     background-color: white;
     border: none;
@@ -7120,3 +7120,21 @@ a:hover{
 .menu .details{
     padding-left: 0;
 }
+
+.menu .row{
+    position: relative;
+}
+
+.menu .row li{
+    overflow: overlay;
+    overflow-wrap: break-word;
+}
+
+.menu .go-to{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+    float: right;
+}
+

@@ -255,6 +255,11 @@ a:hover{
     position: relative;
 }
 
+.menu .row li{
+    overflow: overlay;
+    overflow-wrap: break-word;
+}
+
 .menu .go-to{
     position: absolute;
     right: 0;
