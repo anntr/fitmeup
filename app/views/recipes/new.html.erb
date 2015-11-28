@@ -1,15 +1,16 @@
 <div class="container">
-<div class="row">
-  <div class="jumbotron text-center banner new_recipe">
-    <div class="motto">
-      <h1>Stwórz przepis</h1>
+  <div class="row">
+    <div class="jumbotron text-center banner new_recipe">
+      <div class="motto">
+        <h1>Stwórz przepis</h1>
+      </div>
     </div>
   </div>
-</div>
-<div class="row">
-  <div class="col-md-8 col-md-offset-2 panel panel-default">
+  <%= link_to 'Powrót', recipes_path, class: "btn btn-default" %>
+
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 panel panel-default">
       <%= render 'form' %>
-    <%= link_to 'Powrót', recipes_path %>
+    </div>
   </div>
-</div>
 </div>

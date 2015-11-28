@@ -1,9 +1,15 @@
-<div class="row">
-  <h1>Edytuj przepis</h1>
-
-  <div class="col-md-6 col-md-offset-3 panel panel-default">
-    <%= render 'form' %>
-    <%= link_to 'Powrót', recipes_path %>
+<div class="container">
+  <div class="row">
+    <div class="jumbotron text-center banner new_recipe">
+      <div class="motto">
+        <h1>Edytuj przepis</h1>
+      </div>
+    </div>
+  </div>
+  <%= link_to 'Powrót', recipe_path(@recipe), class: "btn btn-default" %>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 panel panel-default">
+      <%= render 'form' %>
+    </div>
   </div>
 </div>
-
