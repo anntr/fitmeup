@@ -1,56 +1,53 @@
 <div class="container">
-<div class="row">
-  <div class="jumbotron text-center banner recipes">
-    <div class="discover">
-      <h1>Odkrywaj przepisy</h1>
+  <div class="row">
+    <div class="jumbotron text-center banner recipes">
+      <div class="discover">
+        <h1>Odkrywaj przepisy</h1>
+      </div>
     </div>
   </div>
+
+  <div class="row">
+    <ul class="nav nav-pills" role="tablist">
+      <li role="presentation">
+        <%= link_to recipes_path, remote: true do %>
+            Wszystkie <span class="badge"><%= Recipe.where(:private => false).count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:any_category => "1"), :remote => true do %>
+            Śniadania <span class="badge"><%= Recipe.any_category("1").count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:any_category => "2"), :remote => true do %>
+            Drugie śniadania <span class="badge"><%= Recipe.any_category("2").count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:any_category => "3"), :remote => true do %>
+            Obiady <span class="badge"><%= Recipe.any_category("3").count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:any_category => "4"), :remote => true do %>
+            Przekąski <span class="badge"><%= Recipe.any_category("4").count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:any_category => "1"), :remote => true do %>
+            Kolacje <span class="badge"><%= Recipe.any_category("5").count %></span>
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%= link_to recipes_path(:user_recipes => current_user), :remote => true do %>
+            Twoje przepisy <span class="badge"><%= Recipe.where(:user => current_user).count %></span>
+        <% end %>
+      </li>
+
+    </ul>
 </div>
-
-<div class="row">
-  <ul class="nav nav-pills" role="tablist">
-    <li role="presentation">
-      <%= link_to recipes_path, remote: true do %>
-        Wszystkie <span class="badge"><%= Recipe.where(:private => false).count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:any_category => "1"), :remote => true do%>
-        Śniadania <span class="badge"><%= Recipe.any_category("1").count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:any_category => "2"), :remote => true do%>
-          Drugie śniadania <span class="badge"><%= Recipe.any_category("2").count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:any_category => "3"), :remote => true do%>
-          Obiady <span class="badge"><%= Recipe.any_category("3").count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:any_category => "4"), :remote => true do%>
-          Przekąski <span class="badge"><%= Recipe.any_category("4").count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:any_category => "1"), :remote => true do%>
-          Kolacje <span class="badge"><%= Recipe.any_category("5").count %></span>
-      <%end%>
-    </li>
-    <li role="presentation">
-      <%= link_to recipes_path(:user_recipes => current_user), :remote => true do%>
-          Twoje przepisy <span class="badge"><%= Recipe.where(:user => current_user).count %></span>
-      <%end%>
-    </li>
-
-  </ul>
-
-  <div class="row recipes" id="recipes"><%= render "recipes", :collection => @recipes  %></div>
-
-  <%= paginate @recipes %>
+  <div  id="recipes"><%= render "recipes", :collection => @recipes %></div>
 
 
-</div>
 </div>

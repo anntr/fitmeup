@@ -1,3 +1,4 @@
+<div class="row recipes">
 <% @recipes.each do |recipe| %>
     <div class="item recipe">
       <%= link_to recipe_path(recipe) do %>
@@ -19,6 +20,15 @@
           <%end%>
     </div>
 <% end %>
+</div>
+
+<div class="col-sm-12 text-center">
+<% unless @recipes.first_page? && @recipes.last_page? %>
+    <%= paginate @recipes %>
+<%end%>
+  </div>
+
+
 
 
 

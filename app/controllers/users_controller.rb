@@ -30,7 +30,7 @@ class UsersController < ApplicationController
     respond_to do |format|
       if @user.save
         session[:user_id] = @user.id
-        format.html { redirect_to root_path, success: 'Rejestracja przebiegła pomyślnie!' }
+        format.html { redirect_to root_path, notice: 'Rejestracja przebiegła pomyślnie!' }
         format.json { render :show, status: :created, location: @user }
       else
         format.html { render :new, alert: "Nie udało się zarejestrować użytkownika" }
