@@ -16,6 +16,9 @@
  *= require bootstrap
  */
 
+body{
+    font-family: 'Roboto', sans-serif;!important;
+}
 
 .ui-autocomplete {
     position: absolute;
@@ -83,9 +86,6 @@
     cursor: pointer;
 }
 
-body{
-    font-family: 'Roboto', sans-serif;
-}
 .fitmeup-nav {
     background-color: white;
     border: none;
