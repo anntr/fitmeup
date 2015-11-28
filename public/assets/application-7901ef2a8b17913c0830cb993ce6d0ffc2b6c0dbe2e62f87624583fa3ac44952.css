@@ -7121,12 +7121,24 @@ a:hover{
     padding-left: 0;
 }
 
+.menu .row{
+    position: relative;
+}
+
+.menu .row li{
+    overflow: overlay;
+    overflow-wrap: break-word;
+}
+
 .menu .go-to{
     position: absolute;
     right: 0;
     bottom: 0;
+    margin: 10px;
+    float: right;
 }
 
-.menu.row{
-    postion: relative;
+.comments .panel .panel-body{
+    overflow-wrap: break-word;
+    
 }

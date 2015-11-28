@@ -268,3 +268,7 @@ a:hover{
     float: right;
 }
 
+.comments .panel .panel-body{
+    overflow-wrap: break-word;
+    
+}
