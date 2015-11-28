@@ -26,6 +26,6 @@
   </div>
   <div class="col-md-6 details">
     <h2>Instrukcja</h2>
-    <p><%= truncate(recipe.instructions) %></p>
+    <p><%= truncate(recipe.instructions, length: 300, separator: ' ') %></p>
   </div>
 </div>
