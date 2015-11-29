@@ -5,7 +5,7 @@
           <% name = f.object.item %>
           <% name = f.object.product.name_t if f.object.product %>
           <%= item.autocomplete_field :name, autocomplete_product_name_t_recipes_path,
-                                      placeholder: "Produkt", class: "form-control input-sm ingredient", value: name, :update_elements => {} %>
+                                      placeholder: "Produkt", class: "form-control input-sm ingredient", value: name, :update_elements => {}, :append_to => "#znikaj" %>
       <% end %>
     </div>
 

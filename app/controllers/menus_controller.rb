@@ -25,6 +25,16 @@ class MenusController < ApplicationController
   def edit
   end
 
+  def print_menu
+    @menu = Menu.find(params[:id])
+    send_data(@menu.to_pdf, :filename => "#{@menu.created_at}.pdf", :type => "application/pdf")
+  end
+
+  def print_shopping
+    @menu = Menu.find(params[:id])
+    send_data(@menu.shopping_list_pdf, :filename => "#{@menu.created_at}-lista-zakupow.pdf", :type => "application/pdf")
+  end
+
   def save
     @menu = Menu.find(params[:format])
     @menu.saved = true

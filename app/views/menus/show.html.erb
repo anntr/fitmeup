@@ -10,15 +10,18 @@
   </div>
 
   <% if current_user %>
-      <% unless @menu.saved? %>
       <div class="row bottom-margin">
-    <div class="text-center">
-      <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
-    </div>
-  </div>
-    <%end%>
+        <div class="text-center">
+          <% unless @menu.saved? %>
+              <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
+          <% end %>
+          <%= link_to 'drukuj przepisy', print_menu_menu_path(@menu), method: :get, class: "btn btn-default" %>
+          <%# link_to 'drukuj listę zakupów', print_shopping_menu_path(@menu), method: :get, class: "btn btn-default" %>
+
+        </div>
+      </div>
+  <% end %>
 </div>
-      <%end%>
 
 <div class="menu">
   <% @menu.recipes.each_with_index do |recipe, index| %>
@@ -30,15 +33,16 @@
 
   <% end %>
 </div>
-  <%unless current_user%>
-      <div class="row">
-        <div class="text-center">
-          <h1>Zalogowani mogą więcej!</h1>
-          <p class="lead">Chcesz drukować przepisy, listy zakupów? Komentować i oceniać?</p>
-          <%= link_to "Zarejestruj się teraz!", new_user_path, class: "btn btn-primary" %>
+<% unless current_user %>
+    <div class="row">
+      <div class="text-center">
+        <h1>Zalogowani mogą więcej!</h1>
 
-        </div>
+        <p class="lead">Chcesz drukować przepisy, listy zakupów? Komentować i oceniać?</p>
+        <%= link_to "Zarejestruj się teraz!", new_user_path, class: "btn btn-primary" %>
+
       </div>
-  <%end%>
+    </div>
+<% end %>
 
 

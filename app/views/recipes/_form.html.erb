@@ -65,7 +65,7 @@
       </div>
   <% end %>
 </div>
-
+<div id="znikaj">kurwa</div>
 
 <script>
     $('#products').on('railsAutocomplete.select', '.ingredient', function () {
@@ -84,6 +84,21 @@
                         .attr("value", value).text(value));
             });
         })
+    });
+
+    $('#products').on('railsAutocomplete.change', '.ingredient', function (event, ui) {
+
+        alert ("A PUERDOLE")
+        return false;
+
+    });
+
+
+    $('#products').on('railsAutocomplete.search', '.ingredient', function (event, ui) {
+
+        alert ("A PUERDOLE")
+        return false;
+
     });
 </script>
 
