@@ -16,7 +16,7 @@
               <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
           <% end %>
           <%= link_to 'drukuj przepisy', print_menu_menu_path(@menu), method: :get, class: "btn btn-default" %>
-          <%# link_to 'drukuj listę zakupów', print_shopping_menu_path(@menu), method: :get, class: "btn btn-default" %>
+          <%= link_to 'drukuj listę zakupów', print_shopping_menu_path(@menu), method: :get, class: "btn btn-default" %>
 
         </div>
       </div>

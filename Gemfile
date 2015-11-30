@@ -60,3 +60,4 @@ gem 'acts_as_commentable'
 gem 'prawn'
 gem "responders"
 gem "kaminari"
+gem 'alchemist'
