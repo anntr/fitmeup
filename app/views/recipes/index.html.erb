@@ -44,8 +44,19 @@
             Twoje przepisy <span class="badge"><%= Recipe.where(:user => current_user).count %></span>
         <% end %>
       </li>
-
+      <div class="input-group">
+        <%= form_tag recipes_path, :method => :get, :remote => true, :class => "input-group" do %>
+            <%= text_field_tag :query, params[:query], class:"form-control", placeholder: "Szukaj po nazwie" %>
+            <span class="input-group-btn">
+            <%= submit_tag "x", class:"btn btn-default"%>
+          </span>
+        <% end %>
+      </div>
     </ul>
+
+
+
+
 </div>
   <div  id="recipes"><%= render "recipes", :collection => @recipes %></div>
 

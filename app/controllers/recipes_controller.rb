@@ -145,7 +145,7 @@ class RecipesController < ApplicationController
 
   # A list of the param names that can be used for filtering the Product list
   def filtering_params(params)
-    params.slice(:any_category, :user_recipes)
+    params.slice(:any_category, :user_recipes, :query)
   end
 
     def generate_pdf recipe

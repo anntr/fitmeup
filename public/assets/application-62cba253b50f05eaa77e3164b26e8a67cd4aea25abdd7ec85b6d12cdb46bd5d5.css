@@ -7125,6 +7125,11 @@ a:hover{
     position: relative;
 }
 
+.menu .row li{
+    overflow: overlay;
+    overflow-wrap: break-word;
+}
+
 .menu .go-to{
     position: absolute;
     right: 0;
@@ -7133,3 +7138,12 @@ a:hover{
     float: right;
 }
 
+.comments .panel .panel-body{
+    overflow-wrap: break-word;
+
+}
+
+
+.ui-helper-hidden-accessible{
+    display: none;
+}

@@ -58,7 +58,7 @@ class Menu < ActiveRecord::Base
     end.render
 
   end
-  
+
   def shopping_list
     list = {}
     self.recipes.each do |recipe|

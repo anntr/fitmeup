@@ -22,6 +22,7 @@ class Recipe < ActiveRecord::Base
   scope :user_recipes, lambda { |curr_user|
                        where(:user => curr_user)
                      }
+  scope :query, lambda { |query| where("name like ?", "%#{query}%")}
 
   def calculate_calories
     total_value = 0

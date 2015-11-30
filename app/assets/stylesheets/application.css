@@ -272,3 +272,8 @@ a:hover{
     overflow-wrap: break-word;
 
 }
+
+
+.ui-helper-hidden-accessible{
+    display: none;
+}
