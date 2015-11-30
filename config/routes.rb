@@ -6,7 +6,13 @@ Rails.application.routes.draw do
   get 'pages/about'
 
   resources :users
-  resources :menus
+  resources :menus do
+    member do
+      get 'print_menu', :defaults => { :format => 'pdf' }
+      get 'print_shopping', :defaults => { :format => 'pdf' }
+
+    end
+  end
 
   resources :products do
     get 'measures', to: 'products#measures', :on => :collection
