@@ -52,7 +52,7 @@ class MenusController < ApplicationController
         redirect_to root_path, notice: "za mała baza by wygenerować menu" and return
       end
     end
-      laboratory = Laboratory.new scientist, database, 500
+      laboratory = Laboratory.new scientist, database, 900
       res = laboratory.produce_result
      @menu = parse_results(res.first.chromosome_set)
     if current_user

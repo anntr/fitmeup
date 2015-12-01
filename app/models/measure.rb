@@ -5,4 +5,5 @@ class Measure < ActiveRecord::Base
     where(:unit => unit, :product_id => product_id).first
   end
 
+
 end

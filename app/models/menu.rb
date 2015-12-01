@@ -5,6 +5,37 @@ class Menu < ActiveRecord::Base
   scope :saved_menus, lambda { |curr_user|
                           where(:user => curr_user, :saved => true).order(created_at: :desc)}
 
+  def calculate_calories
+    total_cal = 0
+    recipes.each do |recipe|
+      total_cal += recipe.calculate_calories
+    end
+    total_cal
+  end
+
+  def calculate_lipids
+    total_cal = 0
+    recipes.each do |recipe|
+      total_cal += recipe.calculate_lipids
+    end
+    total_cal
+  end
+
+  def calculate_proteins
+    total_cal = 0
+    recipes.each do |recipe|
+      total_cal += recipe.calculate_proteins
+    end
+    total_cal
+  end
+
+  def calculate_carbs
+    total_cal = 0
+    recipes.each do |recipe|
+      total_cal += recipe.calculate_carbs
+    end
+    total_cal
+  end
 
   def saved?
     saved
@@ -50,11 +81,13 @@ class Menu < ActiveRecord::Base
       text "Wygenerowano ze strony FitMeUp"
       move_down 40
       stroke_horizontal_rule
+      font_size(9){
       list.each do |product, value|
-        move_down 20
+        move_down 10
         default_leading 5
-        text "#{product}, #{value} gram"
+        text "#{product}, #{value.round} gram"
       end
+      }
     end.render
 
   end

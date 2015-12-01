@@ -34,7 +34,7 @@
         <div class="col-md-4">
           <span>Ocena</span>
           <span class="big"><%= "#{@recipe.get_upvotes.size} / #{@recipe.get_downvotes.size}" %></span>
-          <span>Si! / Ne.</span>
+          <span>Tak! / Nie.</span>
         </div>
       </div>
     </div>
@@ -66,7 +66,7 @@
   <div class="row bottom-margin">
     <div class="col-md-offset-2 col-md-8">
       <h2>Przepis</h2>
-      <%= @recipe.instructions %>
+      <%= simple_format(@recipe.instructions) %>
     </div>
   </div>
 
@@ -74,13 +74,11 @@
     <div class="col-md-offset-2 col-md-8 text-center">
       <span class="glyphicon glyphicon-heart"></span>
       <h2>Podobał ci się ten przepis?</h2>
-      <%= link_to "Si !", upvote_recipe_path(@recipe), method: :put, class: "btn btn-success btn-xs" %>
-      <%= link_to "Ne .", downvote_recipe_path(@recipe), method: :put, class: "btn btn-default btn-xs" %>
+      <%= link_to "Tak!", upvote_recipe_path(@recipe), method: :put, class: "btn btn-success" %>
+      <%= link_to "Nie.", downvote_recipe_path(@recipe), method: :put, class: "btn btn-default" %>
     </div>
 
   </div>
-
-
 
 
   <div class="row bottom-margin comments">
@@ -120,6 +118,7 @@
         <div class="row">
           <div class="col-sm-2">
             <div class="thumbnail">
+
               <img class="img-responsive user-photo" src="http://lorempixel.com/90/90/cats/">
             </div>
           </div>

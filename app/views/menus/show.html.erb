@@ -5,15 +5,17 @@
 </div>
 
 <div class="row bottom-margin">
-  <div class="row bottom-margin">
-    <%= render :partial => "pages/generator_form" %>
-  </div>
+  <% unless @menu.saved? %>
+      <div class="row bottom-margin">
+        <%= render :partial => "pages/generator_form" %>
+      </div>
+  <% end %>
 
   <% if current_user %>
       <div class="row bottom-margin">
         <div class="text-center">
           <% unless @menu.saved? %>
-              <%= link_to('ZAPISZ', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
+              <%= link_to('zapisz', save_path(@menu), method: :post, class: "btn btn-success", style: "text-center") %>
           <% end %>
           <%= link_to 'drukuj przepisy', print_menu_menu_path(@menu), method: :get, class: "btn btn-default" %>
           <%= link_to 'drukuj listę zakupów', print_shopping_menu_path(@menu), method: :get, class: "btn btn-default" %>
@@ -21,7 +23,19 @@
         </div>
       </div>
   <% end %>
+
+  <div class="col-md-4">
+    <ul class="list-group">
+      <li class="list-group-item"><b>Całkowite wartości odżywcze jadłospisu</b></li>
+      <li  class="list-group-item">Kalorie: <span style="float:right;"><%= @menu.calculate_calories %> kcal</span> </li>
+      <li  class="list-group-item">Proteiny: <span style="float:right;"><%= @menu.calculate_proteins %> gram</span></li>
+      <li class="list-group-item">Tłuszcze: <span style="float:right;"><%= @menu.calculate_lipids %> gram</span></li>
+      <li class="list-group-item">Węglowodany: <span style="float:right;"><%= @menu.calculate_carbs %> gram</span></li>
+    </ul>
+  </div>
 </div>
+
+
 
 <div class="menu">
   <% @menu.recipes.each_with_index do |recipe, index| %>

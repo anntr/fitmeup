@@ -32,6 +32,31 @@ class Recipe < ActiveRecord::Base
     self.calories = total_value.round / servings
   end
 
+  def calculate_proteins
+    total_value = 0
+    ingredients.each do |ingredient|
+      total_value += ( ingredient.measure.proteins * ingredient.modifier ) if ingredient.product
+    end
+    total_value.round / servings
+  end
+
+  def calculate_lipids
+    total_value = 0
+    ingredients.each do |ingredient|
+      total_value += ( ingredient.measure.lipids * ingredient.modifier ) if ingredient.product
+    end
+    total_value.round / servings
+  end
+
+
+  def calculate_carbs
+    total_value = 0
+    ingredients.each do |ingredient|
+      total_value += ( ingredient.measure.carbs * ingredient.modifier ) if ingredient.product
+    end
+    total_value.round / servings
+  end
+
 
   def self.sort_for_algorithm
     all_recipes = Recipe.where("calories > 0")

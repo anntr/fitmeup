@@ -41,7 +41,7 @@ class RecipesController < ApplicationController
       redirect_to(@recipe, notice: "Oddałeś już swój głos na ten przepis")
     else
       @recipe.liked_by current_user
-      redirect_to(@recipe, notice: "Twoje Si! zostało dodane")
+      redirect_to(@recipe, notice: "Twoje Tak! zostało dodane")
     end
   end
 
@@ -51,7 +51,7 @@ class RecipesController < ApplicationController
       redirect_to(@recipe, notice: "Oddałeś już swój głos na ten przepis")
     else
       @recipe.downvote_from current_user
-      redirect_to(@recipe, notice: "Twoje Ne. zostało dodane")
+      redirect_to(@recipe, notice: "Twoje Nie. zostało dodane")
     end
   end
 
