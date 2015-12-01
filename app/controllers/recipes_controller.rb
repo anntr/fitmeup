@@ -5,11 +5,14 @@ class RecipesController < ApplicationController
 
   # GET /recipes.json
   def index
-    @recipes = Recipe.page(params[:page]).per(20)
+    @recipes = Recipe.order(:created_at).page(params[:page]).per(20)
 
     filtering_params(params).each do |key, value|
       @recipes = @recipes.public_send(key, value) if value.present?
     end
+
+    @recipes.order! 'created_at DESC'
+
 
     respond_to do |format|
       format.js
@@ -132,7 +135,7 @@ class RecipesController < ApplicationController
   def destroy
     @recipe.destroy
     respond_to do |format|
-      format.html { redirect_to recipes_url, notice: 'Recipe was successfully destroyed.' }
+      format.html { redirect_to recipes_url, notice: 'Przepis został usunięty' }
       format.json { head :no_content }
     end
   end

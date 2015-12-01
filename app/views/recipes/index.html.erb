@@ -48,9 +48,11 @@
         <%= form_tag recipes_path, :method => :get, :remote => true, :class => "input-group" do %>
             <%= text_field_tag :query, params[:query], class:"form-control", placeholder: "Szukaj po nazwie" %>
             <span class="input-group-btn">
-            <%= submit_tag "x", class:"btn btn-default"%>
+              <%= button_tag(:class => "btn btn-default") do %>
+                <span class="glyphicon glyphicon-search" />
+              <% end %>
           </span>
-        <% end %>
+            <%end%>
       </div>
     </ul>
 
