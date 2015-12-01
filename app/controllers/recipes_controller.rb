@@ -8,11 +8,11 @@ class RecipesController < ApplicationController
     @recipes = Recipe.order(:created_at).page(params[:page]).per(20)
 
     filtering_params(params).each do |key, value|
-      @recipes = @recipes.public_send(key, value) if value.present?
+        @recipes = @recipes.public_send(key, value) if value.present?
     end
-
-    @recipes.order! 'created_at DESC'
-
+    unless params[:user_recipes]
+      @recipes = @recipes.public_recipes
+    end
 
     respond_to do |format|
       format.js

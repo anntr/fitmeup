@@ -35,13 +35,13 @@
         <% end %>
       </li>
       <li role="presentation">
-        <%= link_to recipes_path(:any_category => "1"), :remote => true do %>
+        <%= link_to recipes_path(:any_category => "5"), :remote => true do %>
             Kolacje <span class="badge"><%= Recipe.any_category("5").count %></span>
         <% end %>
       </li>
       <li role="presentation">
         <%= link_to recipes_path(:user_recipes => current_user), :remote => true do %>
-            Twoje przepisy <span class="badge"><%= Recipe.where(:user => current_user).count %></span>
+            Twoje przepisy <span class="badge"><%= Recipe.user_recipes(current_user).count %></span>
         <% end %>
       </li>
       <div class="input-group">

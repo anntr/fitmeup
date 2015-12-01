@@ -20,10 +20,11 @@ class Recipe < ActiveRecord::Base
 
   scope :any_category, -> (category){where(" ? = ANY(category)", category).where(:private => false)}
   scope :user_recipes, lambda { |curr_user|
-                       where(:user => curr_user)
+                        where(:user => curr_user)
                      }
   scope :query, lambda { |query| where("name like ?", "%#{query}%")}
 
+  scope :public_recipes, -> {where(:private => false)}
   def calculate_calories
     total_value = 0
     ingredients.each do |ingredient|
